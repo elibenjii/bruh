@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #1512",
+  "description": 1512,
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ice Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #6367",
+  "description": 6367,
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fist",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

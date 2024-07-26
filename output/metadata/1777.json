@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #1777",
+  "description": 1777,
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shoulder Strap",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

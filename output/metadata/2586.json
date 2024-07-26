@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2586",
+  "description": 2586,
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bandito",
+      "trait_type": "Accessory"
+    }
+  ]
+}

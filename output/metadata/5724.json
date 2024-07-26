@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5724",
+  "description": 5724,
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Funky",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

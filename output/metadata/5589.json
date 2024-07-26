@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5589",
+  "description": 5589,
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bob",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #882",
+  "description": 882,
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Toxic Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

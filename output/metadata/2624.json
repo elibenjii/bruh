@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2624",
+  "description": 2624,
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pork BBQ",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Purple Space Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

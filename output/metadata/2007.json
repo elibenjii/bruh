@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2007",
+  "description": 2007,
+  "attributes": [
+    {
+      "value": "Not Sure",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Flying Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Alien Brand",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
+    }
+  ]
+}

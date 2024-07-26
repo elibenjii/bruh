@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3060",
+  "description": 3060,
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lollipop",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Terrorist",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

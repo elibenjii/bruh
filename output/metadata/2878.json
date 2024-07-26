@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #2878",
+  "description": 2878,
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GMO Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    }
+  ]
+}

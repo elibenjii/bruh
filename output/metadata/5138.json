@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5138",
+  "description": 5138,
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Lumberjack",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Gray Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

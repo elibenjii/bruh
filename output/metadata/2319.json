@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2319",
+  "description": 2319,
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Italian Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ice Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

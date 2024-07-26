@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #2810",
+  "description": 2810,
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lollipop",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    }
+  ]
+}

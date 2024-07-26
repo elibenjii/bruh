@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #1855",
+  "description": 1855,
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Skelton Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

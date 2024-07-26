@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2984",
+  "description": 2984,
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

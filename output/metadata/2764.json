@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2764",
+  "description": 2764,
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bandito",
+      "trait_type": "Accessory"
+    }
+  ]
+}

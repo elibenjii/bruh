@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3764",
+  "description": 3764,
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Red",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

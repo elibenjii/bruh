@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5012",
+  "description": 5012,
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hot Dog",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1941",
+  "description": 1941,
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lucille Bat",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
+    }
+  ]
+}

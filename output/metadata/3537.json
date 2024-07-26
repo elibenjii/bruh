@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #3537",
+  "description": 3537,
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

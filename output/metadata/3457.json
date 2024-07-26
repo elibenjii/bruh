@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3457",
+  "description": 3457,
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Black Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

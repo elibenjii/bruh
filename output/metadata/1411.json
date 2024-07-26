@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1411",
+  "description": 1411,
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Skelton Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Crown",
+      "trait_type": "Accessory"
+    }
+  ]
+}

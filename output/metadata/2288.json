@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2288",
+  "description": 2288,
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

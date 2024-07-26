@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #4903",
+  "description": 4903,
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Heart",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
+    }
+  ]
+}

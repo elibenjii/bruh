@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #1749",
+  "description": 1749,
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Toxic Bomber",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
+      "trait_type": "Accessory"
+    }
+  ]
+}

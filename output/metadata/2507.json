@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2507",
+  "description": 2507,
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bread",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Black Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

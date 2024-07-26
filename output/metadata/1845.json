@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #1845",
+  "description": 1845,
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Futuristic Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
+    }
+  ]
+}

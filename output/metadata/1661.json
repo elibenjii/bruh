@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #1661",
+  "description": 1661,
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pink Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

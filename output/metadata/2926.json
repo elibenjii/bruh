@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2926",
+  "description": 2926,
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Retard Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Bomber",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

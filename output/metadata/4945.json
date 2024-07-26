@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #4945",
+  "description": 4945,
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Space Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

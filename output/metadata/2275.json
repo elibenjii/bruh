@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2275",
+  "description": 2275,
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

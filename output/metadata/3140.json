@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #3140",
+  "description": 3140,
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lollipop",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
+    }
+  ]
+}

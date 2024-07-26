@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3947",
+  "description": 3947,
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Electroman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

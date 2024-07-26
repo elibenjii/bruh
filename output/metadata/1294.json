@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1294",
+  "description": 1294,
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cute Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Black",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Beard",
+      "trait_type": "Accessory"
+    }
+  ]
+}

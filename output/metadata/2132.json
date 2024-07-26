@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2132",
+  "description": 2132,
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

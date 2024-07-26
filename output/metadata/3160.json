@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #3160",
+  "description": 3160,
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
+    }
+  ]
+}

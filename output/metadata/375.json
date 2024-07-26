@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #375",
+  "description": 375,
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cute Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Boredemon",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

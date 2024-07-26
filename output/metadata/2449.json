@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2449",
+  "description": 2449,
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Space Spinach",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Alien Brand",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Jason Mask",
+      "trait_type": "Accessory"
+    }
+  ]
+}

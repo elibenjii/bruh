@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #978",
+  "description": 978,
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Retard Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Gentleman",
+      "trait_type": "Body"
+    }
+  ]
+}

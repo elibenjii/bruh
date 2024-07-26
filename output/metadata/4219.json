@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #4219",
+  "description": 4219,
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Beer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Boston Dynamics Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #1789",
+  "description": 1789,
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Walter Face",
+      "trait_type": "Accessory"
+    }
+  ]
+}

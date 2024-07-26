@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3355",
+  "description": 3355,
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Nose Piercing",
+      "trait_type": "Accessory"
+    }
+  ]
+}

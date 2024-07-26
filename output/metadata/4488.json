@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4488",
+  "description": 4488,
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hot Dog",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Lezards",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Hell Boy Horn",
+      "trait_type": "Accessory"
+    }
+  ]
+}

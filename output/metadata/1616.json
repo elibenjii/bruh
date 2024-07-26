@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #1616",
+  "description": 1616,
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Hat Sheet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

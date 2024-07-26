@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5656",
+  "description": 5656,
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bandito",
+      "trait_type": "Accessory"
+    }
+  ]
+}

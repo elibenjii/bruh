@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3243",
+  "description": 3243,
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Terrorist",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
+    }
+  ]
+}

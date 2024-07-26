@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #4813",
+  "description": 4813,
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ghetto Jacket",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bob",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

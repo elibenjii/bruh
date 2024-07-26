@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #593",
+  "description": 593,
+  "attributes": [
+    {
+      "value": "Not Sure",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Buffed",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Jason Mask",
+      "trait_type": "Accessory"
+    }
+  ]
+}

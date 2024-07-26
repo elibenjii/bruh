@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1412",
+  "description": 1412,
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pink Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Thunberg Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

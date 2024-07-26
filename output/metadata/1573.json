@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #1573",
+  "description": 1573,
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ninja Turtle Mask",
+      "trait_type": "Accessory"
+    }
+  ]
+}

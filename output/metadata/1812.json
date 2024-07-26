@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #1812",
+  "description": 1812,
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

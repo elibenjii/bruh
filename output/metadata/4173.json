@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #4173",
+  "description": 4173,
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Alien Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

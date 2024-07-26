@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #6052",
+  "description": 6052,
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Agent Pepe Pistol",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2401",
+  "description": 2401,
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shoulder Strap",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pilot Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2594",
+  "description": 2594,
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Jason Mask",
+      "trait_type": "Accessory"
+    }
+  ]
+}

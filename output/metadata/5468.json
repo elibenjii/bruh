@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5468",
+  "description": 5468,
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic White",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pablo Escobar",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5303",
+  "description": 5303,
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Boxing Headgear",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2250",
+  "description": 2250,
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pork BBQ",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Black",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Walter Face",
+      "trait_type": "Accessory"
+    }
+  ]
+}

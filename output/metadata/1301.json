@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1301",
+  "description": 1301,
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5238",
+  "description": 5238,
+  "attributes": [
+    {
+      "value": "Not Sure",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pizza",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Straw",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #1831",
+  "description": 1831,
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lucille Bat",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Waterboy Soldier",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

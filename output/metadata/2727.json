@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2727",
+  "description": 2727,
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Waterboy Soldier",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bicycle Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

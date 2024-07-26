@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2665",
+  "description": 2665,
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Skelton Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pilot Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

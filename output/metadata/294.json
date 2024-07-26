@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #294",
+  "description": 294,
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hesitation",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

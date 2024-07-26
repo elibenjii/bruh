@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4977",
+  "description": 4977,
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Alien Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Weed",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
+    }
+  ]
+}

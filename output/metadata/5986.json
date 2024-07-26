@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5986",
+  "description": 5986,
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hulk",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hulk Body",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Jason Mask",
+      "trait_type": "Accessory"
+    }
+  ]
+}

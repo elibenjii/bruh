@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5094",
+  "description": 5094,
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Perfect Beard",
+      "trait_type": "Accessory"
+    }
+  ]
+}

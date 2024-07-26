@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3970",
+  "description": 3970,
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Electroman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

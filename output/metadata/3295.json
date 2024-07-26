@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3295",
+  "description": 3295,
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Bomber",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

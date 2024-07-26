@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #1587",
+  "description": 1587,
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cute Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Gentleman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

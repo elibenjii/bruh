@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5768",
+  "description": 5768,
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cozy Sweater",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2383",
+  "description": 2383,
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Purple Space Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

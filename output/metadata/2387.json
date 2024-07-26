@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2387",
+  "description": 2387,
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GMO Flower",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Skelton Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap With Pacifier",
+      "trait_type": "Accessory"
+    }
+  ]
+}

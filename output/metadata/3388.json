@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3388",
+  "description": 3388,
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Jason Mask",
+      "trait_type": "Accessory"
+    }
+  ]
+}

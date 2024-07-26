@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2187",
+  "description": 2187,
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Gray Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

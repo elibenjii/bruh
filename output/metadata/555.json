@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #555",
+  "description": 555,
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pokebong",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Orange Jacket",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pilot Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

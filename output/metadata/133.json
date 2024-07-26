@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #133",
+  "description": 133,
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Aladdin Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

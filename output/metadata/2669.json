@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2669",
+  "description": 2669,
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Italian Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Purple Space Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

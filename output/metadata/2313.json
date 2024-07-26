@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2313",
+  "description": 2313,
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Gray Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

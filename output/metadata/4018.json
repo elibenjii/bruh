@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4018",
+  "description": 4018,
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Nose Piercing",
+      "trait_type": "Accessory"
+    }
+  ]
+}

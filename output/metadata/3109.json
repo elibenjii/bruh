@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #3109",
+  "description": 3109,
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GMO Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
+    }
+  ]
+}

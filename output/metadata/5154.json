@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5154",
+  "description": 5154,
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hot Dog",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Nose Piercing",
+      "trait_type": "Accessory"
+    }
+  ]
+}

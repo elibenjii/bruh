@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #1733",
+  "description": 1733,
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Black",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
+    }
+  ]
+}

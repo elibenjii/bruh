@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #3129",
+  "description": 3129,
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GMO Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Bomber",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Walter Face",
+      "trait_type": "Accessory"
+    }
+  ]
+}

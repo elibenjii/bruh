@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3297",
+  "description": 3297,
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Terrorist",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Mustacho",
+      "trait_type": "Accessory"
+    }
+  ]
+}

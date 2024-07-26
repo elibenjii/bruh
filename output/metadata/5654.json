@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5654",
+  "description": 5654,
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pablo Escobar",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2255",
+  "description": 2255,
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

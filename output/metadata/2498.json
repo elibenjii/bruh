@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2498",
+  "description": 2498,
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Space Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

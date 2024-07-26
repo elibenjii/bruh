@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4489",
+  "description": 4489,
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

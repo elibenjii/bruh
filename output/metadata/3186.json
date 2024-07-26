@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #3186",
+  "description": 3186,
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Bomber",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2682",
+  "description": 2682,
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ice Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Purple Space Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

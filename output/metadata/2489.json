@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2489",
+  "description": 2489,
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Gentleman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bicycle Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

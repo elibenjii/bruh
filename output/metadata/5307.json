@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5307",
+  "description": 5307,
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pilot Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

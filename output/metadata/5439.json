@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5439",
+  "description": 5439,
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Weed",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bicycle Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

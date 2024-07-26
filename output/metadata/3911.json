@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3911",
+  "description": 3911,
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "White Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

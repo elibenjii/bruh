@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5352",
+  "description": 5352,
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Heart",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pablo Escobar",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1430",
+  "description": 1430,
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Crown",
+      "trait_type": "Accessory"
+    }
+  ]
+}

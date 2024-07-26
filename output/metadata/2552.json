@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2552",
+  "description": 2552,
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ice Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bandana",
+      "trait_type": "Accessory"
+    }
+  ]
+}

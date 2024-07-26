@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1190",
+  "description": 1190,
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

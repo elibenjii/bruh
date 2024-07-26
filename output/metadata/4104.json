@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4104",
+  "description": 4104,
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Mario",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Boxing Headgear",
+      "trait_type": "Accessory"
+    }
+  ]
+}

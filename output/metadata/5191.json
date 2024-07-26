@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5191",
+  "description": 5191,
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Beer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic White",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

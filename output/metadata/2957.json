@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2957",
+  "description": 2957,
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lollipop",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Bomber",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

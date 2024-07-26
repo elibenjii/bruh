@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4584",
+  "description": 4584,
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ghetto Jacket",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Crown",
+      "trait_type": "Accessory"
+    }
+  ]
+}

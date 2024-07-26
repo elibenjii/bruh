@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #1596",
+  "description": 1596,
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Space Spinach",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3314",
+  "description": 3314,
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Orange Headphone",
+      "trait_type": "Accessory"
+    }
+  ]
+}

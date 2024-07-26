@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4411",
+  "description": 4411,
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Lezards",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

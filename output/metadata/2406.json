@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2406",
+  "description": 2406,
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pork BBQ",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Black Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

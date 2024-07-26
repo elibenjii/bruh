@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2393",
+  "description": 2393,
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Waterboy Soldier",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Jason Mask",
+      "trait_type": "Accessory"
+    }
+  ]
+}

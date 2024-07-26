@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3755",
+  "description": 3755,
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Red",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    }
+  ]
+}

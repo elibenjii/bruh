@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #290",
+  "description": 290,
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shotgun Ammo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
+      "trait_type": "Accessory"
+    }
+  ]
+}

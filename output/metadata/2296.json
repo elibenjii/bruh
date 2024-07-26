@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2296",
+  "description": 2296,
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Waterboy Soldier",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
+    }
+  ]
+}

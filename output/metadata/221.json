@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #221",
+  "description": 221,
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shaolin Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

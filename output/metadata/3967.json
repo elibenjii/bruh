@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3967",
+  "description": 3967,
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Samourai",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
+    }
+  ]
+}

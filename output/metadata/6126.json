@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #6181",
+  "description": 6181,
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fist",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Chilling",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
+      "trait_type": "Accessory"
+    }
+  ]
+}

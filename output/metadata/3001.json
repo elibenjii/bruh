@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3001",
+  "description": 3001,
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Terrorist",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

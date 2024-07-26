@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2064",
+  "description": 2064,
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Toxic Bomber",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Straw",
+      "trait_type": "Accessory"
+    }
+  ]
+}

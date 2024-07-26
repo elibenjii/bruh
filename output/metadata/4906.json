@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #4906",
+  "description": 4906,
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Perfect Beard",
+      "trait_type": "Accessory"
+    }
+  ]
+}

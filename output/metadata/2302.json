@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2302",
+  "description": 2302,
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Skelton Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Mustacho",
+      "trait_type": "Accessory"
+    }
+  ]
+}

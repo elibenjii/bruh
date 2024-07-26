@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #4869",
+  "description": 4869,
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Steampunk Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
+    }
+  ]
+}

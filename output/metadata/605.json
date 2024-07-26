@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #605",
+  "description": 605,
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Jacket",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Boxing Headgear",
+      "trait_type": "Accessory"
+    }
+  ]
+}

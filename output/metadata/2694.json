@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2694",
+  "description": 2694,
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Flying Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Waterboy Soldier",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Black Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

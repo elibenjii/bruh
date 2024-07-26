@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #1800",
+  "description": 1800,
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

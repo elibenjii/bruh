@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4573",
+  "description": 4573,
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Frogger",
+      "trait_type": "Body"
+    },
+    {
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

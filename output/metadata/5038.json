@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5038",
+  "description": 5038,
+  "attributes": [
+    {
+      "value": "Not Sure",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
+    }
+  ]
+}

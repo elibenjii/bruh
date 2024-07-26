@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2256",
+  "description": 2256,
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

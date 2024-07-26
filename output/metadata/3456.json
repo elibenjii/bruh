@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3456",
+  "description": 3456,
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Croco Hood",
+      "trait_type": "Accessory"
+    }
+  ]
+}

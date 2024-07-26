@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #629",
+  "description": 629,
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lollipop Orange",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shaolin Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Croco Hood",
+      "trait_type": "Accessory"
+    }
+  ]
+}

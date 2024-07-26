@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #425",
+  "description": 425,
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Boxing",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Perfect Beard",
+      "trait_type": "Accessory"
+    }
+  ]
+}

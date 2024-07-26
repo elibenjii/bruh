@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #390",
+  "description": 390,
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shotgun Ammo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Walter Face",
+      "trait_type": "Accessory"
+    }
+  ]
+}

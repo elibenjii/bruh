@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2219",
+  "description": 2219,
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ice Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

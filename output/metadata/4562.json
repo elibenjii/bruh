@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4562",
+  "description": 4562,
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Alien Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Boston Dynamics Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    }
+  ]
+}

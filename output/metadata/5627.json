@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #5627",
+  "description": 5627,
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Walter Face",
+      "trait_type": "Accessory"
+    }
+  ]
+}

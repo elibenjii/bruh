@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5348",
+  "description": 5348,
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pizza",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Boxing Headgear",
+      "trait_type": "Accessory"
+    }
+  ]
+}

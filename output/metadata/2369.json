@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2369",
+  "description": 2369,
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shoulder Strap",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Croco Hood",
+      "trait_type": "Accessory"
+    }
+  ]
+}

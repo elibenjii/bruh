@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #160",
+  "description": 160,
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Mario",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

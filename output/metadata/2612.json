@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2612",
+  "description": 2612,
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Grenade Man",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bandana",
+      "trait_type": "Accessory"
+    }
+  ]
+}

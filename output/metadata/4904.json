@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #4904",
+  "description": 4904,
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pizza",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Heart",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Perfect Beard",
+      "trait_type": "Accessory"
+    }
+  ]
+}

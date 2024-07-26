@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #4718",
+  "description": 4718,
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4137",
+  "description": 4137,
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Boredemon Face",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1380",
+  "description": 1380,
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pork BBQ",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shoulder Strap",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bob",
+      "trait_type": "Accessory"
+    }
+  ]
+}

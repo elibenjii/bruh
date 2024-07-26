@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #5737",
+  "description": 5737,
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cozy Sweater",
+      "trait_type": "Body"
+    }
+  ]
+}

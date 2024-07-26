@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2460",
+  "description": 2460,
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Italian Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Black Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

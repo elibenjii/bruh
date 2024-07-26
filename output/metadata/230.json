@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #230",
+  "description": 230,
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gentleman",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Mario",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

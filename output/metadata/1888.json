@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #1888",
+  "description": 1888,
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Grenade Man",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Thunberg Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

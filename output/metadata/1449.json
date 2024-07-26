@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1449",
+  "description": 1449,
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Black",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

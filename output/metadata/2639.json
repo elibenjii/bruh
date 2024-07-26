@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2639",
+  "description": 2639,
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lucille Bat",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bicycle Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

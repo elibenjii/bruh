@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2200",
+  "description": 2200,
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pipe",
+      "trait_type": "Accessory"
+    }
+  ]
+}

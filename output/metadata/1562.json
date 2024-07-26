@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #1562",
+  "description": 1562,
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Alien Brand",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
+    }
+  ]
+}

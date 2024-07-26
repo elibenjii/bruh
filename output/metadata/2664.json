@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2664",
+  "description": 2664,
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Jason Mask",
+      "trait_type": "Accessory"
+    }
+  ]
+}

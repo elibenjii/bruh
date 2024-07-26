@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #4859",
+  "description": 4859,
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Beer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Space Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Straw",
+      "trait_type": "Accessory"
+    }
+  ]
+}

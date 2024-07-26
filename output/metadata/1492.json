@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1492",
+  "description": 1492,
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

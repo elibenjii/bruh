@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1953",
+  "description": 1953,
+  "attributes": [
+    {
+      "value": "Not Sure",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bread",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pink Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

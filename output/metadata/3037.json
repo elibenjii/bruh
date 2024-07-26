@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3037",
+  "description": 3037,
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lollipop",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    }
+  ]
+}

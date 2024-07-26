@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2403",
+  "description": 2403,
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Gentleman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Jason Mask",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #147",
+  "description": 147,
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Chilling",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pacifier",
+      "trait_type": "Accessory"
+    }
+  ]
+}

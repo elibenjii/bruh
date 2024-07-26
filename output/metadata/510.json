@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #510",
+  "description": 510,
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Orange Jacket",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Nose Piercing",
+      "trait_type": "Accessory"
+    }
+  ]
+}

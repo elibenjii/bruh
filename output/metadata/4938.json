@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #4938",
+  "description": 4938,
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Steampunk Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

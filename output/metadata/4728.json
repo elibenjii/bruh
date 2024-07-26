@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #4728",
+  "description": 4728,
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Heart",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
+    }
+  ]
+}

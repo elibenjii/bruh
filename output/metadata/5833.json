@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5833",
+  "description": 5833,
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cozy Sweater",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Purple Space Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

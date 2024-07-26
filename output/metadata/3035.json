@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3035",
+  "description": 3035,
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Retard Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Bomber",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

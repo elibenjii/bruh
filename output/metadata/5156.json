@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5156",
+  "description": 5156,
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Heart",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Green Headphone",
+      "trait_type": "Accessory"
+    }
+  ]
+}

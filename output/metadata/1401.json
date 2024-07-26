@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1401",
+  "description": 1401,
+  "attributes": [
+    {
+      "value": "Not Sure",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

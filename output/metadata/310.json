@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #310",
+  "description": 310,
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Mario",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bob",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4985",
+  "description": 4985,
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Heart",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ninja Turtle Mask",
+      "trait_type": "Accessory"
+    }
+  ]
+}

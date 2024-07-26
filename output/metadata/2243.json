@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2243",
+  "description": 2243,
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Black",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

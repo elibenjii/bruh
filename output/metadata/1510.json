@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #1510",
+  "description": 1510,
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Futuristic Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

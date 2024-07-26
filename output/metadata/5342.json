@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5342",
+  "description": 5342,
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Boston Dynamics Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Boredemon Face",
+      "trait_type": "Accessory"
+    }
+  ]
+}

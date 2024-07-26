@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #1557",
+  "description": 1557,
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Alien Brand",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Green Headphone",
+      "trait_type": "Accessory"
+    }
+  ]
+}

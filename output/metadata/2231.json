@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2231",
+  "description": 2231,
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bread",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Futuristic Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

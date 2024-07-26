@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #215",
+  "description": 215,
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Retard Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shotgun Ammo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Hobbo Hat",
+      "trait_type": "Accessory"
+    }
+  ]
+}

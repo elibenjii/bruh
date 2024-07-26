@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #2838",
+  "description": 2838,
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Terrorist",
+      "trait_type": "Body"
+    }
+  ]
+}

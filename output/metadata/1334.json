@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1334",
+  "description": 1334,
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gentleman Lucille Bat",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Toxic Bomber",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

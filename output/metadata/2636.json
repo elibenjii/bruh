@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2636",
+  "description": 2636,
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pork BBQ",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pink Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Jason Mask",
+      "trait_type": "Accessory"
+    }
+  ]
+}

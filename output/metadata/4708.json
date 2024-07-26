@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #4708",
+  "description": 4708,
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Alien Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic White",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
+    }
+  ]
+}

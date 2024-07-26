@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #1731",
+  "description": 1731,
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Space Spinach",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

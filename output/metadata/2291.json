@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2291",
+  "description": 2291,
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Toxic Bomber",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
+    }
+  ]
+}

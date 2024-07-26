@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4632",
+  "description": 4632,
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pizza",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Boston Dynamics Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

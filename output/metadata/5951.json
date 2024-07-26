@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5951",
+  "description": 5951,
+  "attributes": [
+    {
+      "value": "Not Sure",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hulk",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hulk Body",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Straw",
+      "trait_type": "Accessory"
+    }
+  ]
+}

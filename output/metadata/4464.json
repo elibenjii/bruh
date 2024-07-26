@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4464",
+  "description": 4464,
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Weed",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Beard",
+      "trait_type": "Accessory"
+    }
+  ]
+}

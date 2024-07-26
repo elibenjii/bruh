@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #4743",
+  "description": 4743,
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic White",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

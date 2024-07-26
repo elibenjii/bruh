@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4472",
+  "description": 4472,
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

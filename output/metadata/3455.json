@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3455",
+  "description": 3455,
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bandana",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #6349",
+  "description": 6349,
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Space Weed",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Space Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Space Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

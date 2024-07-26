@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2308",
+  "description": 2308,
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Gentleman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

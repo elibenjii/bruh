@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2558",
+  "description": 2558,
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pork BBQ",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Waterboy Soldier",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap With Pacifier",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5222",
+  "description": 5222,
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Straw",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3458",
+  "description": 3458,
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bandana",
+      "trait_type": "Accessory"
+    }
+  ]
+}

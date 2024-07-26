@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #2907",
+  "description": 2907,
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Terrorist",
+      "trait_type": "Body"
+    }
+  ]
+}

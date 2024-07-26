@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1091",
+  "description": 1091,
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Flying Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Gentleman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

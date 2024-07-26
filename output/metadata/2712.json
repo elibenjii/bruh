@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2712",
+  "description": 2712,
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Croco Hood",
+      "trait_type": "Accessory"
+    }
+  ]
+}

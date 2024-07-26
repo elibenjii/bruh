@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5497",
+  "description": 5497,
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic White",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Jason Mask",
+      "trait_type": "Accessory"
+    }
+  ]
+}

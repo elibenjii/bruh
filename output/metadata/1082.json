@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1082",
+  "description": 1082,
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pork BBQ",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Crown",
+      "trait_type": "Accessory"
+    }
+  ]
+}

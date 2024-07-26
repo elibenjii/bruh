@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4006",
+  "description": 4006,
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Electroman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pipe",
+      "trait_type": "Accessory"
+    }
+  ]
+}

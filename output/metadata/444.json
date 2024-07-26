@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #444",
+  "description": 444,
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Orange Jacket",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Green Headphone",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #6088",
+  "description": 6088,
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Agent Pepe Pistol",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Croco Hood",
+      "trait_type": "Accessory"
+    }
+  ]
+}

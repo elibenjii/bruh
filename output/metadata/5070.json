@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5070",
+  "description": 5070,
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Alien Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Frogger",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Gray Aviator Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

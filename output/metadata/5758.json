@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5758",
+  "description": 5758,
+  "attributes": [
+    {
+      "value": "Not Sure",
+      "trait_type": "Head"
+    },
+    {
+      "value": "",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cozy Sweater",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    }
+  ]
+}

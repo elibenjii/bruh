@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2012",
+  "description": 2012,
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Space Spinach",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

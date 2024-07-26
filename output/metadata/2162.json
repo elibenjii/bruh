@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2162",
+  "description": 2162,
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
+    }
+  ]
+}

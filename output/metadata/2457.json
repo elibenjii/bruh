@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2457",
+  "description": 2457,
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Purple Space Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

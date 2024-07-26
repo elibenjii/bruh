@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2509",
+  "description": 2509,
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Black",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pilot Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5595",
+  "description": 5595,
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    }
+  ]
+}

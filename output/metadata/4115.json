@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4115",
+  "description": 4115,
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Red",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Space Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

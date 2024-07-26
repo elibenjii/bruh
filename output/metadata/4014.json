@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4014",
+  "description": 4014,
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punk Badass",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
+    }
+  ]
+}

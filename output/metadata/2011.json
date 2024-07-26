@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2011",
+  "description": 2011,
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Mustacho",
+      "trait_type": "Accessory"
+    }
+  ]
+}

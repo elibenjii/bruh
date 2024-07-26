@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5305",
+  "description": 5305,
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Beer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Frogger",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pilot Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1095",
+  "description": 1095,
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

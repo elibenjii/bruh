@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4039",
+  "description": 4039,
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bandana",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #6111",
+  "description": 6111,
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Shark Hoodie",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shark Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

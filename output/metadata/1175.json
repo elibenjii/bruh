@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1175",
+  "description": 1175,
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Retard Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Skelton Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    }
+  ]
+}

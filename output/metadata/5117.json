@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5117",
+  "description": 5117,
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Alien Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
+    }
+  ]
+}

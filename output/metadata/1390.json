@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1390",
+  "description": 1390,
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shoulder Strap",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

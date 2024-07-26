@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2068",
+  "description": 2068,
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

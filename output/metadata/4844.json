@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #4844",
+  "description": 4844,
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hot Dog",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic White",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Beard",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Green Headphone",
+      "trait_type": "Accessory"
+    }
+  ]
+}

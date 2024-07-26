@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5930",
+  "description": 5930,
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hulk",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hulk Body",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

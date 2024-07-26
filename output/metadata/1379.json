@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1379",
+  "description": 1379,
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Hat Sheet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

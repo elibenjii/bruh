@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5093",
+  "description": 5093,
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Steampunk Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ninja Turtle Mask",
+      "trait_type": "Accessory"
+    }
+  ]
+}

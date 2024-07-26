@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #4914",
+  "description": 4914,
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Boston Dynamics Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

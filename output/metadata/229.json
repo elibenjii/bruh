@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #229",
+  "description": 229,
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Send It",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Chilling",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

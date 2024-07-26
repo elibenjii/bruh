@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2545",
+  "description": 2545,
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Gentleman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bandito",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #4874",
+  "description": 4874,
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Beer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Jungle",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Walter Face",
+      "trait_type": "Accessory"
+    }
+  ]
+}

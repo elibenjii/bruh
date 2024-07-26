@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #138",
+  "description": 138,
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Chilling",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

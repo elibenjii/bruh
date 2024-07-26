@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5876",
+  "description": 5876,
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Detective",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pimp Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

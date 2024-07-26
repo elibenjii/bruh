@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #1923",
+  "description": 1923,
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ice Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

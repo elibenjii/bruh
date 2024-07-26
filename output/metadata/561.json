@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #561",
+  "description": 561,
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bicycle Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5898",
+  "description": 5898,
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Detective",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pimp Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pablo Escobar",
+      "trait_type": "Accessory"
+    }
+  ]
+}

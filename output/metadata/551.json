@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #551",
+  "description": 551,
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Space Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Croco Hood",
+      "trait_type": "Accessory"
+    }
+  ]
+}

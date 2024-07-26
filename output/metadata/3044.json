@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3044",
+  "description": 3044,
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    }
+  ]
+}

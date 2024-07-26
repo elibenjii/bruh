@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2080",
+  "description": 2080,
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
+    }
+  ]
+}

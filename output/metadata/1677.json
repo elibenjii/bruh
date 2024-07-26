@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #1677",
+  "description": 1677,
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4604",
+  "description": 4604,
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Retard Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Tropical Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

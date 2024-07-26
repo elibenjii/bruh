@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2623",
+  "description": 2623,
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Italian Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Futuristic Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bandana",
+      "trait_type": "Accessory"
+    }
+  ]
+}

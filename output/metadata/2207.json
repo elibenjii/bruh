@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2207",
+  "description": 2207,
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Grenade Man",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ninja Turtle Mask",
+      "trait_type": "Accessory"
+    }
+  ]
+}

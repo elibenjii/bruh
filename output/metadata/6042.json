@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #6042",
+  "description": 6042,
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Agent Pepe Pistol",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

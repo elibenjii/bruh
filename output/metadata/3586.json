@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #3586",
+  "description": 3586,
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #869",
+  "description": 869,
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Gentleman",
+      "trait_type": "Body"
+    }
+  ]
+}

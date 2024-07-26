@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5391",
+  "description": 5391,
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Steampunk Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bandito",
+      "trait_type": "Accessory"
+    }
+  ]
+}

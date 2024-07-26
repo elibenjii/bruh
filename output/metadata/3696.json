@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3696",
+  "description": 3696,
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Trapped Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

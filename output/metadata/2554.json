@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2554",
+  "description": 2554,
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pork BBQ",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Futuristic Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap With Pacifier",
+      "trait_type": "Accessory"
+    }
+  ]
+}

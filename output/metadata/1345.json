@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1345",
+  "description": 1345,
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Space Spinach",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    }
+  ]
+}

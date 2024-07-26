@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4487",
+  "description": 4487,
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Heart",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pacifier",
+      "trait_type": "Accessory"
+    }
+  ]
+}

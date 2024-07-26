@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #933",
+  "description": 933,
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Grenade Man",
+      "trait_type": "Body"
+    }
+  ]
+}

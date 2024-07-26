@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #4369",
+  "description": 4369,
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

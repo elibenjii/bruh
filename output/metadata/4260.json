@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #4260",
+  "description": 4260,
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Weed",
+      "trait_type": "Body"
+    }
+  ]
+}

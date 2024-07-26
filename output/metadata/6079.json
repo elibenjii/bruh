@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #6079",
+  "description": 6079,
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Agent Pepe Pistol",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Space Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

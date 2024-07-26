@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #875",
+  "description": 875,
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Alien Brand",
+      "trait_type": "Body"
+    }
+  ]
+}

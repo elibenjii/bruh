@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4581",
+  "description": 4581,
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Frogger",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

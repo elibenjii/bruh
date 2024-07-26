@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #4716",
+  "description": 4716,
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Gentleman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

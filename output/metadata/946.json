@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #946",
+  "description": 946,
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

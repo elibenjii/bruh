@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1985",
+  "description": 1985,
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bread",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Gray Aviator Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

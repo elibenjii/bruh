@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #148",
+  "description": 148,
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shaolin Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pacifier",
+      "trait_type": "Accessory"
+    }
+  ]
+}

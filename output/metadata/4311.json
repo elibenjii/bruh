@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #4311",
+  "description": 4311,
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Lezards",
+      "trait_type": "Body"
+    }
+  ]
+}

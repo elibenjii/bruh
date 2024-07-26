@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1369",
+  "description": 1369,
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pink Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

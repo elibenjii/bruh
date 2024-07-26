@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5861",
+  "description": 5861,
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Detective",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pimp Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

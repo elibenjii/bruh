@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4036",
+  "description": 4036,
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Electroman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Space Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

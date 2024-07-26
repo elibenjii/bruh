@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #284",
+  "description": 284,
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Tank Top",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
+    }
+  ]
+}

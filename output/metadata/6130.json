@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #6189",
+  "description": 6189,
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Tank Top",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Walter Face",
+      "trait_type": "Accessory"
+    }
+  ]
+}

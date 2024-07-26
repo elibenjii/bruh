@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1222",
+  "description": 1222,
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Thunberg Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

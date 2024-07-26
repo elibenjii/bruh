@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #142",
+  "description": 142,
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Brown Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Jacket",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

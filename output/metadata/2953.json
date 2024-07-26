@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2953",
+  "description": 2953,
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Retard Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Hat Sheet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

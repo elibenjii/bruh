@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1100",
+  "description": 1100,
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Hat Sheet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

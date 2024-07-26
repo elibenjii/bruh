@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #258",
+  "description": 258,
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Tatoo",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Tank Top Jacket",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Perfect Beard",
+      "trait_type": "Accessory"
+    }
+  ]
+}

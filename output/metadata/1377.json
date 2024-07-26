@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1377",
+  "description": 1377,
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Grenade Man",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Thunberg Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

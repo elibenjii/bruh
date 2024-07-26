@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #6222",
+  "description": 6222,
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shaolin Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Purple Space Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

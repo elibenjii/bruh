@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4095",
+  "description": 4095,
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Electroman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Boredemon Face",
+      "trait_type": "Accessory"
+    }
+  ]
+}

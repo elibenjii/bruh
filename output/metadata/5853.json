@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5853",
+  "description": 5853,
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Detective",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pimp Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Thunberg Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

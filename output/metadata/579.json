@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #579",
+  "description": 579,
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fist",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Orange Jacket",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bandana",
+      "trait_type": "Accessory"
+    }
+  ]
+}

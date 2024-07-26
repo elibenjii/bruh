@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5123",
+  "description": 5123,
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #3847",
+  "description": 3847,
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Samourai",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Beard",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

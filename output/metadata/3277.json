@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3277",
+  "description": 3277,
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Green Headphone",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #270",
+  "description": 270,
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Brown Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Overalls",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

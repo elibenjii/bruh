@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #434",
+  "description": 434,
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hesitation",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shotgun Ammo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

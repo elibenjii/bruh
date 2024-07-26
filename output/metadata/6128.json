@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #6184",
+  "description": 6184,
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fist",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Chilling",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Walter Face",
+      "trait_type": "Accessory"
+    }
+  ]
+}

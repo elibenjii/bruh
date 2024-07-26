@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5868",
+  "description": 5868,
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Detective",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pimp Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

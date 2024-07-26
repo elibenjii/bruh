@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3686",
+  "description": 3686,
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Trapped Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punk Badass",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1211",
+  "description": 1211,
+  "attributes": [
+    {
+      "value": "Not Sure",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Gentleman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

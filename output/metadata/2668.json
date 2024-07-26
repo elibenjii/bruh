@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2668",
+  "description": 2668,
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Black",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Boxing Headgear",
+      "trait_type": "Accessory"
+    }
+  ]
+}

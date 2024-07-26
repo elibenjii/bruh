@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #779",
+  "description": 779,
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Futuristic Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

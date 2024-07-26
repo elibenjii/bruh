@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2103",
+  "description": 2103,
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Gothic Piercing",
+      "trait_type": "Accessory"
+    }
+  ]
+}

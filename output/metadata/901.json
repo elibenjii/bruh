@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #901",
+  "description": 901,
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Alien Brand",
+      "trait_type": "Body"
+    }
+  ]
+}

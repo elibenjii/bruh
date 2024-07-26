@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #206",
+  "description": 206,
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Tank Top Jacket",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

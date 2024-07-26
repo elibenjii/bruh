@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5596",
+  "description": 5596,
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Hat Sheet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3758",
+  "description": 3758,
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Beard",
+      "trait_type": "Accessory"
+    }
+  ]
+}

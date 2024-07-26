@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4564",
+  "description": 4564,
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pizza",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    }
+  ]
+}

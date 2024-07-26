@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4665",
+  "description": 4665,
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Beer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Space Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Hobbo Hat",
+      "trait_type": "Accessory"
+    }
+  ]
+}

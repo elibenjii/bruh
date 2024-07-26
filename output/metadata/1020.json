@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #1020",
+  "description": 1020,
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

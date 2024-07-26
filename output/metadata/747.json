@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #747",
+  "description": 747,
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    }
+  ]
+}

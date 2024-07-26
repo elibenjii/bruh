@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #857",
+  "description": 857,
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    }
+  ]
+}

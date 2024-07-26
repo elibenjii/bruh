@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #998",
+  "description": 998,
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Flying Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    }
+  ]
+}

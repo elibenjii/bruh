@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1210",
+  "description": 1210,
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Retard Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Alien Brand",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Hell Boy Horn",
+      "trait_type": "Accessory"
+    }
+  ]
+}

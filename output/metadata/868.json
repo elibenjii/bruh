@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #868",
+  "description": 868,
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Alien Brand",
+      "trait_type": "Body"
+    }
+  ]
+}

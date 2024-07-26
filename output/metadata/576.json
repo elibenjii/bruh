@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #576",
+  "description": 576,
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Boredemon",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Purple Space Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

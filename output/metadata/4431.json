@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4431",
+  "description": 4431,
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Gentleman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pacifier",
+      "trait_type": "Accessory"
+    }
+  ]
+}

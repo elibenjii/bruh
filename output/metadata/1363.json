@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #1363",
+  "description": 1363,
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GMO Flower",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Skelton Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

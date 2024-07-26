@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #4681",
+  "description": 4681,
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Hat Sheet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gothic Piercing",
+      "trait_type": "Accessory"
+    }
+  ]
+}

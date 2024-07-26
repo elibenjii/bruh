@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #3785",
+  "description": 3785,
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Abibas",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
+      "trait_type": "Accessory"
+    }
+  ]
+}

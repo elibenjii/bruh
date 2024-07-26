@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #992",
+  "description": 992,
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cute Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Futuristic Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

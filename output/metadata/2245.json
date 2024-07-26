@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2245",
+  "description": 2245,
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Alien Brand",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Orange Headphone",
+      "trait_type": "Accessory"
+    }
+  ]
+}

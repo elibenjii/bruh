@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4437",
+  "description": 4437,
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #420",
+  "description": 420,
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fist",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Overalls",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Nose Piercing",
+      "trait_type": "Accessory"
+    }
+  ]
+}

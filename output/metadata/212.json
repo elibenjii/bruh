@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #212",
+  "description": 212,
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pacifier",
+      "trait_type": "Accessory"
+    }
+  ]
+}

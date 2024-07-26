@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #552",
+  "description": 552,
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shotgun Ammo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Boredemon Face",
+      "trait_type": "Accessory"
+    }
+  ]
+}

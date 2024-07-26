@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5259",
+  "description": 5259,
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Gentleman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap With Pacifier",
+      "trait_type": "Accessory"
+    }
+  ]
+}

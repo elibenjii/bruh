@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #3645",
+  "description": 3645,
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punk Badass",
+      "trait_type": "Body"
+    }
+  ]
+}

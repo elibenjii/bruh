@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #353",
+  "description": 353,
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shotgun Ammo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pacifier",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Orange Headphone",
+      "trait_type": "Accessory"
+    }
+  ]
+}

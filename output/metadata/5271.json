@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5271",
+  "description": 5271,
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Alien Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Gentleman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap With Pacifier",
+      "trait_type": "Accessory"
+    }
+  ]
+}

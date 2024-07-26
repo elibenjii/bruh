@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #741",
+  "description": 741,
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shoulder Strap",
+      "trait_type": "Body"
+    }
+  ]
+}

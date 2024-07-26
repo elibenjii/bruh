@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #3622",
+  "description": 3622,
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Electroman",
+      "trait_type": "Body"
+    }
+  ]
+}

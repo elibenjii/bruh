@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #6019",
+  "description": 6019,
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Agent Pepe Pistol",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

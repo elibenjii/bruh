@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #4377",
+  "description": 4377,
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Beer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Heart",
+      "trait_type": "Body"
+    }
+  ]
+}

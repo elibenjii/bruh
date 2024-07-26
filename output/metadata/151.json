@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #151",
+  "description": 151,
+  "attributes": [
+    {
+      "value": "Not Sure",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cute Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Buffed",
+      "trait_type": "Body"
+    },
+    {
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #6000",
+  "description": 6000,
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ultra",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ultra",
+      "trait_type": "Body"
+    }
+  ]
+}

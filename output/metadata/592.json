@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #592",
+  "description": 592,
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Send It",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Tank Top",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap With Pacifier",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #6182",
+  "description": 6182,
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Boredemon",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

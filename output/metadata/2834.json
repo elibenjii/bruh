@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #2834",
+  "description": 2834,
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    }
+  ]
+}

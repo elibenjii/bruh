@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2317",
+  "description": 2317,
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ice Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Gothic Piercing",
+      "trait_type": "Accessory"
+    }
+  ]
+}

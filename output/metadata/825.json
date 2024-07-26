@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #825",
+  "description": 825,
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    }
+  ]
+}

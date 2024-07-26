@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #2919",
+  "description": 2919,
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

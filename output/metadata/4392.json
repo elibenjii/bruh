@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #4392",
+  "description": 4392,
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    }
+  ]
+}

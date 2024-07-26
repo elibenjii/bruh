@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #5551",
+  "description": 5551,
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Body"
+    }
+  ]
+}

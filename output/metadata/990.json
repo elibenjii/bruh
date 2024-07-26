@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #990",
+  "description": 990,
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Space Spinach",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pink Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #105",
+  "description": 105,
+  "attributes": [
+    {
+      "value": "Not Sure",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Tank Top Jacket",
+      "trait_type": "Body"
+    }
+  ]
+}

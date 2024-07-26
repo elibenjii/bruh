@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #2975",
+  "description": 2975,
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Hell Boy Horn",
+      "trait_type": "Accessory"
+    }
+  ]
+}

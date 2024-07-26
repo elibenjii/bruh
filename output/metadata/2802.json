@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #2802",
+  "description": 2802,
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Terrorist",
+      "trait_type": "Body"
+    }
+  ]
+}

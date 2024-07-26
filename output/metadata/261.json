@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #261",
+  "description": 261,
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Perfect Beard",
+      "trait_type": "Accessory"
+    }
+  ]
+}

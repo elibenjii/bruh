@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #27",
+  "description": 27,
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    }
+  ]
+}

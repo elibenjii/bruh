@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #3637",
+  "description": 3637,
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

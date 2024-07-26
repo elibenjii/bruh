@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4089",
+  "description": 4089,
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Boredemon Face",
+      "trait_type": "Accessory"
+    }
+  ]
+}

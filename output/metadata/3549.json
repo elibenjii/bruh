@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #3549",
+  "description": 3549,
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Abibas",
+      "trait_type": "Body"
+    }
+  ]
+}

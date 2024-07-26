@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #4058",
+  "description": 4058,
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Trapped Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Abibas",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Purple Space Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

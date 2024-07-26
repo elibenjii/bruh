@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #240",
+  "description": 240,
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gentleman",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Cyber Claw",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Thunberg Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Walter Face",
+      "trait_type": "Accessory"
+    }
+  ]
+}

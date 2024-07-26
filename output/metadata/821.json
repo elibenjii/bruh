@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #821",
+  "description": 821,
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Space Spinach",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Gentleman",
+      "trait_type": "Body"
+    }
+  ]
+}

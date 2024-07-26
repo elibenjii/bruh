@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #632",
+  "description": 632,
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Send It",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Croco Hood",
+      "trait_type": "Accessory"
+    }
+  ]
+}

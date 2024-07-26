@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #812",
+  "description": 812,
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ice Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

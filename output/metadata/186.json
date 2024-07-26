@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #186",
+  "description": 186,
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Cyber Claw",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Hobbo Hat",
+      "trait_type": "Accessory"
+    }
+  ]
+}

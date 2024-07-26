@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #445",
+  "description": 445,
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Brown Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Gray Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

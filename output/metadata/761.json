@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #761",
+  "description": 761,
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Flying Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Waterboy Soldier",
+      "trait_type": "Body"
+    }
+  ]
+}

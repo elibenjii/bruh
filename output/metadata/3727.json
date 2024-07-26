@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3727",
+  "description": 3727,
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gentleman Lucille Bat",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Electroman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Hell Boy Horn",
+      "trait_type": "Accessory"
+    }
+  ]
+}

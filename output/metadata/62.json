@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #62",
+  "description": 62,
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Tatoo",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Aladdin Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

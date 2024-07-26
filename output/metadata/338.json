@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #338",
+  "description": 338,
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Send It",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Tank Top",
+      "trait_type": "Body"
+    },
+    {
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
+      "trait_type": "Accessory"
+    }
+  ]
+}

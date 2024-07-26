@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #4328",
+  "description": 4328,
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

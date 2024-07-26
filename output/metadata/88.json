@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #88",
+  "description": 88,
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Buffed",
+      "trait_type": "Body"
+    }
+  ]
+}

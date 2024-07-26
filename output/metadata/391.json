@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #391",
+  "description": 391,
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Jacket",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Orange Headphone",
+      "trait_type": "Accessory"
+    }
+  ]
+}

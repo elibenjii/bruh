@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #829",
+  "description": 829,
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    }
+  ]
+}

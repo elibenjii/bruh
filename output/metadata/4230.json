@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #4230",
+  "description": 4230,
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Lezards",
+      "trait_type": "Body"
+    }
+  ]
+}

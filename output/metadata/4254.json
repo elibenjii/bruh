@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #4254",
+  "description": 4254,
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cute Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Boston Dynamics Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

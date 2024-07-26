@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #4165",
+  "description": 4165,
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hot Dog",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Weed",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #107",
+  "description": 107,
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Boxing",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Chilling",
+      "trait_type": "Body"
+    }
+  ]
+}

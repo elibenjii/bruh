@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #61",
+  "description": 61,
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hesitation",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Chilling",
+      "trait_type": "Body"
+    }
+  ]
+}

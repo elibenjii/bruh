@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #6407",
+  "description": 6407,
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pointing Finger",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

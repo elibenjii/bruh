@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #827",
+  "description": 827,
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pork BBQ",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #835",
+  "description": 835,
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bread",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Skelton Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

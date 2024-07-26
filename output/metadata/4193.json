@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #4193",
+  "description": 4193,
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Space Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

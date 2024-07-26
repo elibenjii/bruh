@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #3987",
+  "description": 3987,
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Gothic Piercing",
+      "trait_type": "Accessory"
+    }
+  ]
+}

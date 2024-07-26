@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #995",
+  "description": 995,
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    }
+  ]
+}

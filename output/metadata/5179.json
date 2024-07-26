@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #5179",
+  "description": 5179,
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Orange Headphone",
+      "trait_type": "Accessory"
+    }
+  ]
+}

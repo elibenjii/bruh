@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #3525",
+  "description": 3525,
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Electroman",
+      "trait_type": "Body"
+    }
+  ]
+}

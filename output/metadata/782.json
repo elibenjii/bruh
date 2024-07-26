@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #782",
+  "description": 782,
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ice Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE #642",
+  "description": 642,
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Boxing",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Tank Top Jacket",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pablo Escobar",
+      "trait_type": "Accessory"
+    }
+  ]
+}

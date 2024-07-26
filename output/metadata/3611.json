@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #3611",
+  "description": 3611,
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Mario",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #705",
+  "description": 705,
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Toxic Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

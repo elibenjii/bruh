@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #6384",
+  "description": 6384,
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

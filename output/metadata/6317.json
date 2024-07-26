@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #6406",
+  "description": 6406,
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #3541",
+  "description": 3541,
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

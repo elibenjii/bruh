@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #6250",
+  "description": 6250,
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fist",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #949",
+  "description": 949,
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    }
+  ]
+}

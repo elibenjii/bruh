@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #2794",
+  "description": 2794,
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

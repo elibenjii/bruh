@@ -1,0 +1,26 @@
+{
+  "name": "PEPE #4873",
+  "description": 4873,
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gothic Piercing",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #795",
+  "description": 795,
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

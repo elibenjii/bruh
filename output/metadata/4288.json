@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #4288",
+  "description": 4288,
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Tropical Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

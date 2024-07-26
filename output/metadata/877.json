@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #877",
+  "description": 877,
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    }
+  ]
+}

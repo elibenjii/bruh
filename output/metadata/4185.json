@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #4185",
+  "description": 4185,
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    }
+  ]
+}

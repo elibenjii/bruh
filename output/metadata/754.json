@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #754",
+  "description": 754,
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #4339",
+  "description": 4339,
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

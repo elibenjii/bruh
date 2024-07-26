@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #4303",
+  "description": 4303,
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Weed",
+      "trait_type": "Body"
+    }
+  ]
+}

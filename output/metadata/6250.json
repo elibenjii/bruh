@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #6339",
+  "description": 6339,
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Unicorn",
+      "trait_type": "Body"
+    }
+  ]
+}

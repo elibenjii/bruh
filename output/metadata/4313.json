@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #4313",
+  "description": 4313,
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pizza",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

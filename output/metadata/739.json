@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #739",
+  "description": 739,
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

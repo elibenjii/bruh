@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #862",
+  "description": 862,
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cute Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Waterboy Soldier",
+      "trait_type": "Body"
+    }
+  ]
+}

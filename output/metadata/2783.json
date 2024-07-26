@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #2783",
+  "description": 2783,
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

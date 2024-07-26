@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #942",
+  "description": 942,
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Alien Brand",
+      "trait_type": "Body"
+    }
+  ]
+}

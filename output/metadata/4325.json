@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #4325",
+  "description": 4325,
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Heart",
+      "trait_type": "Body"
+    }
+  ]
+}

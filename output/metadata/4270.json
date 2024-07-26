@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #4270",
+  "description": 4270,
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pizza",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic White",
+      "trait_type": "Body"
+    }
+  ]
+}

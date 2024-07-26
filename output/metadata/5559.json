@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #5559",
+  "description": 5559,
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Body"
+    }
+  ]
+}

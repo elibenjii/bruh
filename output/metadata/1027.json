@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #1027",
+  "description": 1027,
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    }
+  ]
+}

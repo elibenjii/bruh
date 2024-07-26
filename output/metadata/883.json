@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #883",
+  "description": 883,
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chicken BBQ",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    }
+  ]
+}

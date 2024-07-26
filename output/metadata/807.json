@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #807",
+  "description": 807,
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Waterboy Soldier",
+      "trait_type": "Body"
+    }
+  ]
+}

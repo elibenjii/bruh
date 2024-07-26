@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #853",
+  "description": 853,
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    }
+  ]
+}

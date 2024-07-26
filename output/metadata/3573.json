@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #3573",
+  "description": 3573,
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Special Force",
+      "trait_type": "Body"
+    }
+  ]
+}

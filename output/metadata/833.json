@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #833",
+  "description": 833,
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pink Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

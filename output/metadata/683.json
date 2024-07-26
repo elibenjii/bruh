@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #683",
+  "description": 683,
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #952",
+  "description": 952,
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

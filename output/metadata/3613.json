@@ -1,0 +1,18 @@
+{
+  "name": "PEPE #3613",
+  "description": 3613,
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Electroman",
+      "trait_type": "Body"
+    }
+  ]
+}
