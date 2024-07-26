@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #4061",
+  "description": 4061,
+  "image": "https://image.pepethegame.com/4061.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punk Badass",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #2418",
+  "description": 2418,
+  "image": "https://image.pepethegame.com/2418.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Send It",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Chilling",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

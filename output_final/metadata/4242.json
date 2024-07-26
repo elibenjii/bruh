@@ -1,0 +1,29 @@
+{
+  "name": "PEPE #4242",
+  "description": 4242,
+  "image": "https://image.pepethegame.com/4242.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Black",
+      "trait_type": "Body"
+    },
+    {
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

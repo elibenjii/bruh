@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4299",
+  "description": 4299,
+  "image": "https://image.pepethegame.com/4299.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

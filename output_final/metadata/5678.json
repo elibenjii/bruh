@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5678",
+  "description": 5678,
+  "image": "https://image.pepethegame.com/5678.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

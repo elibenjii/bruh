@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #1063",
+  "description": 1063,
+  "image": "https://image.pepethegame.com/1063.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shaolin Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pilot Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

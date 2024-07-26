@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #1405",
+  "description": 1405,
+  "image": "https://image.pepethegame.com/1405.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Electroman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

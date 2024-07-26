@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3387",
+  "description": 3387,
+  "image": "https://image.pepethegame.com/3387.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punk Badass",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #5707",
+  "description": 5707,
+  "image": "https://image.pepethegame.com/5707.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lucille Bat",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pilot Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #2603",
+  "description": 2603,
+  "image": "https://image.pepethegame.com/2603.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Bomber",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

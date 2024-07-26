@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #345",
+  "description": 345,
+  "image": "https://image.pepethegame.com/345.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Beer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Heart",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    }
+  ]
+}

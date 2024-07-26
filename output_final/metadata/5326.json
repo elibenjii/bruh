@@ -1,0 +1,29 @@
+{
+  "name": "PEPE #5326",
+  "description": 5326,
+  "image": "https://image.pepethegame.com/5326.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bob",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
+    }
+  ]
+}

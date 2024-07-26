@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5593",
+  "description": 5593,
+  "image": "https://image.pepethegame.com/5593.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

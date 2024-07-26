@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #5614",
+  "description": 5614,
+  "image": "https://image.pepethegame.com/5614.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hulk",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hulk Body",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Jason Mask",
+      "trait_type": "Accessory"
+    }
+  ]
+}

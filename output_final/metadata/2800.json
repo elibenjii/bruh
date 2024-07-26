@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #2800",
+  "description": 2800,
+  "image": "https://image.pepethegame.com/2800.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pablo Escobar",
+      "trait_type": "Accessory"
+    }
+  ]
+}

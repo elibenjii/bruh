@@ -1,0 +1,29 @@
+{
+  "name": "PEPE #4120",
+  "description": 4120,
+  "image": "https://image.pepethegame.com/4120.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Terrorist",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

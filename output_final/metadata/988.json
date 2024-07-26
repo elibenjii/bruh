@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #988",
+  "description": 988,
+  "image": "https://image.pepethegame.com/988.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Body"
+    }
+  ]
+}

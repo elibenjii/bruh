@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5182",
+  "description": 5182,
+  "image": "https://image.pepethegame.com/5182.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Terrorist",
+      "trait_type": "Body"
+    }
+  ]
+}

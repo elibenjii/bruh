@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6253",
+  "description": 6253,
+  "image": "https://image.pepethegame.com/6253.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Grenade Man",
+      "trait_type": "Body"
+    }
+  ]
+}

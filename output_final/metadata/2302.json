@@ -1,0 +1,29 @@
+{
+  "name": "PEPE #2302",
+  "description": 2302,
+  "image": "https://image.pepethegame.com/2302.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Beer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Gentleman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

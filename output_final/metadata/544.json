@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #544",
+  "description": 544,
+  "image": "https://image.pepethegame.com/544.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Agent Pepe Pistol",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6281",
+  "description": 6281,
+  "image": "https://image.pepethegame.com/6281.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Alien Brand",
+      "trait_type": "Body"
+    }
+  ]
+}

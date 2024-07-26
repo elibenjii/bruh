@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #2181",
+  "description": 2181,
+  "image": "https://image.pepethegame.com/2181.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Space Spinach",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Futuristic Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Green Headphone",
+      "trait_type": "Accessory"
+    }
+  ]
+}

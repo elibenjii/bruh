@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #4926",
+  "description": 4926,
+  "image": "https://image.pepethegame.com/4926.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Funky",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

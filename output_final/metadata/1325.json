@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1325",
+  "description": 1325,
+  "image": "https://image.pepethegame.com/1325.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

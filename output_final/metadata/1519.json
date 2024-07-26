@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #1519",
+  "description": 1519,
+  "image": "https://image.pepethegame.com/1519.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Toxic Bomber",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Space Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1886",
+  "description": 1886,
+  "image": "https://image.pepethegame.com/1886.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Shark Hoodie",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shark Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

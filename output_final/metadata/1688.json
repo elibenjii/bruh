@@ -1,0 +1,29 @@
+{
+  "name": "PEPE #1688",
+  "description": 1688,
+  "image": "https://image.pepethegame.com/1688.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hot Dog",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic White",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Straw",
+      "trait_type": "Accessory"
+    }
+  ]
+}

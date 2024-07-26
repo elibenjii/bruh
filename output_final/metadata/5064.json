@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5064",
+  "description": 5064,
+  "image": "https://image.pepethegame.com/5064.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    }
+  ]
+}

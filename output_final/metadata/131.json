@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #131",
+  "description": 131,
+  "image": "https://image.pepethegame.com/131.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Boredemon Face",
+      "trait_type": "Accessory"
+    }
+  ]
+}

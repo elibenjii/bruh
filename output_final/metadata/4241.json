@@ -1,0 +1,29 @@
+{
+  "name": "PEPE #4241",
+  "description": 4241,
+  "image": "https://image.pepethegame.com/4241.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
+      "trait_type": "Accessory"
+    }
+  ]
+}

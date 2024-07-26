@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #4756",
+  "description": 4756,
+  "image": "https://image.pepethegame.com/4756.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pork BBQ",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Futuristic Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap With Pacifier",
+      "trait_type": "Accessory"
+    }
+  ]
+}

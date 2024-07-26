@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #1710",
+  "description": 1710,
+  "image": "https://image.pepethegame.com/1710.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Retard Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Boxing Headgear",
+      "trait_type": "Accessory"
+    }
+  ]
+}

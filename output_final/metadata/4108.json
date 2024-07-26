@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #4108",
+  "description": 4108,
+  "image": "https://image.pepethegame.com/4108.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bandito",
+      "trait_type": "Accessory"
+    }
+  ]
+}

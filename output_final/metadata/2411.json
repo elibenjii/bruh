@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #2411",
+  "description": 2411,
+  "image": "https://image.pepethegame.com/2411.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cute Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bicycle Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

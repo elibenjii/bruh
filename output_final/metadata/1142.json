@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1142",
+  "description": 1142,
+  "image": "https://image.pepethegame.com/1142.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Futuristic Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

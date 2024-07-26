@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1231",
+  "description": 1231,
+  "image": "https://image.pepethegame.com/1231.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    }
+  ]
+}

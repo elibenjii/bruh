@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #4062",
+  "description": 4062,
+  "image": "https://image.pepethegame.com/4062.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Terrorist",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Jason Mask",
+      "trait_type": "Accessory"
+    }
+  ]
+}

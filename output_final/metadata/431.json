@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #431",
+  "description": 431,
+  "image": "https://image.pepethegame.com/431.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hot Dog",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Frogger",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "PEPE #2625",
+  "description": 2625,
+  "image": "https://image.pepethegame.com/2625.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Gentleman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

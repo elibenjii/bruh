@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #4065",
+  "description": 4065,
+  "image": "https://image.pepethegame.com/4065.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Red",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

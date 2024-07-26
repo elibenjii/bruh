@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #334",
+  "description": 334,
+  "image": "https://image.pepethegame.com/334.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
+    }
+  ]
+}

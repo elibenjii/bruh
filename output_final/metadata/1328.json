@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1328",
+  "description": 1328,
+  "image": "https://image.pepethegame.com/1328.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Waterboy Soldier",
+      "trait_type": "Body"
+    }
+  ]
+}

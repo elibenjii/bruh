@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4489",
+  "description": 4489,
+  "image": "https://image.pepethegame.com/4489.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lollipop Orange",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

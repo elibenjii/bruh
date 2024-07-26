@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #5535",
+  "description": 5535,
+  "image": "https://image.pepethegame.com/5535.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ice Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

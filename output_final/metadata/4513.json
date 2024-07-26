@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #4513",
+  "description": 4513,
+  "image": "https://image.pepethegame.com/4513.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pokebong",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Buffed",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Purple Space Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

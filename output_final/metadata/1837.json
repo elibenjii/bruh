@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #1837",
+  "description": 1837,
+  "image": "https://image.pepethegame.com/1837.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ninja Turtle Mask",
+      "trait_type": "Accessory"
+    }
+  ]
+}

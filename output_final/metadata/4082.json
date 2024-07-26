@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #4082",
+  "description": 4082,
+  "image": "https://image.pepethegame.com/4082.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Tank Top",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

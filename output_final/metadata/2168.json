@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2168",
+  "description": 2168,
+  "image": "https://image.pepethegame.com/2168.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hesitation",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Tank Top",
+      "trait_type": "Body"
+    }
+  ]
+}

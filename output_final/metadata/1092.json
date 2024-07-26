@@ -1,0 +1,29 @@
+{
+  "name": "PEPE #1092",
+  "description": 1092,
+  "image": "https://image.pepethegame.com/1092.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pacifier",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

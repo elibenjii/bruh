@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4007",
+  "description": 4007,
+  "image": "https://image.pepethegame.com/4007.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Space Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

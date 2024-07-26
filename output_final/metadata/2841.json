@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #2841",
+  "description": 2841,
+  "image": "https://image.pepethegame.com/2841.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Toxic Bomber",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

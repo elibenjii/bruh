@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3140",
+  "description": 3140,
+  "image": "https://image.pepethegame.com/3140.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pork BBQ",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    }
+  ]
+}

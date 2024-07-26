@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #2666",
+  "description": 2666,
+  "image": "https://image.pepethegame.com/2666.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gentleman Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Tropical Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

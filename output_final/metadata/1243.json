@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #1243",
+  "description": 1243,
+  "image": "https://image.pepethegame.com/1243.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Not Sure",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Samourai",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

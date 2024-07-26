@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #1099",
+  "description": 1099,
+  "image": "https://image.pepethegame.com/1099.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Agent Pepe Pistol",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Croco Hood",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #2533",
+  "description": 2533,
+  "image": "https://image.pepethegame.com/2533.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pizza",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ghetto Jacket",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Gray Aviator Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

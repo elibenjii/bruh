@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4673",
+  "description": 4673,
+  "image": "https://image.pepethegame.com/4673.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ghetto Jacket",
+      "trait_type": "Body"
+    }
+  ]
+}

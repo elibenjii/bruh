@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1280",
+  "description": 1280,
+  "image": "https://image.pepethegame.com/1280.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Black",
+      "trait_type": "Body"
+    }
+  ]
+}

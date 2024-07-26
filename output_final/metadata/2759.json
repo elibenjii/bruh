@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #2759",
+  "description": 2759,
+  "image": "https://image.pepethegame.com/2759.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Detective",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pimp Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

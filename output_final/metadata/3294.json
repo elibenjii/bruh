@@ -1,0 +1,29 @@
+{
+  "name": "PEPE #3294",
+  "description": 3294,
+  "image": "https://image.pepethegame.com/3294.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
+    }
+  ]
+}

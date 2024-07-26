@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #87",
+  "description": 87,
+  "image": "https://image.pepethegame.com/87.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

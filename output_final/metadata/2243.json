@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2243",
+  "description": 2243,
+  "image": "https://image.pepethegame.com/2243.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hesitation",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

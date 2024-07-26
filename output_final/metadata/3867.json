@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #3867",
+  "description": 3867,
+  "image": "https://image.pepethegame.com/3867.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Bomber",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Green Headphone",
+      "trait_type": "Accessory"
+    }
+  ]
+}

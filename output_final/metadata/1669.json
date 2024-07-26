@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #1669",
+  "description": 1669,
+  "image": "https://image.pepethegame.com/1669.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pipe",
+      "trait_type": "Accessory"
+    }
+  ]
+}

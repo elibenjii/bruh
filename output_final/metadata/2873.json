@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #2873",
+  "description": 2873,
+  "image": "https://image.pepethegame.com/2873.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GMO Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ninja Turtle Mask",
+      "trait_type": "Accessory"
+    }
+  ]
+}

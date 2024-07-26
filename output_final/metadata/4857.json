@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #4857",
+  "description": 4857,
+  "image": "https://image.pepethegame.com/4857.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
+    }
+  ]
+}

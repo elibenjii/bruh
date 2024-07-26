@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #4433",
+  "description": 4433,
+  "image": "https://image.pepethegame.com/4433.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Thunberg Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

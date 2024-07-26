@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #4423",
+  "description": 4423,
+  "image": "https://image.pepethegame.com/4423.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Waterboy Soldier",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

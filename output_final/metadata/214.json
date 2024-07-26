@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #214",
+  "description": 214,
+  "image": "https://image.pepethegame.com/214.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Funky",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Gray Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

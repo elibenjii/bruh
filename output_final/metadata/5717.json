@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #5717",
+  "description": 5717,
+  "image": "https://image.pepethegame.com/5717.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bandana",
+      "trait_type": "Accessory"
+    }
+  ]
+}

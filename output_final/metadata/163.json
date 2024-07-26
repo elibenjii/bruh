@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #163",
+  "description": 163,
+  "image": "https://image.pepethegame.com/163.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

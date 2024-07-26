@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #5123",
+  "description": 5123,
+  "image": "https://image.pepethegame.com/5123.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hulk",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hulk Body",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

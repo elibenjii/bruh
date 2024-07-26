@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #2714",
+  "description": 2714,
+  "image": "https://image.pepethegame.com/2714.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hot Dog",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic White",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pipe",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #841",
+  "description": 841,
+  "image": "https://image.pepethegame.com/841.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Space Spinach",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bandana",
+      "trait_type": "Accessory"
+    }
+  ]
+}

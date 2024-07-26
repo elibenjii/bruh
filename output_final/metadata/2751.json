@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2751",
+  "description": 2751,
+  "image": "https://image.pepethegame.com/2751.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

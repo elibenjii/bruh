@@ -1,0 +1,29 @@
+{
+  "name": "PEPE #3475",
+  "description": 3475,
+  "image": "https://image.pepethegame.com/3475.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Beer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

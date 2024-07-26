@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #1437",
+  "description": 1437,
+  "image": "https://image.pepethegame.com/1437.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Space Spinach",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

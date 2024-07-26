@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #5121",
+  "description": 5121,
+  "image": "https://image.pepethegame.com/5121.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Beer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Jungle",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

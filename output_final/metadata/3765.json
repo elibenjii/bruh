@@ -1,0 +1,29 @@
+{
+  "name": "PEPE #3765",
+  "description": 3765,
+  "image": "https://image.pepethegame.com/3765.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Terrorist",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ninja Turtle Mask",
+      "trait_type": "Accessory"
+    }
+  ]
+}

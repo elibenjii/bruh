@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #4553",
+  "description": 4553,
+  "image": "https://image.pepethegame.com/4553.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

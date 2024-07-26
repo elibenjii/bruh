@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #5953",
+  "description": 5953,
+  "image": "https://image.pepethegame.com/5953.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Toxic Bomber",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Space Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #5492",
+  "description": 5492,
+  "image": "https://image.pepethegame.com/5492.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Samourai",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

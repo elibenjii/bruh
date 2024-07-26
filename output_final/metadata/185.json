@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #185",
+  "description": 185,
+  "image": "https://image.pepethegame.com/185.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Frogger",
+      "trait_type": "Body"
+    }
+  ]
+}

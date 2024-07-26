@@ -1,0 +1,29 @@
+{
+  "name": "PEPE #3770",
+  "description": 3770,
+  "image": "https://image.pepethegame.com/3770.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cute Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

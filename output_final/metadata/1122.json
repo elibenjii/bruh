@@ -1,0 +1,29 @@
+{
+  "name": "PEPE #1122",
+  "description": 1122,
+  "image": "https://image.pepethegame.com/1122.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Grenade Man",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
+    }
+  ]
+}

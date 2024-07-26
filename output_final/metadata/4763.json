@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #4763",
+  "description": 4763,
+  "image": "https://image.pepethegame.com/4763.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Frogger",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pilot Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

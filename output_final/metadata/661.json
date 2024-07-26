@@ -1,0 +1,29 @@
+{
+  "name": "PEPE #661",
+  "description": 661,
+  "image": "https://image.pepethegame.com/661.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
+      "trait_type": "Accessory"
+    }
+  ]
+}

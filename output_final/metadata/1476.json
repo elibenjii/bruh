@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #1476",
+  "description": 1476,
+  "image": "https://image.pepethegame.com/1476.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Buffed",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Green Headphone",
+      "trait_type": "Accessory"
+    }
+  ]
+}

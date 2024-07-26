@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #958",
+  "description": 958,
+  "image": "https://image.pepethegame.com/958.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Mario",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bicycle Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

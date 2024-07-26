@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #1120",
+  "description": 1120,
+  "image": "https://image.pepethegame.com/1120.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Orange Jacket",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Green Headphone",
+      "trait_type": "Accessory"
+    }
+  ]
+}

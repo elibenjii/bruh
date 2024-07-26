@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2594",
+  "description": 2594,
+  "image": "https://image.pepethegame.com/2594.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Alien Brand",
+      "trait_type": "Body"
+    }
+  ]
+}

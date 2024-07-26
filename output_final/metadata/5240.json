@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #5240",
+  "description": 5240,
+  "image": "https://image.pepethegame.com/5240.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Aladdin Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pipe",
+      "trait_type": "Accessory"
+    }
+  ]
+}

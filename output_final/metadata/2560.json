@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #2560",
+  "description": 2560,
+  "image": "https://image.pepethegame.com/2560.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lollipop Orange",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shotgun Ammo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #3021",
+  "description": 3021,
+  "image": "https://image.pepethegame.com/3021.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Flying Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Boxing Headgear",
+      "trait_type": "Accessory"
+    }
+  ]
+}

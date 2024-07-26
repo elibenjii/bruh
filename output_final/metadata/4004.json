@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #4004",
+  "description": 4004,
+  "image": "https://image.pepethegame.com/4004.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Croco Hood",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #396",
+  "description": 396,
+  "image": "https://image.pepethegame.com/396.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Space Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

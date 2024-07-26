@@ -1,0 +1,29 @@
+{
+  "name": "PEPE #1516",
+  "description": 1516,
+  "image": "https://image.pepethegame.com/1516.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punk Badass",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

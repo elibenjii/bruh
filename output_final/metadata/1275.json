@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1275",
+  "description": 1275,
+  "image": "https://image.pepethegame.com/1275.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Unicorn",
+      "trait_type": "Body"
+    }
+  ]
+}

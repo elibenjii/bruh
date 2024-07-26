@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #4294",
+  "description": 4294,
+  "image": "https://image.pepethegame.com/4294.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Cyber Claw",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Space Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5901",
+  "description": 5901,
+  "image": "https://image.pepethegame.com/5901.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lucille Bat",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Futuristic Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

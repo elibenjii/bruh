@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #3565",
+  "description": 3565,
+  "image": "https://image.pepethegame.com/3565.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Agent Pepe Pistol",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

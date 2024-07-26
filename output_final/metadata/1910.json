@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #1910",
+  "description": 1910,
+  "image": "https://image.pepethegame.com/1910.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Boxing Headgear",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4827",
+  "description": 4827,
+  "image": "https://image.pepethegame.com/4827.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Special Force",
+      "trait_type": "Body"
+    }
+  ]
+}

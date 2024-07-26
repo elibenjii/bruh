@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #206",
+  "description": 206,
+  "image": "https://image.pepethegame.com/206.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Jacket",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bandito",
+      "trait_type": "Accessory"
+    }
+  ]
+}

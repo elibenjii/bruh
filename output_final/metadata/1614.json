@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1614",
+  "description": 1614,
+  "image": "https://image.pepethegame.com/1614.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Frogger",
+      "trait_type": "Body"
+    }
+  ]
+}

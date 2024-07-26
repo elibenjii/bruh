@@ -1,0 +1,29 @@
+{
+  "name": "PEPE #3123",
+  "description": 3123,
+  "image": "https://image.pepethegame.com/3123.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fist",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Aladdin Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #6211",
+  "description": 6211,
+  "image": "https://image.pepethegame.com/6211.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Electroman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

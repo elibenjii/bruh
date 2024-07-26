@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #1299",
+  "description": 1299,
+  "image": "https://image.pepethegame.com/1299.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Perfect Beard",
+      "trait_type": "Accessory"
+    }
+  ]
+}

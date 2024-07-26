@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #4351",
+  "description": 4351,
+  "image": "https://image.pepethegame.com/4351.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Abibas",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Crown",
+      "trait_type": "Accessory"
+    }
+  ]
+}

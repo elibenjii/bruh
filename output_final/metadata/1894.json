@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #1894",
+  "description": 1894,
+  "image": "https://image.pepethegame.com/1894.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cozy Sweater",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap With Pacifier",
+      "trait_type": "Accessory"
+    }
+  ]
+}

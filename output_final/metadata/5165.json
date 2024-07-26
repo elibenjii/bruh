@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5165",
+  "description": 5165,
+  "image": "https://image.pepethegame.com/5165.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

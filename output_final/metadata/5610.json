@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #5610",
+  "description": 5610,
+  "image": "https://image.pepethegame.com/5610.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pablo Escobar",
+      "trait_type": "Accessory"
+    }
+  ]
+}

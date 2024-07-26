@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5083",
+  "description": 5083,
+  "image": "https://image.pepethegame.com/5083.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

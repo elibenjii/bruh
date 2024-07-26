@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #2450",
+  "description": 2450,
+  "image": "https://image.pepethegame.com/2450.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cozy Sweater",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Hat Sheet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

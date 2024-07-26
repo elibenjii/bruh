@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #5325",
+  "description": 5325,
+  "image": "https://image.pepethegame.com/5325.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cute Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Waterboy Soldier",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

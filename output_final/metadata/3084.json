@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3084",
+  "description": 3084,
+  "image": "https://image.pepethegame.com/3084.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

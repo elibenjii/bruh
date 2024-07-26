@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #649",
+  "description": 649,
+  "image": "https://image.pepethegame.com/649.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Orange Jacket",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Croco Hood",
+      "trait_type": "Accessory"
+    }
+  ]
+}

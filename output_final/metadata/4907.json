@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #4907",
+  "description": 4907,
+  "image": "https://image.pepethegame.com/4907.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

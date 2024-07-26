@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #4088",
+  "description": 4088,
+  "image": "https://image.pepethegame.com/4088.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Waterboy Soldier",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ninja Turtle Mask",
+      "trait_type": "Accessory"
+    }
+  ]
+}

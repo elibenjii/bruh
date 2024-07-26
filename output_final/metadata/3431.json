@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #3431",
+  "description": 3431,
+  "image": "https://image.pepethegame.com/3431.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Buffed",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    }
+  ]
+}

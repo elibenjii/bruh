@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #931",
+  "description": 931,
+  "image": "https://image.pepethegame.com/931.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic White",
+      "trait_type": "Body"
+    }
+  ]
+}

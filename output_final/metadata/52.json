@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #52",
+  "description": 52,
+  "image": "https://image.pepethegame.com/52.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pink Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #679",
+  "description": 679,
+  "image": "https://image.pepethegame.com/679.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Black Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

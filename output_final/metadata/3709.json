@@ -1,0 +1,29 @@
+{
+  "name": "PEPE #3709",
+  "description": 3709,
+  "image": "https://image.pepethegame.com/3709.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Not Sure",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bread",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5967",
+  "description": 5967,
+  "image": "https://image.pepethegame.com/5967.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Alien Brand",
+      "trait_type": "Body"
+    }
+  ]
+}

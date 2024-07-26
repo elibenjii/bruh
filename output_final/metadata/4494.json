@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4494",
+  "description": 4494,
+  "image": "https://image.pepethegame.com/4494.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

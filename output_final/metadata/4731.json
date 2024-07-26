@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #4731",
+  "description": 4731,
+  "image": "https://image.pepethegame.com/4731.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Space Spinach",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bandana",
+      "trait_type": "Accessory"
+    }
+  ]
+}

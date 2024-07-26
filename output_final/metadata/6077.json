@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6077",
+  "description": 6077,
+  "image": "https://image.pepethegame.com/6077.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Alien Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Boston Dynamics Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

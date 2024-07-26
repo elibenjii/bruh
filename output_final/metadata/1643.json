@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1643",
+  "description": 1643,
+  "image": "https://image.pepethegame.com/1643.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

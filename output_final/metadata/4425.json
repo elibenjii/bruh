@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4425",
+  "description": 4425,
+  "image": "https://image.pepethegame.com/4425.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bread",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

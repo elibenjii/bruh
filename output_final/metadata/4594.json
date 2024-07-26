@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4594",
+  "description": 4594,
+  "image": "https://image.pepethegame.com/4594.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Black",
+      "trait_type": "Body"
+    }
+  ]
+}

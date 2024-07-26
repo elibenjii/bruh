@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #1598",
+  "description": 1598,
+  "image": "https://image.pepethegame.com/1598.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Futuristic Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Ninja Turtle Mask",
+      "trait_type": "Accessory"
+    }
+  ]
+}

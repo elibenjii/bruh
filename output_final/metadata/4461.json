@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #4461",
+  "description": 4461,
+  "image": "https://image.pepethegame.com/4461.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Space Weed",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Space Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Space Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #5589",
+  "description": 5589,
+  "image": "https://image.pepethegame.com/5589.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Electroman",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

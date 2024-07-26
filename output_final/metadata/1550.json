@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #1550",
+  "description": 1550,
+  "image": "https://image.pepethegame.com/1550.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pink Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    }
+  ]
+}

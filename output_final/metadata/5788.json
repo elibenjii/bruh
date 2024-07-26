@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5788",
+  "description": 5788,
+  "image": "https://image.pepethegame.com/5788.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    }
+  ]
+}

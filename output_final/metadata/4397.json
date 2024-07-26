@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4397",
+  "description": 4397,
+  "image": "https://image.pepethegame.com/4397.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    }
+  ]
+}

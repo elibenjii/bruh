@@ -1,0 +1,29 @@
+{
+  "name": "PEPE #3033",
+  "description": 3033,
+  "image": "https://image.pepethegame.com/3033.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lucille Bat",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Futuristic Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
+    }
+  ]
+}

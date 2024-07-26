@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #4090",
+  "description": 4090,
+  "image": "https://image.pepethegame.com/4090.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bandito",
+      "trait_type": "Accessory"
+    }
+  ]
+}

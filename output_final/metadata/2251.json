@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2251",
+  "description": 2251,
+  "image": "https://image.pepethegame.com/2251.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

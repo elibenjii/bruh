@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #2390",
+  "description": 2390,
+  "image": "https://image.pepethegame.com/2390.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

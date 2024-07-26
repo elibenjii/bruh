@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5526",
+  "description": 5526,
+  "image": "https://image.pepethegame.com/5526.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    }
+  ]
+}

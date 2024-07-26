@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5621",
+  "description": 5621,
+  "image": "https://image.pepethegame.com/5621.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    }
+  ]
+}

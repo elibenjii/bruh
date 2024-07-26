@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #5421",
+  "description": 5421,
+  "image": "https://image.pepethegame.com/5421.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Terrorist",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Green Headphone",
+      "trait_type": "Accessory"
+    }
+  ]
+}

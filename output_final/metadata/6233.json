@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6233",
+  "description": 6233,
+  "image": "https://image.pepethegame.com/6233.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Abibas",
+      "trait_type": "Body"
+    }
+  ]
+}

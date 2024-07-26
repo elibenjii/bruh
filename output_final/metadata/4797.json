@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4797",
+  "description": 4797,
+  "image": "https://image.pepethegame.com/4797.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Grenade Man",
+      "trait_type": "Body"
+    }
+  ]
+}

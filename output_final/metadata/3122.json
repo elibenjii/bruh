@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3122",
+  "description": 3122,
+  "image": "https://image.pepethegame.com/3122.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    }
+  ]
+}

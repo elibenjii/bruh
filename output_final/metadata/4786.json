@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #4786",
+  "description": 4786,
+  "image": "https://image.pepethegame.com/4786.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Steampunk Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bandana",
+      "trait_type": "Accessory"
+    }
+  ]
+}

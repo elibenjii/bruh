@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #209",
+  "description": 209,
+  "image": "https://image.pepethegame.com/209.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

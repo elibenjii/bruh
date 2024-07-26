@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #2166",
+  "description": 2166,
+  "image": "https://image.pepethegame.com/2166.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ice Armor",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bandana",
+      "trait_type": "Accessory"
+    }
+  ]
+}

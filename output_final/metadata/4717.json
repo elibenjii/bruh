@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4717",
+  "description": 4717,
+  "image": "https://image.pepethegame.com/4717.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Terrorist",
+      "trait_type": "Body"
+    }
+  ]
+}

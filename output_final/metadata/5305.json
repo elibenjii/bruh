@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5305",
+  "description": 5305,
+  "image": "https://image.pepethegame.com/5305.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    }
+  ]
+}

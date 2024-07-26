@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2973",
+  "description": 2973,
+  "image": "https://image.pepethegame.com/2973.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gentleman",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #2388",
+  "description": 2388,
+  "image": "https://image.pepethegame.com/2388.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Not Sure",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Flying Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Alien Brand",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
+    }
+  ]
+}

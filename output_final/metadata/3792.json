@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #3792",
+  "description": 3792,
+  "image": "https://image.pepethegame.com/3792.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cozy Sweater",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #658",
+  "description": 658,
+  "image": "https://image.pepethegame.com/658.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ghetto Jacket",
+      "trait_type": "Body"
+    }
+  ]
+}

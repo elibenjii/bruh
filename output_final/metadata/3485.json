@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3485",
+  "description": 3485,
+  "image": "https://image.pepethegame.com/3485.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Skelton Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

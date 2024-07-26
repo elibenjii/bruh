@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #5990",
+  "description": 5990,
+  "image": "https://image.pepethegame.com/5990.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cozy Sweater",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pacifier",
+      "trait_type": "Accessory"
+    }
+  ]
+}

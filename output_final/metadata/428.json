@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #428",
+  "description": 428,
+  "image": "https://image.pepethegame.com/428.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    }
+  ]
+}

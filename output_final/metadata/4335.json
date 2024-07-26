@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4335",
+  "description": 4335,
+  "image": "https://image.pepethegame.com/4335.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    }
+  ]
+}

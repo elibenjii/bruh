@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5051",
+  "description": 5051,
+  "image": "https://image.pepethegame.com/5051.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pink Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

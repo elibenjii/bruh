@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5319",
+  "description": 5319,
+  "image": "https://image.pepethegame.com/5319.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Space Spinach",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Black",
+      "trait_type": "Body"
+    }
+  ]
+}

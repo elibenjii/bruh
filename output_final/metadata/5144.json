@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5144",
+  "description": 5144,
+  "image": "https://image.pepethegame.com/5144.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hulk",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hulk Body",
+      "trait_type": "Body"
+    }
+  ]
+}

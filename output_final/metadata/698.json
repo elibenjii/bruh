@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #698",
+  "description": 698,
+  "image": "https://image.pepethegame.com/698.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #445",
+  "description": 445,
+  "image": "https://image.pepethegame.com/445.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3567",
+  "description": 3567,
+  "image": "https://image.pepethegame.com/3567.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

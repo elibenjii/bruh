@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #249",
+  "description": 249,
+  "image": "https://image.pepethegame.com/249.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Not Sure",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    }
+  ]
+}

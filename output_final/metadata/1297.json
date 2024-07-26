@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1297",
+  "description": 1297,
+  "image": "https://image.pepethegame.com/1297.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cute Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Abibas",
+      "trait_type": "Body"
+    }
+  ]
+}

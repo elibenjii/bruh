@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5623",
+  "description": 5623,
+  "image": "https://image.pepethegame.com/5623.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Send It",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Aladdin Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

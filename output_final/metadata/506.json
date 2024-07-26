@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #506",
+  "description": 506,
+  "image": "https://image.pepethegame.com/506.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Shark Hoodie",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shark Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

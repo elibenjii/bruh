@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2428",
+  "description": 2428,
+  "image": "https://image.pepethegame.com/2428.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Funky",
+      "trait_type": "Body"
+    }
+  ]
+}

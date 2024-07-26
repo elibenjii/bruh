@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3799",
+  "description": 3799,
+  "image": "https://image.pepethegame.com/3799.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Mario",
+      "trait_type": "Body"
+    }
+  ]
+}

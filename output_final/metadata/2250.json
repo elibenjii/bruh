@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2250",
+  "description": 2250,
+  "image": "https://image.pepethegame.com/2250.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Send It",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Cyber Claw",
+      "trait_type": "Body"
+    }
+  ]
+}

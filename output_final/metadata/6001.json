@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #6001",
+  "description": 6001,
+  "image": "https://image.pepethegame.com/6001.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shaolin Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Purple Space Helmet",
+      "trait_type": "Accessory"
+    }
+  ]
+}

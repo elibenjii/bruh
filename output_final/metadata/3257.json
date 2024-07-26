@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3257",
+  "description": 3257,
+  "image": "https://image.pepethegame.com/3257.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Trapped Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

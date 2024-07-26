@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1452",
+  "description": 1452,
+  "image": "https://image.pepethegame.com/1452.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hot Dog",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Boston Dynamics Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

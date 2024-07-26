@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1983",
+  "description": 1983,
+  "image": "https://image.pepethegame.com/1983.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Special Force",
+      "trait_type": "Body"
+    }
+  ]
+}

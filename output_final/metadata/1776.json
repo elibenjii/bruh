@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1776",
+  "description": 1776,
+  "image": "https://image.pepethegame.com/1776.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ice Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

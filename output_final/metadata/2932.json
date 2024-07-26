@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2932",
+  "description": 2932,
+  "image": "https://image.pepethegame.com/2932.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hot Dog",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Weed",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5784",
+  "description": 5784,
+  "image": "https://image.pepethegame.com/5784.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Boston Dynamics Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

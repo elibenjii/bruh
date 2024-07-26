@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #786",
+  "description": 786,
+  "image": "https://image.pepethegame.com/786.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

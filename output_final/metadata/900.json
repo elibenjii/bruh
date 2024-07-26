@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #900",
+  "description": 900,
+  "image": "https://image.pepethegame.com/900.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    }
+  ]
+}

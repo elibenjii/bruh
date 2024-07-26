@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1100",
+  "description": 1100,
+  "image": "https://image.pepethegame.com/1100.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Frogger",
+      "trait_type": "Body"
+    }
+  ]
+}

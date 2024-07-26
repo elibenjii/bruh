@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2113",
+  "description": 2113,
+  "image": "https://image.pepethegame.com/2113.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    }
+  ]
+}

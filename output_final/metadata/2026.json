@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2026",
+  "description": 2026,
+  "image": "https://image.pepethegame.com/2026.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

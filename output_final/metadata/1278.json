@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1278",
+  "description": 1278,
+  "image": "https://image.pepethegame.com/1278.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pink Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

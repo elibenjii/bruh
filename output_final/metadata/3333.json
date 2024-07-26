@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3333",
+  "description": 3333,
+  "image": "https://image.pepethegame.com/3333.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

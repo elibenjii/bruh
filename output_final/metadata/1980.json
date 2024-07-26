@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1980",
+  "description": 1980,
+  "image": "https://image.pepethegame.com/1980.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Retard Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

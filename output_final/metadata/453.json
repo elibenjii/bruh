@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #453",
+  "description": 453,
+  "image": "https://image.pepethegame.com/453.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Italian Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1952",
+  "description": 1952,
+  "image": "https://image.pepethegame.com/1952.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Tank Top Jacket",
+      "trait_type": "Body"
+    }
+  ]
+}

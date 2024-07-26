@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1998",
+  "description": 1998,
+  "image": "https://image.pepethegame.com/1998.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    }
+  ]
+}

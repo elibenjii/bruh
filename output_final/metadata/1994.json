@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1994",
+  "description": 1994,
+  "image": "https://image.pepethegame.com/1994.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Agent Pepe Pistol",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

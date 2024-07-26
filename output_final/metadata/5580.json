@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5580",
+  "description": 5580,
+  "image": "https://image.pepethegame.com/5580.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GMO Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    }
+  ]
+}

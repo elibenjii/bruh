@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5781",
+  "description": 5781,
+  "image": "https://image.pepethegame.com/5781.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shaolin Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

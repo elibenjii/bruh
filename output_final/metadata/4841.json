@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4841",
+  "description": 4841,
+  "image": "https://image.pepethegame.com/4841.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Futuristic Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

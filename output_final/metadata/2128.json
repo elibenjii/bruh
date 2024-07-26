@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2128",
+  "description": 2128,
+  "image": "https://image.pepethegame.com/2128.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Beer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

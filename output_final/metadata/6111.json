@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6111",
+  "description": 6111,
+  "image": "https://image.pepethegame.com/6111.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GMO Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

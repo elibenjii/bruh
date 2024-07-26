@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2007",
+  "description": 2007,
+  "image": "https://image.pepethegame.com/2007.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lollipop Orange",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Chilling",
+      "trait_type": "Body"
+    }
+  ]
+}

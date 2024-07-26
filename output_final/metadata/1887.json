@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1887",
+  "description": 1887,
+  "image": "https://image.pepethegame.com/1887.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Agent Pepe Pistol",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

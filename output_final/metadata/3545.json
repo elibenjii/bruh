@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3545",
+  "description": 3545,
+  "image": "https://image.pepethegame.com/3545.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Alien Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic White",
+      "trait_type": "Body"
+    }
+  ]
+}

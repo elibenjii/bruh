@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3280",
+  "description": 3280,
+  "image": "https://image.pepethegame.com/3280.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

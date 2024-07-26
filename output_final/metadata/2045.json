@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2045",
+  "description": 2045,
+  "image": "https://image.pepethegame.com/2045.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pokebong",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shaolin Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

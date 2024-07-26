@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #136",
+  "description": 136,
+  "image": "https://image.pepethegame.com/136.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #336",
+  "description": 336,
+  "image": "https://image.pepethegame.com/336.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cute Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Electroman",
+      "trait_type": "Body"
+    }
+  ]
+}

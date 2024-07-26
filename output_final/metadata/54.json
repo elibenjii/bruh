@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #54",
+  "description": 54,
+  "image": "https://image.pepethegame.com/54.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fist",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Orange Jacket",
+      "trait_type": "Body"
+    }
+  ]
+}

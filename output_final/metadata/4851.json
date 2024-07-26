@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4851",
+  "description": 4851,
+  "image": "https://image.pepethegame.com/4851.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4670",
+  "description": 4670,
+  "image": "https://image.pepethegame.com/4670.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Orange Jacket",
+      "trait_type": "Body"
+    }
+  ]
+}

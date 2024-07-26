@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5739",
+  "description": 5739,
+  "image": "https://image.pepethegame.com/5739.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Unicorn",
+      "trait_type": "Body"
+    }
+  ]
+}

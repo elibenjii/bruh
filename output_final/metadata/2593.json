@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2593",
+  "description": 2593,
+  "image": "https://image.pepethegame.com/2593.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

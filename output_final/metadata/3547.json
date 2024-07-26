@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3547",
+  "description": 3547,
+  "image": "https://image.pepethegame.com/3547.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

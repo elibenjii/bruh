@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4015",
+  "description": 4015,
+  "image": "https://image.pepethegame.com/4015.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fist",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

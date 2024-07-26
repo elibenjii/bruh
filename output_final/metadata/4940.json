@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4940",
+  "description": 4940,
+  "image": "https://image.pepethegame.com/4940.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

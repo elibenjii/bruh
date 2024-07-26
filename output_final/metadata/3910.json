@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3910",
+  "description": 3910,
+  "image": "https://image.pepethegame.com/3910.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Black",
+      "trait_type": "Body"
+    }
+  ]
+}

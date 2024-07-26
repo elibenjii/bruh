@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5128",
+  "description": 5128,
+  "image": "https://image.pepethegame.com/5128.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cute Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ghetto Jacket",
+      "trait_type": "Body"
+    }
+  ]
+}

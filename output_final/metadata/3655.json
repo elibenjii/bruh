@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3655",
+  "description": 3655,
+  "image": "https://image.pepethegame.com/3655.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Body"
+    }
+  ]
+}

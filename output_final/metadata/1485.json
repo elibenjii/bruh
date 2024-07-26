@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1485",
+  "description": 1485,
+  "image": "https://image.pepethegame.com/1485.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Detective",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pimp Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #317",
+  "description": 317,
+  "image": "https://image.pepethegame.com/317.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pizza",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

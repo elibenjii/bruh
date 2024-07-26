@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2698",
+  "description": 2698,
+  "image": "https://image.pepethegame.com/2698.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1410",
+  "description": 1410,
+  "image": "https://image.pepethegame.com/1410.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hot Dog",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Steampunk Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

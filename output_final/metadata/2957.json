@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2957",
+  "description": 2957,
+  "image": "https://image.pepethegame.com/2957.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Frogger",
+      "trait_type": "Body"
+    }
+  ]
+}

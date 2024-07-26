@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2233",
+  "description": 2233,
+  "image": "https://image.pepethegame.com/2233.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Detective",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pimp Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

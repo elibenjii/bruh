@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1311",
+  "description": 1311,
+  "image": "https://image.pepethegame.com/1311.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Agent Pepe Pistol",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

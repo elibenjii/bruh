@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3563",
+  "description": 3563,
+  "image": "https://image.pepethegame.com/3563.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Space Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

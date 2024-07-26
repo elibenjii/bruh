@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6262",
+  "description": 6262,
+  "image": "https://image.pepethegame.com/6262.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shotgun Ammo",
+      "trait_type": "Body"
+    }
+  ]
+}

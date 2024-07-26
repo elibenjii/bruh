@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #832",
+  "description": 832,
+  "image": "https://image.pepethegame.com/832.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Space Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

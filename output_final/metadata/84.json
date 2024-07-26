@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #84",
+  "description": 84,
+  "image": "https://image.pepethegame.com/84.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

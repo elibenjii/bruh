@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #790",
+  "description": 790,
+  "image": "https://image.pepethegame.com/790.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Space Spinach",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shoulder Strap",
+      "trait_type": "Body"
+    }
+  ]
+}

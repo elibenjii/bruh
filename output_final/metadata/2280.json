@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2280",
+  "description": 2280,
+  "image": "https://image.pepethegame.com/2280.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

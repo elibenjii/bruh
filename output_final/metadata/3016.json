@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3016",
+  "description": 3016,
+  "image": "https://image.pepethegame.com/3016.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Tank Top",
+      "trait_type": "Body"
+    }
+  ]
+}

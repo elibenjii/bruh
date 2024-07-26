@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #709",
+  "description": 709,
+  "image": "https://image.pepethegame.com/709.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #425",
+  "description": 425,
+  "image": "https://image.pepethegame.com/425.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Toxic Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

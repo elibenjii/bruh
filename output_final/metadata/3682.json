@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3682",
+  "description": 3682,
+  "image": "https://image.pepethegame.com/3682.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Tatoo",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Overalls",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #315",
+  "description": 315,
+  "image": "https://image.pepethegame.com/315.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Not Sure",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pork BBQ",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

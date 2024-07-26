@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1584",
+  "description": 1584,
+  "image": "https://image.pepethegame.com/1584.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    }
+  ]
+}

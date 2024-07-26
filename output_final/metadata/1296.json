@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1296",
+  "description": 1296,
+  "image": "https://image.pepethegame.com/1296.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GMO Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    }
+  ]
+}

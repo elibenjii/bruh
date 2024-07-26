@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5740",
+  "description": 5740,
+  "image": "https://image.pepethegame.com/5740.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Electroman",
+      "trait_type": "Body"
+    }
+  ]
+}

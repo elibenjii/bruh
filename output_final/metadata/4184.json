@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4184",
+  "description": 4184,
+  "image": "https://image.pepethegame.com/4184.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1589",
+  "description": 1589,
+  "image": "https://image.pepethegame.com/1589.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bread",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    }
+  ]
+}

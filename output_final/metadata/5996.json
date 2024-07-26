@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5996",
+  "description": 5996,
+  "image": "https://image.pepethegame.com/5996.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pink Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

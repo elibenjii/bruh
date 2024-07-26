@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4648",
+  "description": 4648,
+  "image": "https://image.pepethegame.com/4648.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fist",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

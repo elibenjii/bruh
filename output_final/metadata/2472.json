@@ -1,0 +1,29 @@
+{
+  "name": "PEPE #2472",
+  "description": 2472,
+  "image": "https://image.pepethegame.com/2472.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fist",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Chilling",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Walter Face",
+      "trait_type": "Accessory"
+    }
+  ]
+}

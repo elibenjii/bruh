@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #754",
+  "description": 754,
+  "image": "https://image.pepethegame.com/754.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

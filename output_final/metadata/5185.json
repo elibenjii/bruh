@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5185",
+  "description": 5185,
+  "image": "https://image.pepethegame.com/5185.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Shark Hoodie",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shark Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

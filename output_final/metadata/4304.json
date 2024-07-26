@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4304",
+  "description": 4304,
+  "image": "https://image.pepethegame.com/4304.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

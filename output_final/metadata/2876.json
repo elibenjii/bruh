@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2876",
+  "description": 2876,
+  "image": "https://image.pepethegame.com/2876.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Beer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

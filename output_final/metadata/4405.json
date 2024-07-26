@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4405",
+  "description": 4405,
+  "image": "https://image.pepethegame.com/4405.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ultra",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ultra",
+      "trait_type": "Body"
+    }
+  ]
+}

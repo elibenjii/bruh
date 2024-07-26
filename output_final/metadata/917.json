@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #917",
+  "description": 917,
+  "image": "https://image.pepethegame.com/917.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2134",
+  "description": 2134,
+  "image": "https://image.pepethegame.com/2134.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Black",
+      "trait_type": "Body"
+    }
+  ]
+}

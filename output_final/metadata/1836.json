@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1836",
+  "description": 1836,
+  "image": "https://image.pepethegame.com/1836.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Grenade Man",
+      "trait_type": "Body"
+    }
+  ]
+}

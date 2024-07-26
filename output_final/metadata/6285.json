@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6285",
+  "description": 6285,
+  "image": "https://image.pepethegame.com/6285.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Red",
+      "trait_type": "Body"
+    }
+  ]
+}

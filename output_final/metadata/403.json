@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #403",
+  "description": 403,
+  "image": "https://image.pepethegame.com/403.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Electroman",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2032",
+  "description": 2032,
+  "image": "https://image.pepethegame.com/2032.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GMO Flower",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Skelton Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

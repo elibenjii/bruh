@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2966",
+  "description": 2966,
+  "image": "https://image.pepethegame.com/2966.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chicken BBQ",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Grenade Man",
+      "trait_type": "Body"
+    }
+  ]
+}

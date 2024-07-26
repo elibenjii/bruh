@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #228",
+  "description": 228,
+  "image": "https://image.pepethegame.com/228.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Space Spinach",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shoulder Strap",
+      "trait_type": "Body"
+    }
+  ]
+}

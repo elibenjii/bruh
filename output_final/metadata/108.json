@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #108",
+  "description": 108,
+  "image": "https://image.pepethegame.com/108.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Frogger",
+      "trait_type": "Body"
+    }
+  ]
+}

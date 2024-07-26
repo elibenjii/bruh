@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #501",
+  "description": 501,
+  "image": "https://image.pepethegame.com/501.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Buffed",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2763",
+  "description": 2763,
+  "image": "https://image.pepethegame.com/2763.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cute Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    }
+  ]
+}

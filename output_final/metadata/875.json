@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #875",
+  "description": 875,
+  "image": "https://image.pepethegame.com/875.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ice Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #844",
+  "description": 844,
+  "image": "https://image.pepethegame.com/844.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Boxing",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

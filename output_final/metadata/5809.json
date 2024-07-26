@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5809",
+  "description": 5809,
+  "image": "https://image.pepethegame.com/5809.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Unicorn",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4893",
+  "description": 4893,
+  "image": "https://image.pepethegame.com/4893.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    }
+  ]
+}

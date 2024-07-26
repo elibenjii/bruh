@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1728",
+  "description": 1728,
+  "image": "https://image.pepethegame.com/1728.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Tank Top",
+      "trait_type": "Body"
+    }
+  ]
+}

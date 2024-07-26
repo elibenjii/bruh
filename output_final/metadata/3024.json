@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3024",
+  "description": 3024,
+  "image": "https://image.pepethegame.com/3024.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Frogger",
+      "trait_type": "Body"
+    }
+  ]
+}

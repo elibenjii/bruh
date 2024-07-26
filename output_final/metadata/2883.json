@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2883",
+  "description": 2883,
+  "image": "https://image.pepethegame.com/2883.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Tatoo",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Cyber Claw",
+      "trait_type": "Body"
+    }
+  ]
+}

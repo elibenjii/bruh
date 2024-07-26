@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2722",
+  "description": 2722,
+  "image": "https://image.pepethegame.com/2722.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Orange Jacket",
+      "trait_type": "Body"
+    }
+  ]
+}

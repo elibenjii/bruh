@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3738",
+  "description": 3738,
+  "image": "https://image.pepethegame.com/3738.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    }
+  ]
+}

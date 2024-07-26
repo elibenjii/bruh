@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4902",
+  "description": 4902,
+  "image": "https://image.pepethegame.com/4902.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    }
+  ]
+}

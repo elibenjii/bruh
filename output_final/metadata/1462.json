@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1462",
+  "description": 1462,
+  "image": "https://image.pepethegame.com/1462.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4391",
+  "description": 4391,
+  "image": "https://image.pepethegame.com/4391.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lucille Bat",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ghetto Jacket",
+      "trait_type": "Body"
+    }
+  ]
+}

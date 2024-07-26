@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #121",
+  "description": 121,
+  "image": "https://image.pepethegame.com/121.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Special Force",
+      "trait_type": "Body"
+    }
+  ]
+}

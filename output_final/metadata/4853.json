@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4853",
+  "description": 4853,
+  "image": "https://image.pepethegame.com/4853.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pink Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

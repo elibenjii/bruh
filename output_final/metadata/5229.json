@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #5229",
+  "description": 5229,
+  "image": "https://image.pepethegame.com/5229.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Tank Top",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Bandana",
+      "trait_type": "Accessory"
+    }
+  ]
+}

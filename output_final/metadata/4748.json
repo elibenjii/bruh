@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4748",
+  "description": 4748,
+  "image": "https://image.pepethegame.com/4748.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

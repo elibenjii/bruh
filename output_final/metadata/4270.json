@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4270",
+  "description": 4270,
+  "image": "https://image.pepethegame.com/4270.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Gentleman",
+      "trait_type": "Body"
+    }
+  ]
+}

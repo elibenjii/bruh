@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3926",
+  "description": 3926,
+  "image": "https://image.pepethegame.com/3926.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

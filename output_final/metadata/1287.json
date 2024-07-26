@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1287",
+  "description": 1287,
+  "image": "https://image.pepethegame.com/1287.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

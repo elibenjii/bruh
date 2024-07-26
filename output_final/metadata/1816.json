@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1816",
+  "description": 1816,
+  "image": "https://image.pepethegame.com/1816.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Brown Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Buffed",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2063",
+  "description": 2063,
+  "image": "https://image.pepethegame.com/2063.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Boredemon",
+      "trait_type": "Body"
+    }
+  ]
+}

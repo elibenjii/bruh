@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3259",
+  "description": 3259,
+  "image": "https://image.pepethegame.com/3259.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Tatoo",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

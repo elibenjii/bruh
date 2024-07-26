@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1912",
+  "description": 1912,
+  "image": "https://image.pepethegame.com/1912.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

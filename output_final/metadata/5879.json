@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #5879",
+  "description": 5879,
+  "image": "https://image.pepethegame.com/5879.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Overalls",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Black Cap",
+      "trait_type": "Accessory"
+    }
+  ]
+}

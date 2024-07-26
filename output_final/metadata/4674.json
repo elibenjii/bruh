@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4674",
+  "description": 4674,
+  "image": "https://image.pepethegame.com/4674.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4995",
+  "description": 4995,
+  "image": "https://image.pepethegame.com/4995.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Retard Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    }
+  ]
+}

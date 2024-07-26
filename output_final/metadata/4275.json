@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4275",
+  "description": 4275,
+  "image": "https://image.pepethegame.com/4275.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Body"
+    }
+  ]
+}

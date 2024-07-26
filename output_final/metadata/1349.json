@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1349",
+  "description": 1349,
+  "image": "https://image.pepethegame.com/1349.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Samourai",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1871",
+  "description": 1871,
+  "image": "https://image.pepethegame.com/1871.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Retard Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

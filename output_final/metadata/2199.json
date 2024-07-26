@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2199",
+  "description": 2199,
+  "image": "https://image.pepethegame.com/2199.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Gentleman",
+      "trait_type": "Body"
+    }
+  ]
+}

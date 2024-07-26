@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2826",
+  "description": 2826,
+  "image": "https://image.pepethegame.com/2826.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Special Force",
+      "trait_type": "Body"
+    }
+  ]
+}

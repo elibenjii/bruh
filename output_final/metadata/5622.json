@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5622",
+  "description": 5622,
+  "image": "https://image.pepethegame.com/5622.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Weed",
+      "trait_type": "Body"
+    }
+  ]
+}

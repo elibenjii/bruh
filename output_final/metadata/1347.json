@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1347",
+  "description": 1347,
+  "image": "https://image.pepethegame.com/1347.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punk Badass",
+      "trait_type": "Body"
+    }
+  ]
+}

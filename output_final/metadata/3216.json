@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3216",
+  "description": 3216,
+  "image": "https://image.pepethegame.com/3216.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Mario",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4663",
+  "description": 4663,
+  "image": "https://image.pepethegame.com/4663.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    }
+  ]
+}

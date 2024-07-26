@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4020",
+  "description": 4020,
+  "image": "https://image.pepethegame.com/4020.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ultra",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ultra",
+      "trait_type": "Body"
+    }
+  ]
+}

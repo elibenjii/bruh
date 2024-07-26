@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1965",
+  "description": 1965,
+  "image": "https://image.pepethegame.com/1965.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GMO Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    }
+  ]
+}

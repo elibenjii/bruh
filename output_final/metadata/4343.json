@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4343",
+  "description": 4343,
+  "image": "https://image.pepethegame.com/4343.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cute Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Gentleman",
+      "trait_type": "Body"
+    }
+  ]
+}

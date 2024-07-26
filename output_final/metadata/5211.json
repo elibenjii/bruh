@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5211",
+  "description": 5211,
+  "image": "https://image.pepethegame.com/5211.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Jacket",
+      "trait_type": "Body"
+    }
+  ]
+}

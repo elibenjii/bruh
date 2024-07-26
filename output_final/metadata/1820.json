@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1820",
+  "description": 1820,
+  "image": "https://image.pepethegame.com/1820.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Brown Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Orange Jacket",
+      "trait_type": "Body"
+    }
+  ]
+}

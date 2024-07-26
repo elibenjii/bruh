@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3058",
+  "description": 3058,
+  "image": "https://image.pepethegame.com/3058.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Agent Pepe Pistol",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

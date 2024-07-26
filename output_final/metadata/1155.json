@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1155",
+  "description": 1155,
+  "image": "https://image.pepethegame.com/1155.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Body"
+    }
+  ]
+}

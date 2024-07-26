@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5298",
+  "description": 5298,
+  "image": "https://image.pepethegame.com/5298.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Funky",
+      "trait_type": "Body"
+    }
+  ]
+}

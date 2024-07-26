@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #470",
+  "description": 470,
+  "image": "https://image.pepethegame.com/470.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Lezards",
+      "trait_type": "Body"
+    }
+  ]
+}

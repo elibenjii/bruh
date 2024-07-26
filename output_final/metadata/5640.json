@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5640",
+  "description": 5640,
+  "image": "https://image.pepethegame.com/5640.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1875",
+  "description": 1875,
+  "image": "https://image.pepethegame.com/1875.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Red",
+      "trait_type": "Body"
+    }
+  ]
+}

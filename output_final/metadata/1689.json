@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1689",
+  "description": 1689,
+  "image": "https://image.pepethegame.com/1689.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

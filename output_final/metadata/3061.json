@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3061",
+  "description": 3061,
+  "image": "https://image.pepethegame.com/3061.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shaolin Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

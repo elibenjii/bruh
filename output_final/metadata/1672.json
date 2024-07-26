@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1672",
+  "description": 1672,
+  "image": "https://image.pepethegame.com/1672.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Buffed",
+      "trait_type": "Body"
+    }
+  ]
+}

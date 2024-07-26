@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #527",
+  "description": 527,
+  "image": "https://image.pepethegame.com/527.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4106",
+  "description": 4106,
+  "image": "https://image.pepethegame.com/4106.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Trapped Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

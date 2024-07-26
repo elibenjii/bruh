@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2534",
+  "description": 2534,
+  "image": "https://image.pepethegame.com/2534.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

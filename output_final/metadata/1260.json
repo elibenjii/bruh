@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1260",
+  "description": 1260,
+  "image": "https://image.pepethegame.com/1260.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Shark Hoodie",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shark Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

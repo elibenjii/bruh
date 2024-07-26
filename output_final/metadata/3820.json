@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3820",
+  "description": 3820,
+  "image": "https://image.pepethegame.com/3820.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Steampunk Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

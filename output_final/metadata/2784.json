@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2784",
+  "description": 2784,
+  "image": "https://image.pepethegame.com/2784.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

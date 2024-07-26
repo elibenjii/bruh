@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2977",
+  "description": 2977,
+  "image": "https://image.pepethegame.com/2977.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    }
+  ]
+}

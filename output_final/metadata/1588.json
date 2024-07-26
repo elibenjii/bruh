@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1588",
+  "description": 1588,
+  "image": "https://image.pepethegame.com/1588.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    }
+  ]
+}

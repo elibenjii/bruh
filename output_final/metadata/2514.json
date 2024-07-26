@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2514",
+  "description": 2514,
+  "image": "https://image.pepethegame.com/2514.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

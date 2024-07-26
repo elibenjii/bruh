@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #18",
+  "description": 18,
+  "image": "https://image.pepethegame.com/18.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pokebong",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

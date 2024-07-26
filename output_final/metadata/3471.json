@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3471",
+  "description": 3471,
+  "image": "https://image.pepethegame.com/3471.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

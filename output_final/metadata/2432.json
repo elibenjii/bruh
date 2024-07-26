@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2432",
+  "description": 2432,
+  "image": "https://image.pepethegame.com/2432.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

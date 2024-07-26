@@ -1,0 +1,25 @@
+{
+  "name": "PEPE #5278",
+  "description": 5278,
+  "image": "https://image.pepethegame.com/5278.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Cyber Claw",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Hobbo Hat",
+      "trait_type": "Accessory"
+    }
+  ]
+}

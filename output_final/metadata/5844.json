@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5844",
+  "description": 5844,
+  "image": "https://image.pepethegame.com/5844.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    }
+  ]
+}

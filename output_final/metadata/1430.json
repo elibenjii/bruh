@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1430",
+  "description": 1430,
+  "image": "https://image.pepethegame.com/1430.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Grenade Man",
+      "trait_type": "Body"
+    }
+  ]
+}

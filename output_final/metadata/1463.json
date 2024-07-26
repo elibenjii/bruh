@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1463",
+  "description": 1463,
+  "image": "https://image.pepethegame.com/1463.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bread",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Futuristic Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

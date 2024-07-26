@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1239",
+  "description": 1239,
+  "image": "https://image.pepethegame.com/1239.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Brown Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

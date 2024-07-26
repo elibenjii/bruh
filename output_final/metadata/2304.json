@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2304",
+  "description": 2304,
+  "image": "https://image.pepethegame.com/2304.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    }
+  ]
+}

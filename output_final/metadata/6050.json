@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6050",
+  "description": 6050,
+  "image": "https://image.pepethegame.com/6050.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    }
+  ]
+}

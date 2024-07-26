@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3226",
+  "description": 3226,
+  "image": "https://image.pepethegame.com/3226.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Black",
+      "trait_type": "Body"
+    }
+  ]
+}

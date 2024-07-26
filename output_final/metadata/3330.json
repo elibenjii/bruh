@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3330",
+  "description": 3330,
+  "image": "https://image.pepethegame.com/3330.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

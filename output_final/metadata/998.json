@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #998",
+  "description": 998,
+  "image": "https://image.pepethegame.com/998.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    }
+  ]
+}

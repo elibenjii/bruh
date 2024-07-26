@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2789",
+  "description": 2789,
+  "image": "https://image.pepethegame.com/2789.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    }
+  ]
+}

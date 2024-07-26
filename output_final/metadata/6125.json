@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6125",
+  "description": 6125,
+  "image": "https://image.pepethegame.com/6125.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2570",
+  "description": 2570,
+  "image": "https://image.pepethegame.com/2570.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Jacket",
+      "trait_type": "Body"
+    }
+  ]
+}

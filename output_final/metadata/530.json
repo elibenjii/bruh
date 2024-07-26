@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #530",
+  "description": 530,
+  "image": "https://image.pepethegame.com/530.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Toxic Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

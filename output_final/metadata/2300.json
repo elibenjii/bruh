@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2300",
+  "description": 2300,
+  "image": "https://image.pepethegame.com/2300.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GMO Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4354",
+  "description": 4354,
+  "image": "https://image.pepethegame.com/4354.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3419",
+  "description": 3419,
+  "image": "https://image.pepethegame.com/3419.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Retard Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Black",
+      "trait_type": "Body"
+    }
+  ]
+}

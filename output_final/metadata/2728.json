@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2728",
+  "description": 2728,
+  "image": "https://image.pepethegame.com/2728.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Unicorn",
+      "trait_type": "Body"
+    }
+  ]
+}

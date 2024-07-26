@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6147",
+  "description": 6147,
+  "image": "https://image.pepethegame.com/6147.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ice Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5626",
+  "description": 5626,
+  "image": "https://image.pepethegame.com/5626.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

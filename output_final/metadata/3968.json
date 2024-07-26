@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3968",
+  "description": 3968,
+  "image": "https://image.pepethegame.com/3968.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hot Dog",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Weed",
+      "trait_type": "Body"
+    }
+  ]
+}

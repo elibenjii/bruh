@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #395",
+  "description": 395,
+  "image": "https://image.pepethegame.com/395.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Aladdin Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

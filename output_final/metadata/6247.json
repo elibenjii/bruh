@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6247",
+  "description": 6247,
+  "image": "https://image.pepethegame.com/6247.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    }
+  ]
+}

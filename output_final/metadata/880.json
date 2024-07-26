@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #880",
+  "description": 880,
+  "image": "https://image.pepethegame.com/880.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Detective",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pimp Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

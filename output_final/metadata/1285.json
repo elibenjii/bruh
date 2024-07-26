@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1285",
+  "description": 1285,
+  "image": "https://image.pepethegame.com/1285.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Toxic Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

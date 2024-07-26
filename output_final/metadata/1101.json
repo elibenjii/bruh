@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1101",
+  "description": 1101,
+  "image": "https://image.pepethegame.com/1101.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Toxic Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

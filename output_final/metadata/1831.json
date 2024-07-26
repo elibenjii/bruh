@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1831",
+  "description": 1831,
+  "image": "https://image.pepethegame.com/1831.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    }
+  ]
+}

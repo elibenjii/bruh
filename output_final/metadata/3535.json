@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3535",
+  "description": 3535,
+  "image": "https://image.pepethegame.com/3535.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Funky",
+      "trait_type": "Body"
+    }
+  ]
+}

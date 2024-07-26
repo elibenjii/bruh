@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #402",
+  "description": 402,
+  "image": "https://image.pepethegame.com/402.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

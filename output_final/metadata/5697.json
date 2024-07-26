@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5697",
+  "description": 5697,
+  "image": "https://image.pepethegame.com/5697.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Skelton Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

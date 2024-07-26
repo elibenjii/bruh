@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5988",
+  "description": 5988,
+  "image": "https://image.pepethegame.com/5988.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Brown Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

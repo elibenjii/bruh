@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5153",
+  "description": 5153,
+  "image": "https://image.pepethegame.com/5153.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Funky",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3012",
+  "description": 3012,
+  "image": "https://image.pepethegame.com/3012.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    }
+  ]
+}

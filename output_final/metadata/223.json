@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #223",
+  "description": 223,
+  "image": "https://image.pepethegame.com/223.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    }
+  ]
+}

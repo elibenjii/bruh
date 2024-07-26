@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2757",
+  "description": 2757,
+  "image": "https://image.pepethegame.com/2757.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Flying Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

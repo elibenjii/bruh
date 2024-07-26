@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4903",
+  "description": 4903,
+  "image": "https://image.pepethegame.com/4903.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

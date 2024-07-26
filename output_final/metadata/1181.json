@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1181",
+  "description": 1181,
+  "image": "https://image.pepethegame.com/1181.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

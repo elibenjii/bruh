@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4598",
+  "description": 4598,
+  "image": "https://image.pepethegame.com/4598.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Steampunk Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2012",
+  "description": 2012,
+  "image": "https://image.pepethegame.com/2012.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    }
+  ]
+}

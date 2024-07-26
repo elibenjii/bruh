@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6165",
+  "description": 6165,
+  "image": "https://image.pepethegame.com/6165.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Retard Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    }
+  ]
+}

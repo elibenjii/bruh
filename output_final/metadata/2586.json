@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2586",
+  "description": 2586,
+  "image": "https://image.pepethegame.com/2586.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

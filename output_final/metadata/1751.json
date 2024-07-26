@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1751",
+  "description": 1751,
+  "image": "https://image.pepethegame.com/1751.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Futuristic Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

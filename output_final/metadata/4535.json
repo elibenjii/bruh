@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4535",
+  "description": 4535,
+  "image": "https://image.pepethegame.com/4535.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

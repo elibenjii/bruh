@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1918",
+  "description": 1918,
+  "image": "https://image.pepethegame.com/1918.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    }
+  ]
+}

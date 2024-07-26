@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3388",
+  "description": 3388,
+  "image": "https://image.pepethegame.com/3388.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

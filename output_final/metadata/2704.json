@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2704",
+  "description": 2704,
+  "image": "https://image.pepethegame.com/2704.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Gentleman",
+      "trait_type": "Body"
+    }
+  ]
+}

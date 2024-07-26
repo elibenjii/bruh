@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5547",
+  "description": 5547,
+  "image": "https://image.pepethegame.com/5547.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Shark Hoodie",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shark Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

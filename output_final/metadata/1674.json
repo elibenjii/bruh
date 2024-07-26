@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1674",
+  "description": 1674,
+  "image": "https://image.pepethegame.com/1674.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Italian Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shoulder Strap",
+      "trait_type": "Body"
+    }
+  ]
+}

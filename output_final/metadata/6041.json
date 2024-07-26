@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6041",
+  "description": 6041,
+  "image": "https://image.pepethegame.com/6041.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lollipop Orange",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

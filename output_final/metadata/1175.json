@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1175",
+  "description": 1175,
+  "image": "https://image.pepethegame.com/1175.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Samourai",
+      "trait_type": "Body"
+    }
+  ]
+}

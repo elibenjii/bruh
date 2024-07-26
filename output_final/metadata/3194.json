@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3194",
+  "description": 3194,
+  "image": "https://image.pepethegame.com/3194.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Aladdin Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

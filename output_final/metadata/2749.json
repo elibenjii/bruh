@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2749",
+  "description": 2749,
+  "image": "https://image.pepethegame.com/2749.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chicken BBQ",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

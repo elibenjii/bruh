@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6056",
+  "description": 6056,
+  "image": "https://image.pepethegame.com/6056.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Toxic Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

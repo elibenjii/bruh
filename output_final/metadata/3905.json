@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3905",
+  "description": 3905,
+  "image": "https://image.pepethegame.com/3905.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

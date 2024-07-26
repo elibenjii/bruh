@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #935",
+  "description": 935,
+  "image": "https://image.pepethegame.com/935.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Tank Top Jacket",
+      "trait_type": "Body"
+    }
+  ]
+}

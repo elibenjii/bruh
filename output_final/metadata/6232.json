@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6232",
+  "description": 6232,
+  "image": "https://image.pepethegame.com/6232.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

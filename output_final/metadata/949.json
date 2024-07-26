@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #949",
+  "description": 949,
+  "image": "https://image.pepethegame.com/949.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5755",
+  "description": 5755,
+  "image": "https://image.pepethegame.com/5755.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bread",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Skelton Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

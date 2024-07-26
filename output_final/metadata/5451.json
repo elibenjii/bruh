@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5451",
+  "description": 5451,
+  "image": "https://image.pepethegame.com/5451.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

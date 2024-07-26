@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2235",
+  "description": 2235,
+  "image": "https://image.pepethegame.com/2235.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic White",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4991",
+  "description": 4991,
+  "image": "https://image.pepethegame.com/4991.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Not Sure",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

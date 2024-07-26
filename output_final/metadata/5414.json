@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5414",
+  "description": 5414,
+  "image": "https://image.pepethegame.com/5414.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

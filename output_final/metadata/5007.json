@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5007",
+  "description": 5007,
+  "image": "https://image.pepethegame.com/5007.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

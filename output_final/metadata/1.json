@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1",
+  "description": 1,
+  "image": "https://image.pepethegame.com/1.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Black",
+      "trait_type": "Body"
+    }
+  ]
+}

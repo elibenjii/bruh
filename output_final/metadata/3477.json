@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3477",
+  "description": 3477,
+  "image": "https://image.pepethegame.com/3477.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hot Dog",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Gentleman",
+      "trait_type": "Body"
+    }
+  ]
+}

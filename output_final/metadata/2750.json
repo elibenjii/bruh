@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2750",
+  "description": 2750,
+  "image": "https://image.pepethegame.com/2750.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3047",
+  "description": 3047,
+  "image": "https://image.pepethegame.com/3047.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Electroman",
+      "trait_type": "Body"
+    }
+  ]
+}

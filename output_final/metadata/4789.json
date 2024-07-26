@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4789",
+  "description": 4789,
+  "image": "https://image.pepethegame.com/4789.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GMO Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    }
+  ]
+}

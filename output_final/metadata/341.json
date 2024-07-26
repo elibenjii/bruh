@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #341",
+  "description": 341,
+  "image": "https://image.pepethegame.com/341.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

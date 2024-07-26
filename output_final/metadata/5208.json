@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5208",
+  "description": 5208,
+  "image": "https://image.pepethegame.com/5208.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GMO Flower",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Grenade Man",
+      "trait_type": "Body"
+    }
+  ]
+}

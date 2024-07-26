@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1747",
+  "description": 1747,
+  "image": "https://image.pepethegame.com/1747.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

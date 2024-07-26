@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4575",
+  "description": 4575,
+  "image": "https://image.pepethegame.com/4575.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Italian Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

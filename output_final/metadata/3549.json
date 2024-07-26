@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3549",
+  "description": 3549,
+  "image": "https://image.pepethegame.com/3549.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cozy Sweater",
+      "trait_type": "Body"
+    }
+  ]
+}

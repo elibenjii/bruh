@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2133",
+  "description": 2133,
+  "image": "https://image.pepethegame.com/2133.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Red",
+      "trait_type": "Body"
+    }
+  ]
+}

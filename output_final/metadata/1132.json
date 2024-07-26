@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1132",
+  "description": 1132,
+  "image": "https://image.pepethegame.com/1132.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    }
+  ]
+}

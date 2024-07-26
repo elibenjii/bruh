@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2088",
+  "description": 2088,
+  "image": "https://image.pepethegame.com/2088.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Space Spinach",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    }
+  ]
+}

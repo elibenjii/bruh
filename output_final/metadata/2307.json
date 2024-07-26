@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2307",
+  "description": 2307,
+  "image": "https://image.pepethegame.com/2307.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    }
+  ]
+}

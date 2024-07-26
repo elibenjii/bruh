@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1398",
+  "description": 1398,
+  "image": "https://image.pepethegame.com/1398.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Red",
+      "trait_type": "Body"
+    }
+  ]
+}

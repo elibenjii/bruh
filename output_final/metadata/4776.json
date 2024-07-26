@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4776",
+  "description": 4776,
+  "image": "https://image.pepethegame.com/4776.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Boston Dynamics Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

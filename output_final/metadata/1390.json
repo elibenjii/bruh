@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1390",
+  "description": 1390,
+  "image": "https://image.pepethegame.com/1390.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Body"
+    }
+  ]
+}

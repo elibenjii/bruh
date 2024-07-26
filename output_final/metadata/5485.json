@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5485",
+  "description": 5485,
+  "image": "https://image.pepethegame.com/5485.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Detective",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pimp Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

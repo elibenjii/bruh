@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5062",
+  "description": 5062,
+  "image": "https://image.pepethegame.com/5062.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Agent Pepe Pistol",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #586",
+  "description": 586,
+  "image": "https://image.pepethegame.com/586.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Alien Brand",
+      "trait_type": "Body"
+    }
+  ]
+}

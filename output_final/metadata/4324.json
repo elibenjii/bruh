@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4324",
+  "description": 4324,
+  "image": "https://image.pepethegame.com/4324.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Abibas",
+      "trait_type": "Body"
+    }
+  ]
+}

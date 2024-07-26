@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5603",
+  "description": 5603,
+  "image": "https://image.pepethegame.com/5603.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lucille Bat",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    }
+  ]
+}

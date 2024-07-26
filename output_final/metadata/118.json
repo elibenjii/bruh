@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #118",
+  "description": 118,
+  "image": "https://image.pepethegame.com/118.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Lumberjack",
+      "trait_type": "Body"
+    }
+  ]
+}

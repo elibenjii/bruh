@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4612",
+  "description": 4612,
+  "image": "https://image.pepethegame.com/4612.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GMO Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4109",
+  "description": 4109,
+  "image": "https://image.pepethegame.com/4109.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Weed",
+      "trait_type": "Body"
+    }
+  ]
+}

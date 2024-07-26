@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5430",
+  "description": 5430,
+  "image": "https://image.pepethegame.com/5430.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GMO Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

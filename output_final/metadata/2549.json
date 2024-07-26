@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2549",
+  "description": 2549,
+  "image": "https://image.pepethegame.com/2549.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Retard Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    }
+  ]
+}

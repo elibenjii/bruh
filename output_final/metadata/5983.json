@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5983",
+  "description": 5983,
+  "image": "https://image.pepethegame.com/5983.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

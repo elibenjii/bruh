@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #910",
+  "description": 910,
+  "image": "https://image.pepethegame.com/910.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lollipop Orange",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

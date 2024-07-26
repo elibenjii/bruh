@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2175",
+  "description": 2175,
+  "image": "https://image.pepethegame.com/2175.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Gentleman",
+      "trait_type": "Body"
+    }
+  ]
+}

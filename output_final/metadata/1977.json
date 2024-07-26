@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1977",
+  "description": 1977,
+  "image": "https://image.pepethegame.com/1977.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3207",
+  "description": 3207,
+  "image": "https://image.pepethegame.com/3207.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

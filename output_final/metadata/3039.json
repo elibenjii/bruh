@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3039",
+  "description": 3039,
+  "image": "https://image.pepethegame.com/3039.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

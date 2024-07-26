@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3533",
+  "description": 3533,
+  "image": "https://image.pepethegame.com/3533.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

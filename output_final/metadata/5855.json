@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5855",
+  "description": 5855,
+  "image": "https://image.pepethegame.com/5855.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hulk",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hulk Body",
+      "trait_type": "Body"
+    }
+  ]
+}

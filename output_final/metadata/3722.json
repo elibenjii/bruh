@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3722",
+  "description": 3722,
+  "image": "https://image.pepethegame.com/3722.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pizza",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic White",
+      "trait_type": "Body"
+    }
+  ]
+}

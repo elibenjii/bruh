@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4412",
+  "description": 4412,
+  "image": "https://image.pepethegame.com/4412.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chicken BBQ",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Grenade Man",
+      "trait_type": "Body"
+    }
+  ]
+}

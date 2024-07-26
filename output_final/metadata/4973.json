@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4973",
+  "description": 4973,
+  "image": "https://image.pepethegame.com/4973.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hulk",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hulk Body",
+      "trait_type": "Body"
+    }
+  ]
+}

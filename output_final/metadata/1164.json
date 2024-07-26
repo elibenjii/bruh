@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1164",
+  "description": 1164,
+  "image": "https://image.pepethegame.com/1164.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Boxing",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Tank Top",
+      "trait_type": "Body"
+    }
+  ]
+}

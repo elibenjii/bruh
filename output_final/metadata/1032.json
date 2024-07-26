@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1032",
+  "description": 1032,
+  "image": "https://image.pepethegame.com/1032.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

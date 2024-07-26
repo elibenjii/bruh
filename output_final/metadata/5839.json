@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5839",
+  "description": 5839,
+  "image": "https://image.pepethegame.com/5839.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Gentleman",
+      "trait_type": "Body"
+    }
+  ]
+}

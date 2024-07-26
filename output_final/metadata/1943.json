@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1943",
+  "description": 1943,
+  "image": "https://image.pepethegame.com/1943.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Grenade Man",
+      "trait_type": "Body"
+    }
+  ]
+}

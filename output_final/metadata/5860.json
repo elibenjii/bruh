@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5860",
+  "description": 5860,
+  "image": "https://image.pepethegame.com/5860.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

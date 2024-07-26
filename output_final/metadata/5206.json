@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5206",
+  "description": 5206,
+  "image": "https://image.pepethegame.com/5206.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hot Dog",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Lezards",
+      "trait_type": "Body"
+    }
+  ]
+}

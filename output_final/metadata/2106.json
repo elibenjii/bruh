@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2106",
+  "description": 2106,
+  "image": "https://image.pepethegame.com/2106.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

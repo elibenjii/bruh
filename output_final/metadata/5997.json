@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5997",
+  "description": 5997,
+  "image": "https://image.pepethegame.com/5997.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Jacket",
+      "trait_type": "Body"
+    }
+  ]
+}

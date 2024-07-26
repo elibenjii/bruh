@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #401",
+  "description": 401,
+  "image": "https://image.pepethegame.com/401.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Samourai",
+      "trait_type": "Body"
+    }
+  ]
+}

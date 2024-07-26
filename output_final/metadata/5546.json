@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5546",
+  "description": 5546,
+  "image": "https://image.pepethegame.com/5546.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2502",
+  "description": 2502,
+  "image": "https://image.pepethegame.com/2502.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Tank Top Jacket",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6022",
+  "description": 6022,
+  "image": "https://image.pepethegame.com/6022.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

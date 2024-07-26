@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3723",
+  "description": 3723,
+  "image": "https://image.pepethegame.com/3723.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Tatoo",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Aladdin Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

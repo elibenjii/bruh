@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #867",
+  "description": 867,
+  "image": "https://image.pepethegame.com/867.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Abibas",
+      "trait_type": "Body"
+    }
+  ]
+}

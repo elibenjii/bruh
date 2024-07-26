@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3454",
+  "description": 3454,
+  "image": "https://image.pepethegame.com/3454.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Beer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Lezards",
+      "trait_type": "Body"
+    }
+  ]
+}

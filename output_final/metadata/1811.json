@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1811",
+  "description": 1811,
+  "image": "https://image.pepethegame.com/1811.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

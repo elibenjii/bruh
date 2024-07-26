@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #687",
+  "description": 687,
+  "image": "https://image.pepethegame.com/687.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Flying Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    }
+  ]
+}

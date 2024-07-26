@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2207",
+  "description": 2207,
+  "image": "https://image.pepethegame.com/2207.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Unicorn",
+      "trait_type": "Body"
+    }
+  ]
+}

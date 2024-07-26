@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4119",
+  "description": 4119,
+  "image": "https://image.pepethegame.com/4119.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cozy Sweater",
+      "trait_type": "Body"
+    }
+  ]
+}

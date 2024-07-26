@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5406",
+  "description": 5406,
+  "image": "https://image.pepethegame.com/5406.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Alien Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

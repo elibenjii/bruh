@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1029",
+  "description": 1029,
+  "image": "https://image.pepethegame.com/1029.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Lezards",
+      "trait_type": "Body"
+    }
+  ]
+}

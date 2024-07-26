@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3908",
+  "description": 3908,
+  "image": "https://image.pepethegame.com/3908.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Boredemon",
+      "trait_type": "Body"
+    }
+  ]
+}

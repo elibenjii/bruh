@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2806",
+  "description": 2806,
+  "image": "https://image.pepethegame.com/2806.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

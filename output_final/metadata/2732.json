@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2732",
+  "description": 2732,
+  "image": "https://image.pepethegame.com/2732.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Tatoo",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Aladdin Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

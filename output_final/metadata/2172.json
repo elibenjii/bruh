@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2172",
+  "description": 2172,
+  "image": "https://image.pepethegame.com/2172.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Flying Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4852",
+  "description": 4852,
+  "image": "https://image.pepethegame.com/4852.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Black",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #947",
+  "description": 947,
+  "image": "https://image.pepethegame.com/947.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Retard Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    }
+  ]
+}

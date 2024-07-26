@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4026",
+  "description": 4026,
+  "image": "https://image.pepethegame.com/4026.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    }
+  ]
+}

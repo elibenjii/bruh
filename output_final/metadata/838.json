@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #838",
+  "description": 838,
+  "image": "https://image.pepethegame.com/838.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Grenade Man",
+      "trait_type": "Body"
+    }
+  ]
+}

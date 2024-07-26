@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5777",
+  "description": 5777,
+  "image": "https://image.pepethegame.com/5777.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

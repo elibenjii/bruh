@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4037",
+  "description": 4037,
+  "image": "https://image.pepethegame.com/4037.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hulk",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hulk Body",
+      "trait_type": "Body"
+    }
+  ]
+}

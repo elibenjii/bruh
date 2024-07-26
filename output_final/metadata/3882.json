@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3882",
+  "description": 3882,
+  "image": "https://image.pepethegame.com/3882.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Gentleman",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1388",
+  "description": 1388,
+  "image": "https://image.pepethegame.com/1388.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

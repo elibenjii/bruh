@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2448",
+  "description": 2448,
+  "image": "https://image.pepethegame.com/2448.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pointing Finger",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

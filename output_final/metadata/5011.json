@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5011",
+  "description": 5011,
+  "image": "https://image.pepethegame.com/5011.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Terrorist",
+      "trait_type": "Body"
+    }
+  ]
+}

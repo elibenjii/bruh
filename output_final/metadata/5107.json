@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5107",
+  "description": 5107,
+  "image": "https://image.pepethegame.com/5107.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gentleman",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

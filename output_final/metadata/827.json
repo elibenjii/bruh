@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #827",
+  "description": 827,
+  "image": "https://image.pepethegame.com/827.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    }
+  ]
+}

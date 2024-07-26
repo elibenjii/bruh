@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3350",
+  "description": 3350,
+  "image": "https://image.pepethegame.com/3350.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Body"
+    }
+  ]
+}

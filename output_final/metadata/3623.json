@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3623",
+  "description": 3623,
+  "image": "https://image.pepethegame.com/3623.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    }
+  ]
+}

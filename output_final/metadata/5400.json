@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5400",
+  "description": 5400,
+  "image": "https://image.pepethegame.com/5400.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Terrorist",
+      "trait_type": "Body"
+    }
+  ]
+}

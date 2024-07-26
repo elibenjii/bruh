@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6308",
+  "description": 6308,
+  "image": "https://image.pepethegame.com/6308.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Unicorn",
+      "trait_type": "Body"
+    }
+  ]
+}

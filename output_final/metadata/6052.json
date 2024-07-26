@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6052",
+  "description": 6052,
+  "image": "https://image.pepethegame.com/6052.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    }
+  ]
+}

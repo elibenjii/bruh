@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5964",
+  "description": 5964,
+  "image": "https://image.pepethegame.com/5964.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

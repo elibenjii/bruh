@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6068",
+  "description": 6068,
+  "image": "https://image.pepethegame.com/6068.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pizza",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Lezards",
+      "trait_type": "Body"
+    }
+  ]
+}

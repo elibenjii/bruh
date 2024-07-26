@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1426",
+  "description": 1426,
+  "image": "https://image.pepethegame.com/1426.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Futuristic Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

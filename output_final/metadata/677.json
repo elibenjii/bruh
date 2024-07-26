@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #677",
+  "description": 677,
+  "image": "https://image.pepethegame.com/677.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Grenade Man",
+      "trait_type": "Body"
+    }
+  ]
+}

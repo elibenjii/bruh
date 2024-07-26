@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #678",
+  "description": 678,
+  "image": "https://image.pepethegame.com/678.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shotgun Ammo",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1116",
+  "description": 1116,
+  "image": "https://image.pepethegame.com/1116.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

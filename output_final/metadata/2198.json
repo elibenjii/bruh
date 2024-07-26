@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2198",
+  "description": 2198,
+  "image": "https://image.pepethegame.com/2198.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pokebong",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

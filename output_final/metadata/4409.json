@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4409",
+  "description": 4409,
+  "image": "https://image.pepethegame.com/4409.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pork BBQ",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

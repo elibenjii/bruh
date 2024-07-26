@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3815",
+  "description": 3815,
+  "image": "https://image.pepethegame.com/3815.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ice Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

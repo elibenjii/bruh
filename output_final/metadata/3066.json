@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3066",
+  "description": 3066,
+  "image": "https://image.pepethegame.com/3066.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Weed",
+      "trait_type": "Body"
+    }
+  ]
+}

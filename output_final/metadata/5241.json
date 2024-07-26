@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5241",
+  "description": 5241,
+  "image": "https://image.pepethegame.com/5241.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Retard Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    }
+  ]
+}

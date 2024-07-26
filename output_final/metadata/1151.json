@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1151",
+  "description": 1151,
+  "image": "https://image.pepethegame.com/1151.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Aladdin Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

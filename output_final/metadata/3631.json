@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3631",
+  "description": 3631,
+  "image": "https://image.pepethegame.com/3631.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    }
+  ]
+}

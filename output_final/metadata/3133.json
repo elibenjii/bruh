@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3133",
+  "description": 3133,
+  "image": "https://image.pepethegame.com/3133.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic White",
+      "trait_type": "Body"
+    }
+  ]
+}

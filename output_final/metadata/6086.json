@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6086",
+  "description": 6086,
+  "image": "https://image.pepethegame.com/6086.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Skelton Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

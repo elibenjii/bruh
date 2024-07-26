@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2797",
+  "description": 2797,
+  "image": "https://image.pepethegame.com/2797.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    }
+  ]
+}

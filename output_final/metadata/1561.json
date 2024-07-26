@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1561",
+  "description": 1561,
+  "image": "https://image.pepethegame.com/1561.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ice Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

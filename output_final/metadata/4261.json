@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4261",
+  "description": 4261,
+  "image": "https://image.pepethegame.com/4261.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hot Dog",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Space Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

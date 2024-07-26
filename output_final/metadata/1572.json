@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1572",
+  "description": 1572,
+  "image": "https://image.pepethegame.com/1572.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chicken BBQ",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2200",
+  "description": 2200,
+  "image": "https://image.pepethegame.com/2200.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    }
+  ]
+}

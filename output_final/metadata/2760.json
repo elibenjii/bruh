@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2760",
+  "description": 2760,
+  "image": "https://image.pepethegame.com/2760.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Beer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Boston Dynamics Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

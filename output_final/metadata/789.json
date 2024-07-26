@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #789",
+  "description": 789,
+  "image": "https://image.pepethegame.com/789.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pizza",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Heart",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4100",
+  "description": 4100,
+  "image": "https://image.pepethegame.com/4100.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Waterboy Soldier",
+      "trait_type": "Body"
+    }
+  ]
+}

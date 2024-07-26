@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1668",
+  "description": 1668,
+  "image": "https://image.pepethegame.com/1668.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Terrorist",
+      "trait_type": "Body"
+    }
+  ]
+}

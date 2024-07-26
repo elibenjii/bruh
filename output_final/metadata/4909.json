@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4909",
+  "description": 4909,
+  "image": "https://image.pepethegame.com/4909.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Mario",
+      "trait_type": "Body"
+    }
+  ]
+}

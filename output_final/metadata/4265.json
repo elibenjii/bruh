@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4265",
+  "description": 4265,
+  "image": "https://image.pepethegame.com/4265.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

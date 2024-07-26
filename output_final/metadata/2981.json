@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2981",
+  "description": 2981,
+  "image": "https://image.pepethegame.com/2981.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Futuristic Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

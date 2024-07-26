@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4937",
+  "description": 4937,
+  "image": "https://image.pepethegame.com/4937.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pizza",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Lumberjack",
+      "trait_type": "Body"
+    }
+  ]
+}

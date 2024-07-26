@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4865",
+  "description": 4865,
+  "image": "https://image.pepethegame.com/4865.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Beer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Heart",
+      "trait_type": "Body"
+    }
+  ]
+}

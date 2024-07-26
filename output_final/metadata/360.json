@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #360",
+  "description": 360,
+  "image": "https://image.pepethegame.com/360.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

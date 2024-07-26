@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1351",
+  "description": 1351,
+  "image": "https://image.pepethegame.com/1351.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Detective",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pimp Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

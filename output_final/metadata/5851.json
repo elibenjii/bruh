@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5851",
+  "description": 5851,
+  "image": "https://image.pepethegame.com/5851.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Italian Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Toxic Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

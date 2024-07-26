@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #388",
+  "description": 388,
+  "image": "https://image.pepethegame.com/388.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Tank Top Jacket",
+      "trait_type": "Body"
+    }
+  ]
+}

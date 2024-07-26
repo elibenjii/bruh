@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5743",
+  "description": 5743,
+  "image": "https://image.pepethegame.com/5743.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    }
+  ]
+}

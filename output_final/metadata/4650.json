@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4650",
+  "description": 4650,
+  "image": "https://image.pepethegame.com/4650.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Not Sure",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Shark Hoodie",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shark Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

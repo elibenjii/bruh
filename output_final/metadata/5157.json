@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5157",
+  "description": 5157,
+  "image": "https://image.pepethegame.com/5157.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Heart",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4745",
+  "description": 4745,
+  "image": "https://image.pepethegame.com/4745.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

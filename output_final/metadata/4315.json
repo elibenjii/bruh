@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4315",
+  "description": 4315,
+  "image": "https://image.pepethegame.com/4315.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pizza",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

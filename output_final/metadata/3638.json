@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3638",
+  "description": 3638,
+  "image": "https://image.pepethegame.com/3638.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Agent Pepe Pistol",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

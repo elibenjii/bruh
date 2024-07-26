@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2596",
+  "description": 2596,
+  "image": "https://image.pepethegame.com/2596.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Grenade Man",
+      "trait_type": "Body"
+    }
+  ]
+}

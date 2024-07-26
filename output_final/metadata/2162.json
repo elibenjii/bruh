@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2162",
+  "description": 2162,
+  "image": "https://image.pepethegame.com/2162.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Abibas",
+      "trait_type": "Body"
+    }
+  ]
+}

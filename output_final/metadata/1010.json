@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1010",
+  "description": 1010,
+  "image": "https://image.pepethegame.com/1010.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Retard Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5484",
+  "description": 5484,
+  "image": "https://image.pepethegame.com/5484.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

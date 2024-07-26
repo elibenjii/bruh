@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1309",
+  "description": 1309,
+  "image": "https://image.pepethegame.com/1309.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Grenade Man",
+      "trait_type": "Body"
+    }
+  ]
+}

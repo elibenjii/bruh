@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3028",
+  "description": 3028,
+  "image": "https://image.pepethegame.com/3028.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Samourai",
+      "trait_type": "Body"
+    }
+  ]
+}

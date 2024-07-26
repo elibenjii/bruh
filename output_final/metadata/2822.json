@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2822",
+  "description": 2822,
+  "image": "https://image.pepethegame.com/2822.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cute Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    }
+  ]
+}

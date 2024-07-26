@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1790",
+  "description": 1790,
+  "image": "https://image.pepethegame.com/1790.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

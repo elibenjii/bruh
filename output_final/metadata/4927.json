@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4927",
+  "description": 4927,
+  "image": "https://image.pepethegame.com/4927.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

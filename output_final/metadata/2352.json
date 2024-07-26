@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2352",
+  "description": 2352,
+  "image": "https://image.pepethegame.com/2352.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Buffed",
+      "trait_type": "Body"
+    }
+  ]
+}

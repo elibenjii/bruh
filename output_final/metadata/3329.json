@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3329",
+  "description": 3329,
+  "image": "https://image.pepethegame.com/3329.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cute Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Boston Dynamics Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

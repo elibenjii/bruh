@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3933",
+  "description": 3933,
+  "image": "https://image.pepethegame.com/3933.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    }
+  ]
+}

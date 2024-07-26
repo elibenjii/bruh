@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1679",
+  "description": 1679,
+  "image": "https://image.pepethegame.com/1679.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    }
+  ]
+}

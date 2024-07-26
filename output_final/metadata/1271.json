@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1271",
+  "description": 1271,
+  "image": "https://image.pepethegame.com/1271.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GMO Flower",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

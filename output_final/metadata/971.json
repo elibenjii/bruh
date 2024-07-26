@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #971",
+  "description": 971,
+  "image": "https://image.pepethegame.com/971.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Steampunk Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

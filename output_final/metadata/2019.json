@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2019",
+  "description": 2019,
+  "image": "https://image.pepethegame.com/2019.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Shark Hoodie",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shark Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

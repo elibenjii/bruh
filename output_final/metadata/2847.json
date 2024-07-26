@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2847",
+  "description": 2847,
+  "image": "https://image.pepethegame.com/2847.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    }
+  ]
+}

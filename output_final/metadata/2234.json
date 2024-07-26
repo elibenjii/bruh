@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2234",
+  "description": 2234,
+  "image": "https://image.pepethegame.com/2234.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lucille Bat",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Gentleman",
+      "trait_type": "Body"
+    }
+  ]
+}

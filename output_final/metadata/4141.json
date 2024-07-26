@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4141",
+  "description": 4141,
+  "image": "https://image.pepethegame.com/4141.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6053",
+  "description": 6053,
+  "image": "https://image.pepethegame.com/6053.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Space Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5793",
+  "description": 5793,
+  "image": "https://image.pepethegame.com/5793.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hesitation",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

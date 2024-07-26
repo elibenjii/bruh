@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3663",
+  "description": 3663,
+  "image": "https://image.pepethegame.com/3663.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    }
+  ]
+}

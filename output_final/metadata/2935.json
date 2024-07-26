@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2935",
+  "description": 2935,
+  "image": "https://image.pepethegame.com/2935.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Shark Hoodie",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shark Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

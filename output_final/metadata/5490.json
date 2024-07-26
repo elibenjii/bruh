@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5490",
+  "description": 5490,
+  "image": "https://image.pepethegame.com/5490.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ultra",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ultra",
+      "trait_type": "Body"
+    }
+  ]
+}

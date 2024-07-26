@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #550",
+  "description": 550,
+  "image": "https://image.pepethegame.com/550.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Toxic Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4155",
+  "description": 4155,
+  "image": "https://image.pepethegame.com/4155.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

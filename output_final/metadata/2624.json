@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2624",
+  "description": 2624,
+  "image": "https://image.pepethegame.com/2624.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Detective",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pimp Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #200",
+  "description": 200,
+  "image": "https://image.pepethegame.com/200.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Alien Brand",
+      "trait_type": "Body"
+    }
+  ]
+}

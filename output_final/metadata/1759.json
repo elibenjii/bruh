@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1759",
+  "description": 1759,
+  "image": "https://image.pepethegame.com/1759.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    }
+  ]
+}

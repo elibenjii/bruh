@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3790",
+  "description": 3790,
+  "image": "https://image.pepethegame.com/3790.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Brown Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Tank Top",
+      "trait_type": "Body"
+    }
+  ]
+}

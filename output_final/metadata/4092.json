@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4092",
+  "description": 4092,
+  "image": "https://image.pepethegame.com/4092.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Samourai",
+      "trait_type": "Body"
+    }
+  ]
+}

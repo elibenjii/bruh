@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3080",
+  "description": 3080,
+  "image": "https://image.pepethegame.com/3080.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2762",
+  "description": 2762,
+  "image": "https://image.pepethegame.com/2762.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ghetto Jacket",
+      "trait_type": "Body"
+    }
+  ]
+}

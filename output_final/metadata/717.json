@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #717",
+  "description": 717,
+  "image": "https://image.pepethegame.com/717.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

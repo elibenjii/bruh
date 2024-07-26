@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5630",
+  "description": 5630,
+  "image": "https://image.pepethegame.com/5630.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Terrorist",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #170",
+  "description": 170,
+  "image": "https://image.pepethegame.com/170.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Space Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

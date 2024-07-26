@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1817",
+  "description": 1817,
+  "image": "https://image.pepethegame.com/1817.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Black",
+      "trait_type": "Body"
+    }
+  ]
+}

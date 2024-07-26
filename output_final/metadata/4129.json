@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4129",
+  "description": 4129,
+  "image": "https://image.pepethegame.com/4129.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cute Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ghetto Jacket",
+      "trait_type": "Body"
+    }
+  ]
+}

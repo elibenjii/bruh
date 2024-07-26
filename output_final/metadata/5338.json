@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5338",
+  "description": 5338,
+  "image": "https://image.pepethegame.com/5338.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Tropical Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

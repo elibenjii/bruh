@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1244",
+  "description": 1244,
+  "image": "https://image.pepethegame.com/1244.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2023",
+  "description": 2023,
+  "image": "https://image.pepethegame.com/2023.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Gentleman",
+      "trait_type": "Body"
+    }
+  ]
+}

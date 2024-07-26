@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5135",
+  "description": 5135,
+  "image": "https://image.pepethegame.com/5135.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Steampunk Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

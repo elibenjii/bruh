@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1121",
+  "description": 1121,
+  "image": "https://image.pepethegame.com/1121.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

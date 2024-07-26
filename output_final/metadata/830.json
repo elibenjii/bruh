@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #830",
+  "description": 830,
+  "image": "https://image.pepethegame.com/830.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Beer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Boston Dynamics Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

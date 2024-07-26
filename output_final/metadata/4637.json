@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4637",
+  "description": 4637,
+  "image": "https://image.pepethegame.com/4637.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Terrorist",
+      "trait_type": "Body"
+    }
+  ]
+}

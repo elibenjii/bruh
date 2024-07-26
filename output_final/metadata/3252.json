@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3252",
+  "description": 3252,
+  "image": "https://image.pepethegame.com/3252.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Italian Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

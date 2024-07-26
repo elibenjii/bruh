@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6234",
+  "description": 6234,
+  "image": "https://image.pepethegame.com/6234.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Electroman",
+      "trait_type": "Body"
+    }
+  ]
+}

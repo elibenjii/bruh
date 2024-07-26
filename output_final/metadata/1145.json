@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1145",
+  "description": 1145,
+  "image": "https://image.pepethegame.com/1145.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Gentleman",
+      "trait_type": "Body"
+    }
+  ]
+}

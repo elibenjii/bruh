@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1215",
+  "description": 1215,
+  "image": "https://image.pepethegame.com/1215.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

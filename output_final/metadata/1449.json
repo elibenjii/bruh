@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1449",
+  "description": 1449,
+  "image": "https://image.pepethegame.com/1449.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Space Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

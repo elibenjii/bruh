@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5433",
+  "description": 5433,
+  "image": "https://image.pepethegame.com/5433.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ultra",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ultra",
+      "trait_type": "Body"
+    }
+  ]
+}

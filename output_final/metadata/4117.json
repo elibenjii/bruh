@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4117",
+  "description": 4117,
+  "image": "https://image.pepethegame.com/4117.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hesitation",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

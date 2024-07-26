@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6044",
+  "description": 6044,
+  "image": "https://image.pepethegame.com/6044.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Special Force",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5264",
+  "description": 5264,
+  "image": "https://image.pepethegame.com/5264.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GMO Flower",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

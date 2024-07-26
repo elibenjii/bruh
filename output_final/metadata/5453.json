@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5453",
+  "description": 5453,
+  "image": "https://image.pepethegame.com/5453.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Skelton Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4883",
+  "description": 4883,
+  "image": "https://image.pepethegame.com/4883.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    }
+  ]
+}

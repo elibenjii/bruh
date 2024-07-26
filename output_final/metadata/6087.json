@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6087",
+  "description": 6087,
+  "image": "https://image.pepethegame.com/6087.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fist",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

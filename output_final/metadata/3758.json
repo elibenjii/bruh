@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3758",
+  "description": 3758,
+  "image": "https://image.pepethegame.com/3758.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Grenade Man",
+      "trait_type": "Body"
+    }
+  ]
+}

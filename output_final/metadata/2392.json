@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2392",
+  "description": 2392,
+  "image": "https://image.pepethegame.com/2392.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ultra",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ultra",
+      "trait_type": "Body"
+    }
+  ]
+}

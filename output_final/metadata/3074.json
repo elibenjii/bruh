@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3074",
+  "description": 3074,
+  "image": "https://image.pepethegame.com/3074.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cute Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

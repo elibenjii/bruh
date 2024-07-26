@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1019",
+  "description": 1019,
+  "image": "https://image.pepethegame.com/1019.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Agent Pepe Pistol",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

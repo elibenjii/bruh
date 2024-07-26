@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3339",
+  "description": 3339,
+  "image": "https://image.pepethegame.com/3339.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic Red",
+      "trait_type": "Body"
+    }
+  ]
+}

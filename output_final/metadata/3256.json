@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3256",
+  "description": 3256,
+  "image": "https://image.pepethegame.com/3256.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

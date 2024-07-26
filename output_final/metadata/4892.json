@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4892",
+  "description": 4892,
+  "image": "https://image.pepethegame.com/4892.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Buffed",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3849",
+  "description": 3849,
+  "image": "https://image.pepethegame.com/3849.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Moon Latex",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3987",
+  "description": 3987,
+  "image": "https://image.pepethegame.com/3987.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pan",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Gentleman",
+      "trait_type": "Body"
+    }
+  ]
+}

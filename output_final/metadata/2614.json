@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2614",
+  "description": 2614,
+  "image": "https://image.pepethegame.com/2614.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    }
+  ]
+}

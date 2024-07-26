@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3796",
+  "description": 3796,
+  "image": "https://image.pepethegame.com/3796.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Italian Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

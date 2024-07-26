@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #217",
+  "description": 217,
+  "image": "https://image.pepethegame.com/217.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Beer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Weed",
+      "trait_type": "Body"
+    }
+  ]
+}

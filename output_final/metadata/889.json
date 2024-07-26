@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #889",
+  "description": 889,
+  "image": "https://image.pepethegame.com/889.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

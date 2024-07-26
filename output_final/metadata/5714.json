@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5714",
+  "description": 5714,
+  "image": "https://image.pepethegame.com/5714.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Steampunk Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

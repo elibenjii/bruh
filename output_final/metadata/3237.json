@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3237",
+  "description": 3237,
+  "image": "https://image.pepethegame.com/3237.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Electroman",
+      "trait_type": "Body"
+    }
+  ]
+}

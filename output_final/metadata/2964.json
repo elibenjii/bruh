@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2964",
+  "description": 2964,
+  "image": "https://image.pepethegame.com/2964.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Steampunk Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

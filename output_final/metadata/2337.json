@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2337",
+  "description": 2337,
+  "image": "https://image.pepethegame.com/2337.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punk Badass",
+      "trait_type": "Body"
+    }
+  ]
+}

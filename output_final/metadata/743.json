@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #743",
+  "description": 743,
+  "image": "https://image.pepethegame.com/743.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    }
+  ]
+}

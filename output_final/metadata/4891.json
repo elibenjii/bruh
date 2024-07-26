@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4891",
+  "description": 4891,
+  "image": "https://image.pepethegame.com/4891.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Waterboy Soldier",
+      "trait_type": "Body"
+    }
+  ]
+}

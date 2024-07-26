@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2282",
+  "description": 2282,
+  "image": "https://image.pepethegame.com/2282.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hulk",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hulk Body",
+      "trait_type": "Body"
+    }
+  ]
+}

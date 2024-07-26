@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1555",
+  "description": 1555,
+  "image": "https://image.pepethegame.com/1555.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Boston Dynamics Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2552",
+  "description": 2552,
+  "image": "https://image.pepethegame.com/2552.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Retard Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

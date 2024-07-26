@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3382",
+  "description": 3382,
+  "image": "https://image.pepethegame.com/3382.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Frogger",
+      "trait_type": "Body"
+    }
+  ]
+}

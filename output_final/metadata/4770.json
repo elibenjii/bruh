@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4770",
+  "description": 4770,
+  "image": "https://image.pepethegame.com/4770.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Not Sure",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Rambo Ammo",
+      "trait_type": "Body"
+    }
+  ]
+}

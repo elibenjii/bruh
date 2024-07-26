@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3344",
+  "description": 3344,
+  "image": "https://image.pepethegame.com/3344.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lollipop",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

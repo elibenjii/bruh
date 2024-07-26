@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1474",
+  "description": 1474,
+  "image": "https://image.pepethegame.com/1474.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cute Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Waterboy Soldier",
+      "trait_type": "Body"
+    }
+  ]
+}

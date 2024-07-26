@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3866",
+  "description": 3866,
+  "image": "https://image.pepethegame.com/3866.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Not Sure",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Tatoo",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Chilling",
+      "trait_type": "Body"
+    }
+  ]
+}

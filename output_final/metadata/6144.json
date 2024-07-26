@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6144",
+  "description": 6144,
+  "image": "https://image.pepethegame.com/6144.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Red Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

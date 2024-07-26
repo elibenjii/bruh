@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #348",
+  "description": 348,
+  "image": "https://image.pepethegame.com/348.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Steampunk Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

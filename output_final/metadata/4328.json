@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4328",
+  "description": 4328,
+  "image": "https://image.pepethegame.com/4328.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Frogger",
+      "trait_type": "Body"
+    }
+  ]
+}

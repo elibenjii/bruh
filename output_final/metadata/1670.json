@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1670",
+  "description": 1670,
+  "image": "https://image.pepethegame.com/1670.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Toxic Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

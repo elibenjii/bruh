@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #932",
+  "description": 932,
+  "image": "https://image.pepethegame.com/932.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wow",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

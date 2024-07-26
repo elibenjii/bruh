@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3078",
+  "description": 3078,
+  "image": "https://image.pepethegame.com/3078.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

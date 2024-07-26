@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5528",
+  "description": 5528,
+  "image": "https://image.pepethegame.com/5528.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5205",
+  "description": 5205,
+  "image": "https://image.pepethegame.com/5205.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Terrorist",
+      "trait_type": "Body"
+    }
+  ]
+}

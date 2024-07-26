@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5667",
+  "description": 5667,
+  "image": "https://image.pepethegame.com/5667.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Boredemon",
+      "trait_type": "Body"
+    }
+  ]
+}

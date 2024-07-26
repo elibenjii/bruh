@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2488",
+  "description": 2488,
+  "image": "https://image.pepethegame.com/2488.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Send It",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4814",
+  "description": 4814,
+  "image": "https://image.pepethegame.com/4814.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cozy Sweater",
+      "trait_type": "Body"
+    }
+  ]
+}

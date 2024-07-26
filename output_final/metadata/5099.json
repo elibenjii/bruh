@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5099",
+  "description": 5099,
+  "image": "https://image.pepethegame.com/5099.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    }
+  ]
+}

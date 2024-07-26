@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2503",
+  "description": 2503,
+  "image": "https://image.pepethegame.com/2503.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Terrorist",
+      "trait_type": "Body"
+    }
+  ]
+}

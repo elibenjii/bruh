@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3505",
+  "description": 3505,
+  "image": "https://image.pepethegame.com/3505.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

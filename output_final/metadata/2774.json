@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2774",
+  "description": 2774,
+  "image": "https://image.pepethegame.com/2774.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pork BBQ",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

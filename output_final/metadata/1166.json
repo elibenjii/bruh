@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1166",
+  "description": 1166,
+  "image": "https://image.pepethegame.com/1166.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Lol",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lucille Bat",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Gentleman",
+      "trait_type": "Body"
+    }
+  ]
+}

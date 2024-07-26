@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #264",
+  "description": 264,
+  "image": "https://image.pepethegame.com/264.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    }
+  ]
+}

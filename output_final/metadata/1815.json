@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1815",
+  "description": 1815,
+  "image": "https://image.pepethegame.com/1815.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

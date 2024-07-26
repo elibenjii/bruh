@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2269",
+  "description": 2269,
+  "image": "https://image.pepethegame.com/2269.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cozy Sweater",
+      "trait_type": "Body"
+    }
+  ]
+}

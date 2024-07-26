@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6112",
+  "description": 6112,
+  "image": "https://image.pepethegame.com/6112.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bazooka",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Abibas",
+      "trait_type": "Body"
+    }
+  ]
+}

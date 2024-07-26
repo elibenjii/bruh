@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6255",
+  "description": 6255,
+  "image": "https://image.pepethegame.com/6255.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Space Spinach",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Skelton Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

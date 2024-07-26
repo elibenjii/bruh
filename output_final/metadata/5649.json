@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5649",
+  "description": 5649,
+  "image": "https://image.pepethegame.com/5649.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hehe",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gentleman",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Buffed",
+      "trait_type": "Body"
+    }
+  ]
+}

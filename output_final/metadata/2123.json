@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2123",
+  "description": 2123,
+  "image": "https://image.pepethegame.com/2123.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Rage",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Terrorist",
+      "trait_type": "Body"
+    }
+  ]
+}

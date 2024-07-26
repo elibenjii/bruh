@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4059",
+  "description": 4059,
+  "image": "https://image.pepethegame.com/4059.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "3 Day Beard",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    }
+  ]
+}

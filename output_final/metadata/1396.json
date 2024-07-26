@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1396",
+  "description": 1396,
+  "image": "https://image.pepethegame.com/1396.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

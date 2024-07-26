@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1738",
+  "description": 1738,
+  "image": "https://image.pepethegame.com/1738.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Flying Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Gentleman",
+      "trait_type": "Body"
+    }
+  ]
+}

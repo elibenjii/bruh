@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2783",
+  "description": 2783,
+  "image": "https://image.pepethegame.com/2783.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hot Dog",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Tropical Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2062",
+  "description": 2062,
+  "image": "https://image.pepethegame.com/2062.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stoic",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Send It",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Overalls",
+      "trait_type": "Body"
+    }
+  ]
+}

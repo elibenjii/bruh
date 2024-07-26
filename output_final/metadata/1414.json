@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1414",
+  "description": 1414,
+  "image": "https://image.pepethegame.com/1414.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

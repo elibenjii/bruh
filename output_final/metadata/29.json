@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #29",
+  "description": 29,
+  "image": "https://image.pepethegame.com/29.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Skelton Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

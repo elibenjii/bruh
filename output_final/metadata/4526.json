@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4526",
+  "description": 4526,
+  "image": "https://image.pepethegame.com/4526.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Woke",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Send It",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Aladdin Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

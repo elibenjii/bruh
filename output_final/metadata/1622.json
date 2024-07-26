@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1622",
+  "description": 1622,
+  "image": "https://image.pepethegame.com/1622.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Space Spinach",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    }
+  ]
+}

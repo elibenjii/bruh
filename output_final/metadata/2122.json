@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2122",
+  "description": 2122,
+  "image": "https://image.pepethegame.com/2122.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ultra",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ultra",
+      "trait_type": "Body"
+    }
+  ]
+}

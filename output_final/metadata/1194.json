@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1194",
+  "description": 1194,
+  "image": "https://image.pepethegame.com/1194.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

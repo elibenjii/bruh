@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5262",
+  "description": 5262,
+  "image": "https://image.pepethegame.com/5262.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Gray Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

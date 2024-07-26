@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #201",
+  "description": 201,
+  "image": "https://image.pepethegame.com/201.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dbz",
+      "trait_type": "Body"
+    }
+  ]
+}

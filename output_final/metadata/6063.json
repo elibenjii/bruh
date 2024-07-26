@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6063",
+  "description": 6063,
+  "image": "https://image.pepethegame.com/6063.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pork BBQ",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

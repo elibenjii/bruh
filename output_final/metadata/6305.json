@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6305",
+  "description": 6305,
+  "image": "https://image.pepethegame.com/6305.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cute Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

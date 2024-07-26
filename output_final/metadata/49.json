@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #49",
+  "description": 49,
+  "image": "https://image.pepethegame.com/49.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hurt",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

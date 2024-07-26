@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2284",
+  "description": 2284,
+  "image": "https://image.pepethegame.com/2284.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    }
+  ]
+}

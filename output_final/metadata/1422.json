@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1422",
+  "description": 1422,
+  "image": "https://image.pepethegame.com/1422.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Samourai",
+      "trait_type": "Body"
+    }
+  ]
+}

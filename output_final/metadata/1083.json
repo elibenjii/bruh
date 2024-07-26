@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1083",
+  "description": 1083,
+  "image": "https://image.pepethegame.com/1083.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

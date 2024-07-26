@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3295",
+  "description": 3295,
+  "image": "https://image.pepethegame.com/3295.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Unicorn",
+      "trait_type": "Body"
+    }
+  ]
+}

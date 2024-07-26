@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5561",
+  "description": 5561,
+  "image": "https://image.pepethegame.com/5561.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

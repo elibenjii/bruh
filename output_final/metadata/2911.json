@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2911",
+  "description": 2911,
+  "image": "https://image.pepethegame.com/2911.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Ice Cream",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Unicorn",
+      "trait_type": "Body"
+    }
+  ]
+}

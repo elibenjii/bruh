@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1317",
+  "description": 1317,
+  "image": "https://image.pepethegame.com/1317.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Retard Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Jungle Commando",
+      "trait_type": "Body"
+    }
+  ]
+}

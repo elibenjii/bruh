@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5683",
+  "description": 5683,
+  "image": "https://image.pepethegame.com/5683.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cozy Sweater",
+      "trait_type": "Body"
+    }
+  ]
+}

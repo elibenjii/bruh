@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3730",
+  "description": 3730,
+  "image": "https://image.pepethegame.com/3730.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    }
+  ]
+}

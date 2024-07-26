@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4398",
+  "description": 4398,
+  "image": "https://image.pepethegame.com/4398.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punisher",
+      "trait_type": "Body"
+    }
+  ]
+}

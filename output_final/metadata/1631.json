@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1631",
+  "description": 1631,
+  "image": "https://image.pepethegame.com/1631.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

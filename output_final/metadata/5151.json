@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5151",
+  "description": 5151,
+  "image": "https://image.pepethegame.com/5151.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RPG",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

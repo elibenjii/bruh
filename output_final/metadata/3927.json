@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3927",
+  "description": 3927,
+  "image": "https://image.pepethegame.com/3927.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Stop Joint",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Steampunk Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

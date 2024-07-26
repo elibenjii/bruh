@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4311",
+  "description": 4311,
+  "image": "https://image.pepethegame.com/4311.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Are You Sure?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #485",
+  "description": 485,
+  "image": "https://image.pepethegame.com/485.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

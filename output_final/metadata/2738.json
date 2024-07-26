@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2738",
+  "description": 2738,
+  "image": "https://image.pepethegame.com/2738.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Shark Hoodie",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shark Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

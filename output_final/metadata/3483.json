@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3483",
+  "description": 3483,
+  "image": "https://image.pepethegame.com/3483.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Euphoric",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

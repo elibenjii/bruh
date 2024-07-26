@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6326",
+  "description": 6326,
+  "image": "https://image.pepethegame.com/6326.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "No Trust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Worm",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

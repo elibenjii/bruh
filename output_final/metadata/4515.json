@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4515",
+  "description": 4515,
+  "image": "https://image.pepethegame.com/4515.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "IFKYK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6286",
+  "description": 6286,
+  "image": "https://image.pepethegame.com/6286.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Feels Good",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Retard Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punk Badass",
+      "trait_type": "Body"
+    }
+  ]
+}

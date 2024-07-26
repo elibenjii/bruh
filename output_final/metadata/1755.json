@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1755",
+  "description": 1755,
+  "image": "https://image.pepethegame.com/1755.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cute Revolver",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Boston Dynamics Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2810",
+  "description": 2810,
+  "image": "https://image.pepethegame.com/2810.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Axe",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

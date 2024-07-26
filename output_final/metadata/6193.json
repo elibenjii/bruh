@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #6193",
+  "description": 6193,
+  "image": "https://image.pepethegame.com/6193.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Stone",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Italian Ice Cream Monster",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ice Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

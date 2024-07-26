@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1996",
+  "description": 1996,
+  "image": "https://image.pepethegame.com/1996.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Green Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #764",
+  "description": 764,
+  "image": "https://image.pepethegame.com/764.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Dubious",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pointing Finger",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

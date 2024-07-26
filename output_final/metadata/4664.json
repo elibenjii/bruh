@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4664",
+  "description": 4664,
+  "image": "https://image.pepethegame.com/4664.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smart",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bong Laser Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Punk Badass",
+      "trait_type": "Body"
+    }
+  ]
+}

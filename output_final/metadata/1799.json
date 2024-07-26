@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1799",
+  "description": 1799,
+  "image": "https://image.pepethegame.com/1799.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hammer",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Body"
+    }
+  ]
+}

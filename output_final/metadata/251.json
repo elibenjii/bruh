@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #251",
+  "description": 251,
+  "image": "https://image.pepethegame.com/251.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pointing Finger",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Dino Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

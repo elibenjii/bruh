@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2724",
+  "description": 2724,
+  "image": "https://image.pepethegame.com/2724.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Sleepy",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Detective",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pimp Suit",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4980",
+  "description": 4980,
+  "image": "https://image.pepethegame.com/4980.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ultra",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ultra",
+      "trait_type": "Body"
+    }
+  ]
+}

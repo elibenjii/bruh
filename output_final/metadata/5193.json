@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5193",
+  "description": 5193,
+  "image": "https://image.pepethegame.com/5193.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Smashed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

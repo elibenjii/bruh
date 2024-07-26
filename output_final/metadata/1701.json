@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1701",
+  "description": 1701,
+  "image": "https://image.pepethegame.com/1701.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sniper",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Ironman",
+      "trait_type": "Body"
+    }
+  ]
+}

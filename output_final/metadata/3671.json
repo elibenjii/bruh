@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3671",
+  "description": 3671,
+  "image": "https://image.pepethegame.com/3671.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Retarded",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gatling Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Shotgun Ammo",
+      "trait_type": "Body"
+    }
+  ]
+}

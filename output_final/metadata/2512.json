@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2512",
+  "description": 2512,
+  "image": "https://image.pepethegame.com/2512.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "What?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pepe Classic White",
+      "trait_type": "Body"
+    }
+  ]
+}

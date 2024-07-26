@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #4660",
+  "description": 4660,
+  "image": "https://image.pepethegame.com/4660.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Crying",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Punching Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pikachu Hoodie",
+      "trait_type": "Body"
+    }
+  ]
+}

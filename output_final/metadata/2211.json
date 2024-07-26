@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2211",
+  "description": 2211,
+  "image": "https://image.pepethegame.com/2211.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Terminator",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Tropical Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3635",
+  "description": 3635,
+  "image": "https://image.pepethegame.com/3635.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Thinking",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Angry Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Black Jungle",
+      "trait_type": "Body"
+    }
+  ]
+}

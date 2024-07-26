@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5284",
+  "description": 5284,
+  "image": "https://image.pepethegame.com/5284.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wut?",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GMO Flower",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pink Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

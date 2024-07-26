@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #1642",
+  "description": 1642,
+  "image": "https://image.pepethegame.com/1642.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Surprised",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Pink Armor",
+      "trait_type": "Body"
+    }
+  ]
+}

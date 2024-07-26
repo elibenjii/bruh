@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #5025",
+  "description": 5025,
+  "image": "https://image.pepethegame.com/5025.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Hallucinate",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "White Shirt",
+      "trait_type": "Body"
+    }
+  ]
+}

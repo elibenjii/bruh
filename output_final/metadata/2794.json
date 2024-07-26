@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #2794",
+  "description": 2794,
+  "image": "https://image.pepethegame.com/2794.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Focusing",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Steampunk Buster Sword",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Heart",
+      "trait_type": "Body"
+    }
+  ]
+}

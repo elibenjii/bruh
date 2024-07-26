@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3994",
+  "description": 3994,
+  "image": "https://image.pepethegame.com/3994.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Wtf",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Pink Donut",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Toxic Bomber",
+      "trait_type": "Body"
+    }
+  ]
+}

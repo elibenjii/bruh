@@ -1,0 +1,21 @@
+{
+  "name": "PEPE #3272",
+  "description": 3272,
+  "image": "https://image.pepethegame.com/3272.png",
+  "level": 0,
+  "stats": [],
+  "attributes": [
+    {
+      "value": "Very Angry",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fingers Gun",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Hoodie Hacker",
+      "trait_type": "Body"
+    }
+  ]
+}
