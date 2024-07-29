@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Cyber Claw",
+      "value": "Shaolin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Purple Space Helmet",
+      "value": "Hell Boy Horn",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

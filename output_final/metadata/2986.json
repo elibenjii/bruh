@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
-      "value": "Punk Badass",
+      "value": "Weed",
       "trait_type": "Body"
     },
     {
-      "value": "Black Glass",
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

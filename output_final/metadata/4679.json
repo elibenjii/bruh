@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Worm",
+      "value": "Detective",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Pimp Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Purple Space Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

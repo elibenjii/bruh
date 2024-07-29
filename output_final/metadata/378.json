@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Send It",
+      "value": "Pointing Finger",
       "trait_type": "Arm"
     },
     {
-      "value": "Tank Top Jacket",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

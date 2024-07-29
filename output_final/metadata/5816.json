@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Pokebong",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Buffed",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Bob",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Perfect Beard",
       "trait_type": "Accessory"
     }
   ]

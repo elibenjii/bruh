@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Red",
+      "value": "Moon Latex",
       "trait_type": "Body"
+    },
+    {
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Electroman",
       "trait_type": "Body"
     },
     {
-      "value": "Ghetto Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

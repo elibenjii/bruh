@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "White Jungle",
       "trait_type": "Body"
+    },
+    {
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

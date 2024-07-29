@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Samourai",
+      "value": "Moon Latex",
       "trait_type": "Body"
     },
     {
-      "value": "Bandito",
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

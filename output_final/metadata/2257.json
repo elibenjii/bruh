@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Jacket",
+      "value": "Hulk Body",
       "trait_type": "Body"
     },
     {
-      "value": "Pacifier",
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
@@ -18,11 +18,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

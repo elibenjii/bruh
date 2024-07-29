@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Punisher",
       "trait_type": "Body"
-    },
-    {
-      "value": "Big Nose",
-      "trait_type": "Accessory"
     }
   ]
 }

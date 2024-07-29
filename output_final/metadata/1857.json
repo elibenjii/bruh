@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Shaolin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Balaclava",
       "trait_type": "Accessory"
     }
   ]

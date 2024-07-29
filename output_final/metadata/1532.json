@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Cozy Sweater",
+      "value": "Black Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

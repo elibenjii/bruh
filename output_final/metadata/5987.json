@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Green Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

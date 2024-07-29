@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop Orange",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pikachu Hoodie",
+      "value": "Red Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

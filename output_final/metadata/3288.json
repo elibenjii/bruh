@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Abibas",
+      "value": "Suit",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bob",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
     }
   ]
 }

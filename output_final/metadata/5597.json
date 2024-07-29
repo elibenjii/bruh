@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Lollipop",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Gray Aviator Glass",
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
@@ -14,8 +14,16 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Red Tank Top",
       "trait_type": "Body"
+    },
+    {
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
     }
   ]
 }

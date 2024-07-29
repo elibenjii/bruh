@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
@@ -14,15 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Heart",
       "trait_type": "Body"
     },
     {
-      "value": "Mario Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "Pablo Escobar",
       "trait_type": "Accessory"
     }
   ]

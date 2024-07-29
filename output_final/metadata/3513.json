@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Red Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Army Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

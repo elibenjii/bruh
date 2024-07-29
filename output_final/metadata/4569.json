@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Agent Pepe Pistol",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Black Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Space Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

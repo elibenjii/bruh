@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "John Wick Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Walter Face",
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

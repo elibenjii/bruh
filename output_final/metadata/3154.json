@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Grenade Man",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Perfect Beard",
       "trait_type": "Accessory"
     }
   ]

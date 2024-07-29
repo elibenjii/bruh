@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Army Helmet",
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

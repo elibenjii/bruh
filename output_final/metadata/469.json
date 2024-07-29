@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Lollipop Orange",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Overalls",
       "trait_type": "Body"
-    },
-    {
-      "value": "White Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

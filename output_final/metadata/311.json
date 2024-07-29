@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Cyberpunk",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

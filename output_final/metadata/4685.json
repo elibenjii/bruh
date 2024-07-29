@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Samourai",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Woke Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Jason Mask",
       "trait_type": "Accessory"
     }
   ]

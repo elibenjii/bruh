@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Super Saiyan Hair",
+      "value": "Jason Mask",
       "trait_type": "Accessory"
     }
   ]

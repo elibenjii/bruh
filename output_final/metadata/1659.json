@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Pointing Finger",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

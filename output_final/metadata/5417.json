@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Electroman",
       "trait_type": "Body"
     },
     {
-      "value": "Pablo Escobar",
+      "value": "Flying Cap With Pacifier",
       "trait_type": "Accessory"
     }
   ]

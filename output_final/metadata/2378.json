@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "White Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Mustacho",
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

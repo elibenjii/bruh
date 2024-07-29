@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Alien Ice Cream",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Hell Boy Horn",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

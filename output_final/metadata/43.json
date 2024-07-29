@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "Perfect Beard",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Boston Dynamics Armor",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Flying Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
+      "value": "Pepe Cap",
       "trait_type": "Accessory"
     }
   ]

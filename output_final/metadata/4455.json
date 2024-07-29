@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Flying Ice Cream",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "Red Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

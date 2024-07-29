@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
     },
     {
-      "value": "Thunberg Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

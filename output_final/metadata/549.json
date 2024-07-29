@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Weed",
       "trait_type": "Body"
     },
     {
-      "value": "Thunberg Hair",
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

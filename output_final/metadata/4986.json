@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Pepe Classic White",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bicycle Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Boredemon",
       "trait_type": "Body"
+    },
+    {
+      "value": "Thunberg Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

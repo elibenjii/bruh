@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
-    },
-    {
-      "value": "Hat Sheet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gothic Piercing",
-      "trait_type": "Accessory"
     }
   ]
 }

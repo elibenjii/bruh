@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
@@ -14,8 +14,12 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Red",
+      "value": "Suit",
       "trait_type": "Body"
+    },
+    {
+      "value": "Balaclava",
+      "trait_type": "Accessory"
     }
   ]
 }

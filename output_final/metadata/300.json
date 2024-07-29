@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
     },
     {
-      "value": "Bandana",
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

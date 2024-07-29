@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Worm",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Ironman",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Steampunk Armor",
+      "value": "Frogger",
       "trait_type": "Body"
     },
     {
-      "value": "Ninja Turtle Mask",
+      "value": "Bandana",
       "trait_type": "Accessory"
     }
   ]

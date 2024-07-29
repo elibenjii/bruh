@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Samourai",
+      "value": "Terrorist",
       "trait_type": "Body"
-    },
-    {
-      "value": "Ski Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

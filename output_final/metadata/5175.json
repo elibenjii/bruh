@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Shaolin Shirt",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

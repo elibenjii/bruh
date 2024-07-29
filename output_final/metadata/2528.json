@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "White Gentleman",
+      "value": "Frogger",
       "trait_type": "Body"
     },
     {
-      "value": "Pacifier",
+      "value": "Ninja Turtle Mask",
       "trait_type": "Accessory"
     }
   ]

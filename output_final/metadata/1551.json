@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Bread",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

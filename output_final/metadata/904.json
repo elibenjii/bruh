@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Chicken BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "Black Jungle",
       "trait_type": "Body"
-    },
-    {
-      "value": "Army Helmet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

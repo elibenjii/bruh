@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Shark Hoodie",
       "trait_type": "Arm"
     },
     {
-      "value": "Funky",
+      "value": "Shark Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Ninja Turtle Mask",
-      "trait_type": "Accessory"
     }
   ]
 }

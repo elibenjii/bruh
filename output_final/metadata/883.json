@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Dbz",
       "trait_type": "Body"
-    },
-    {
-      "value": "Gray Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

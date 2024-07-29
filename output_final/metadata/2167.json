@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Fist",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Overalls",
       "trait_type": "Body"
     },
     {
-      "value": "Army Helmet",
+      "value": "Green Headphone",
       "trait_type": "Accessory"
     }
   ]

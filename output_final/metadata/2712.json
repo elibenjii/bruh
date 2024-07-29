@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Cozy Sweater",
+      "value": "Red Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Green Headphone",
       "trait_type": "Accessory"
     }
   ]

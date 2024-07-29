@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Lumberjack",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Hat Sheet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

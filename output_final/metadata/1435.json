@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Black Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Naruto Hair",
+      "value": "Hat Sheet",
       "trait_type": "Accessory"
     },
     {
-      "value": "Black Glass",
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

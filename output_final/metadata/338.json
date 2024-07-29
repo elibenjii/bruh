@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Moon Latex",
       "trait_type": "Body"
     },
     {
-      "value": "Woke Hair",
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

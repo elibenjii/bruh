@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Heart",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandana",
-      "trait_type": "Accessory"
     }
   ]
 }

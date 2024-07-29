@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
     },
     {
-      "value": "Hat Sheet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

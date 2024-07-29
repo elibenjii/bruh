@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Tropical Shirt",
+      "value": "Aladdin Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Chun-li Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
-      "trait_type": "Accessory"
     }
   ]
 }

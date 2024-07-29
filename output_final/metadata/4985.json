@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "White Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
-      "trait_type": "Accessory"
     }
   ]
 }

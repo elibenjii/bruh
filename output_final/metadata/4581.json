@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop Orange",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Tank Top",
+      "value": "Gray Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

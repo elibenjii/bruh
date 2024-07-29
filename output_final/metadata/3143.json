@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Pointing Finger",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Hell Boy Horn",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Walter Face",
-      "trait_type": "Accessory"
     }
   ]
 }

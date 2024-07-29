@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Red Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Orange Headphone",
-      "trait_type": "Accessory"
     }
   ]
 }

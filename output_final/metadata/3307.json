@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Skelton Armor",
       "trait_type": "Body"
     },
     {
-      "value": "White Glass",
+      "value": "Crown",
       "trait_type": "Accessory"
     }
   ]

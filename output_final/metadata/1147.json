@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Grenade Man",
       "trait_type": "Body"
-    },
-    {
-      "value": "Boxing Headgear",
-      "trait_type": "Accessory"
     }
   ]
 }

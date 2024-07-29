@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Ice Cream Monster",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
+      "value": "Peaked Cap",
       "trait_type": "Accessory"
     },
     {
-      "value": "Black Glass",
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

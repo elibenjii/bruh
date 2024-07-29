@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

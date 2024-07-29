@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
+    },
+    {
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

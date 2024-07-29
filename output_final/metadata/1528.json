@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Agent Pepe Pistol",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Suit",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Gray Glass",
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

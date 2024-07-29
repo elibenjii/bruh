@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Pink Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Shaolin Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Buffed",
       "trait_type": "Body"
     },
     {
-      "value": "Big Nose",
+      "value": "Pilot Helmet",
       "trait_type": "Accessory"
     }
   ]

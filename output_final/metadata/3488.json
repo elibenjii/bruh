@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Waterboy Soldier",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

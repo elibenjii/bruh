@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Hulk Body",
       "trait_type": "Body"
-    },
-    {
-      "value": "Woke Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nose Piercing",
-      "trait_type": "Accessory"
     }
   ]
 }

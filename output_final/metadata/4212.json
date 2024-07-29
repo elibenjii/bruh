@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Waterboy Soldier",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Ninja Turtle Mask",
       "trait_type": "Accessory"
     }
   ]

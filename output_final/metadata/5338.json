@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Tropical Shirt",
+      "value": "Black Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
+      "trait_type": "Accessory"
     }
   ]
 }

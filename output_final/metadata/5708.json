@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Ghetto Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Dreadlocks",
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

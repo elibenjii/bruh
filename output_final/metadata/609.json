@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Black Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Hobbo Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

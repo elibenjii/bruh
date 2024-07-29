@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Pork BBQ",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Electroman",
       "trait_type": "Body"
+    },
+    {
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

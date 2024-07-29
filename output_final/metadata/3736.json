@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie Hacker",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Chun-li Hair",
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

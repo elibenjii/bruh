@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

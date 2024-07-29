@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Naruto Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
-      "trait_type": "Accessory"
     }
   ]
 }

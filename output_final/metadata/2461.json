@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
     },
     {
-      "value": "Pilot Helmet",
+      "value": "Mario Hat",
       "trait_type": "Accessory"
     }
   ]

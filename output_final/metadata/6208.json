@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "GMO Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Walter Face",
       "trait_type": "Accessory"
     }
   ]

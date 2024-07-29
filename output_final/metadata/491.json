@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
       "value": "Black Jungle",
       "trait_type": "Body"
-    },
-    {
-      "value": "Jason Mask",
-      "trait_type": "Accessory"
     }
   ]
 }

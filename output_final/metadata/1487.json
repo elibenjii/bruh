@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Jungle",
+      "value": "Abibas",
       "trait_type": "Body"
-    },
-    {
-      "value": "Gray Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

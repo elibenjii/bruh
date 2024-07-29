@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Space Spinach",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie Hacker",
+      "value": "Overalls",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
+      "value": "Mushroom Cap",
       "trait_type": "Accessory"
     },
     {
-      "value": "Gray Aviator Glass",
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

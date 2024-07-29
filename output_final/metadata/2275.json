@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Agent Pepe Pistol",
+      "value": "Brown Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Suit",
+      "value": "Red Tank Top",
       "trait_type": "Body"
-    },
-    {
-      "value": "Perfect Beard",
-      "trait_type": "Accessory"
     }
   ]
 }

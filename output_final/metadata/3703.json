@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Space Spinach",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Heart",
       "trait_type": "Body"
     },
     {
-      "value": "Croco Hood",
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

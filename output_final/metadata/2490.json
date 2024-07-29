@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "John Wick Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Mustacho",
+      "value": "Peaked Cap",
       "trait_type": "Accessory"
     }
   ]

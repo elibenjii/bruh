@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Send It",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Dino Suit",
+      "value": "Terrorist",
       "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap With Pacifier",
+      "trait_type": "Accessory"
     }
   ]
 }

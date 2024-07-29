@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Ice Cream",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Tank Top",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

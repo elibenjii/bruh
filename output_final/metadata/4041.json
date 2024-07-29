@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Suit",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Straw",
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Purple Space Helmet",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

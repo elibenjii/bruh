@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Electroman",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
     },
     {
-      "value": "Mushroom Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

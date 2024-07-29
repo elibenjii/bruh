@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Ice Cream Monster",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Ghetto Jacket",
       "trait_type": "Body"
-    },
-    {
-      "value": "Scarf",
-      "trait_type": "Accessory"
     }
   ]
 }

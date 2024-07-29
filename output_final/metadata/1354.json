@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Hell Boy Horn",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

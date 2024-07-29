@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

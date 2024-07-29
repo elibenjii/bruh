@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Cyberpunk",
       "trait_type": "Body"
-    },
-    {
-      "value": "Chun-li Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

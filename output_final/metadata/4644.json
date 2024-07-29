@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Fish",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Electroman",
       "trait_type": "Body"
     },
     {
-      "value": "Ninja Turtle Mask",
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

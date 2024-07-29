@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
-    },
-    {
-      "value": "Space Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

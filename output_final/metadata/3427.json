@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
@@ -14,8 +14,12 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Dino Suit",
+      "value": "Waterboy Soldier",
       "trait_type": "Body"
+    },
+    {
+      "value": "Jason Mask",
+      "trait_type": "Accessory"
     }
   ]
 }

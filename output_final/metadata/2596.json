@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Moon Latex",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pablo Escobar",
+      "trait_type": "Accessory"
     }
   ]
 }

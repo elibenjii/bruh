@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Pork BBQ",
+      "value": "Detective",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Pimp Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Space Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Gentleman",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Jacket",
+      "value": "Moon Latex",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Hell Boy Horn",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

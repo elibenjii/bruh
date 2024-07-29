@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Suit",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
+      "value": "Super Saiyan Hair",
       "trait_type": "Accessory"
     }
   ]

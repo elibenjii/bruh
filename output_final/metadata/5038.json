@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

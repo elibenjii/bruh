@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Alien Ice Cream",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Scarf",
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

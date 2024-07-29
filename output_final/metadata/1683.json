@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Fist",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pikachu Hoodie",
+      "value": "Pink Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Croco Hood",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Mario",
       "trait_type": "Body"
-    },
-    {
-      "value": "Nerd Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pikachu Hoodie",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
+    },
+    {
+      "value": "Balaclava",
+      "trait_type": "Accessory"
     }
   ]
 }

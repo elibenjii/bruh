@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -10,12 +10,20 @@
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pikachu Hoodie",
+      "value": "Samourai",
       "trait_type": "Body"
+    },
+    {
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Green Headphone",
+      "trait_type": "Accessory"
     }
   ]
 }

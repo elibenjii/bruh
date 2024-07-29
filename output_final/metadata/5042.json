@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Gray Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

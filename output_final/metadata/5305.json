@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pilot Helmet",
+      "trait_type": "Accessory"
     }
   ]
 }

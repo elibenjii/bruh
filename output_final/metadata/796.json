@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Tatoo",
       "trait_type": "Arm"
     },
     {
-      "value": "Shotgun Ammo",
+      "value": "Overalls",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandito",
-      "trait_type": "Accessory"
     }
   ]
 }

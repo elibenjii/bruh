@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Steampunk Armor",
+      "value": "Shotgun Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

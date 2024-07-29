@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Pink Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Gray Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Chun-li Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Boxing Headgear",
       "trait_type": "Accessory"
     }
   ]

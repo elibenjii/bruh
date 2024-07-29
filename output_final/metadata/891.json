@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Ironman",
       "trait_type": "Body"
     },
     {
-      "value": "Kim Jong Un Hair",
+      "value": "Yellow Hat",
       "trait_type": "Accessory"
     },
     {
-      "value": "Mustacho",
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

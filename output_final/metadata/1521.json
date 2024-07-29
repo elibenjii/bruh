@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Send It",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Chilling",
       "trait_type": "Body"
     },
     {
-      "value": "Peaked Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Walter Face",
       "trait_type": "Accessory"
     }
   ]

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Space Spinach",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Samourai",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bicycle Helmet",
+      "trait_type": "Accessory"
     }
   ]
 }

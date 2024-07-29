@@ -10,12 +10,16 @@
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Steampunk Armor",
+      "value": "Alien Brand",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bandito",
+      "trait_type": "Accessory"
     }
   ]
 }

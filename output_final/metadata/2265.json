@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Grenade Man",
       "trait_type": "Body"
     },
     {
-      "value": "Kim Jong Un Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
+      "value": "Woke Hair",
       "trait_type": "Accessory"
     }
   ]

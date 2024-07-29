@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Boxing",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Alien Brand",
       "trait_type": "Body"
-    },
-    {
-      "value": "Ski Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

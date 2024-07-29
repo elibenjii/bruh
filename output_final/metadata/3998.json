@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
@@ -14,12 +14,8 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Pepe Classic White",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

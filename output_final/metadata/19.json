@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Heart",
       "trait_type": "Body"
     },
     {
-      "value": "Mushroom Cap",
+      "value": "Straw Hat",
       "trait_type": "Accessory"
     },
     {
-      "value": "Mustacho",
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Cyberpunk",
       "trait_type": "Body"
     },
     {
-      "value": "Mario Hat",
+      "value": "Peaked Cap",
       "trait_type": "Accessory"
     },
     {
-      "value": "Big Nose",
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

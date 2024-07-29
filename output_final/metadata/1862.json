@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Ironman",
       "trait_type": "Body"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

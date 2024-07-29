@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Cyber Claw",
+      "value": "Shaolin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Flying Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Thunberg Hair",
       "trait_type": "Accessory"
     }
   ]

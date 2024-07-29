@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
-      "value": "Shaolin Shirt",
+      "value": "Frogger",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

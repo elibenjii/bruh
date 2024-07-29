@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Red Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

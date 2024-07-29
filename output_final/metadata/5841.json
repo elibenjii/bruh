@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

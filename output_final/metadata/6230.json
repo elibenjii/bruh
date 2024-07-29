@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Space Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
+      "value": "Peaked Cap",
       "trait_type": "Accessory"
     },
     {
-      "value": "White Glass",
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "White Lezards",
       "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

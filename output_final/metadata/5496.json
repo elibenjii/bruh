@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Lucille Bat",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
-      "value": "Suit",
+      "value": "White Lezards",
       "trait_type": "Body"
-    },
-    {
-      "value": "Purple Space Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

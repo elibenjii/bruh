@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Red Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Perfect Beard",
+      "value": "Flying Cap",
       "trait_type": "Accessory"
     }
   ]

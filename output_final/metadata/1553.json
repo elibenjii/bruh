@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
       "value": "White Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Boxing Headgear",
-      "trait_type": "Accessory"
     }
   ]
 }

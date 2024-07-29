@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Space Spinach",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Italian Ice Cream Monster",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Ironman",
       "trait_type": "Body"
+    },
+    {
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Mario",
       "trait_type": "Body"
+    },
+    {
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
     }
   ]
 }

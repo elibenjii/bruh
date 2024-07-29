@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Lucille Bat",
+      "value": "Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
+    },
+    {
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

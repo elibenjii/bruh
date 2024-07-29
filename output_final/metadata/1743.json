@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Dbz",
       "trait_type": "Body"
     },
     {
-      "value": "Pilot Helmet",
+      "value": "Hat Sheet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

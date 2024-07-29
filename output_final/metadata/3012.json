@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Abibas",
       "trait_type": "Body"
+    },
+    {
+      "value": "Black Cap",
+      "trait_type": "Accessory"
     }
   ]
 }

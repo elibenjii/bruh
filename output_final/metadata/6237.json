@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Mustacho",
+      "trait_type": "Accessory"
     }
   ]
 }

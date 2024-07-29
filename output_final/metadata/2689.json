@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Flying Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
     },
     {
-      "value": "Pilot Helmet",
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Frogger",
       "trait_type": "Body"
     },
     {
-      "value": "Mario Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

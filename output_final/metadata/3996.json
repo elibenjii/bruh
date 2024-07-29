@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Cyber Claw",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
     },
     {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Steampunk Armor",
+      "value": "Skelton Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Pacifier",
+      "value": "Straw",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Boredemon Face",
+      "value": "Jason Mask",
       "trait_type": "Accessory"
     }
   ]

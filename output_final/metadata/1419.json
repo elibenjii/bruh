@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Ice Cream Monster",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Samourai",
       "trait_type": "Body"
     },
     {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "Army Helmet",
       "trait_type": "Accessory"
     }
   ]

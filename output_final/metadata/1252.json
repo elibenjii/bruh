@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "White Jungle",
       "trait_type": "Body"
-    },
-    {
-      "value": "Mushroom Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

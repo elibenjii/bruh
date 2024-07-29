@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

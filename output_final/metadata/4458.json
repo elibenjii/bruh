@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Moon Latex",
       "trait_type": "Body"
     },
     {
-      "value": "Naruto Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

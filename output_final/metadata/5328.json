@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "Hulk Body",
       "trait_type": "Body"
     },
     {
-      "value": "Kim Jong Un Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
+      "value": "Mushroom Cap",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Mushroom Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

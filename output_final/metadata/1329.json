@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Pointing Finger",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Pikachu Hoodie",
+      "value": "Green Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Green Headphone",
+      "trait_type": "Accessory"
     }
   ]
 }

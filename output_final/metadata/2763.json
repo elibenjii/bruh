@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Detective",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Pimp Suit",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bandana",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Fist",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Aladdin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Boxing Headgear",
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Tank Top Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Dreadlocks",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Black Glass",
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Brown Donut",
+      "value": "Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Tank Top",
+      "value": "Bomber",
       "trait_type": "Body"
+    },
+    {
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Space Weed",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Funky",
       "trait_type": "Body"
-    },
-    {
-      "value": "Space Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

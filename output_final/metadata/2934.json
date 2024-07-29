@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Dbz",
       "trait_type": "Body"
-    },
-    {
-      "value": "Hat Sheet",
-      "trait_type": "Accessory"
     }
   ]
 }

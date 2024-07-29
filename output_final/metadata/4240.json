@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Black Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Mushroom Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

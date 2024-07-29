@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Alien Ice Cream",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

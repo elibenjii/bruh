@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Jungle Commando",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandana",
-      "trait_type": "Accessory"
     }
   ]
 }

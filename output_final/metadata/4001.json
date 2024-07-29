@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

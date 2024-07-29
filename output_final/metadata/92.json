@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Agent Pepe Pistol",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Black Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
+      "value": "Black Cap",
       "trait_type": "Accessory"
     }
   ]

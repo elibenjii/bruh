@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
+      "value": "Mushroom Cap",
       "trait_type": "Accessory"
     },
     {
-      "value": "Gray Glass",
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Italian Ice Cream Monster",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Jungle Commando",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandana",
-      "trait_type": "Accessory"
     }
   ]
 }

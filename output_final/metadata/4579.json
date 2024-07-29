@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Jungle",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
+    },
+    {
+      "value": "Balaclava",
+      "trait_type": "Accessory"
     }
   ]
 }

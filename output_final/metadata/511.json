@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Pointing Finger",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Hobbo Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

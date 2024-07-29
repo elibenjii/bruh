@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Red Jungle",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Boxing Headgear",
+      "value": "Black Cap",
       "trait_type": "Accessory"
     }
   ]

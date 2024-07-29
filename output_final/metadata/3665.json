@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Hesitation",
       "trait_type": "Arm"
     },
     {
-      "value": "White Gentleman",
+      "value": "Tank Top Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

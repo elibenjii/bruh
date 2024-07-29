@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Shaolin Shirt",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Pilot Helmet",
+      "value": "Chun-li Hair",
       "trait_type": "Accessory"
     }
   ]

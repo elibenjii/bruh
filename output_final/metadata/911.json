@@ -10,12 +10,16 @@
       "trait_type": "Head"
     },
     {
-      "value": "Pink Ice Cream",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Unicorn",
+      "value": "Bomber",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bicycle Helmet",
+      "trait_type": "Accessory"
     }
   ]
 }

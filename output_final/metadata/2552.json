@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Hulk Body",
       "trait_type": "Body"
+    },
+    {
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
     }
   ]
 }

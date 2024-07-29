@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "White Jungle",
+      "value": "Special Force",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Pacifier",
       "trait_type": "Accessory"
     }
   ]

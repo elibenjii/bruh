@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Pokebong",
       "trait_type": "Arm"
     },
     {
-      "value": "White Gentleman",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

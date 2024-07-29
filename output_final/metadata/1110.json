@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Alien Brand",
       "trait_type": "Body"
     },
     {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

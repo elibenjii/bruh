@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,15 @@
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Special Force",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
+      "value": "Pacifier",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Ice Cream Monster",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Black",
+      "value": "Black Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

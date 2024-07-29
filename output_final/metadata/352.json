@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Frogger",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Super Saiyan Hair",
       "trait_type": "Accessory"
     }
   ]

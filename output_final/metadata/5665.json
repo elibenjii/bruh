@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Pepe Classic Red",
       "trait_type": "Body"
     },
     {
-      "value": "Goku Hair",
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

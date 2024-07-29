@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Punk Badass",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Kim Jong Un Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Black Cap",
       "trait_type": "Accessory"
     }
   ]

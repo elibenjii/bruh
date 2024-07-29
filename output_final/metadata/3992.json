@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
-    },
-    {
-      "value": "Mushroom Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

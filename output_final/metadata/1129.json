@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Jungle Commando",
       "trait_type": "Body"
-    },
-    {
-      "value": "Smol Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

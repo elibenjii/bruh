@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "Ghetto Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Pacifier",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

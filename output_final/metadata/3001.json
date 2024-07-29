@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Suit",
       "trait_type": "Body"
+    },
+    {
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
     },
     {
       "value": "Gray Aviator Glass",

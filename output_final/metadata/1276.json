@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Chicken BBQ",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Dbz",
       "trait_type": "Body"
+    },
+    {
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Perfect Beard",
+      "trait_type": "Accessory"
     }
   ]
 }

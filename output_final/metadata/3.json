@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Hoodie",
       "trait_type": "Body"
     },
     {
-      "value": "Scarf",
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

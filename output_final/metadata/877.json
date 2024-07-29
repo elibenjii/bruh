@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Lucille Bat",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
-    },
-    {
-      "value": "Woke Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Tatoo",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Aladdin Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Gothic Piercing",
-      "trait_type": "Accessory"
     }
   ]
 }

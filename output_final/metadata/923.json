@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Jacket",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Naruto Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

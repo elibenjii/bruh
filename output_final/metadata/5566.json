@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Lucille Bat",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

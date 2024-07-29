@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

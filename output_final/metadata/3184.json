@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Worm",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

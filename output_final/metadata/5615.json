@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "White Jungle",
       "trait_type": "Body"
+    },
+    {
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nose Piercing",
+      "trait_type": "Accessory"
     }
   ]
 }

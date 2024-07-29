@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Bomber",
       "trait_type": "Body"
-    },
-    {
-      "value": "Beard",
-      "trait_type": "Accessory"
     }
   ]
 }

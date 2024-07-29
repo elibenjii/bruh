@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Mario",
       "trait_type": "Body"
     },
     {
-      "value": "Dreadlocks",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

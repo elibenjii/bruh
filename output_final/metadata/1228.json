@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Weed",
       "trait_type": "Body"
     },
     {
-      "value": "Thunberg Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Crown",
       "trait_type": "Accessory"
     }
   ]

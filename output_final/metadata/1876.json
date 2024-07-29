@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Skelton Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bicycle Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

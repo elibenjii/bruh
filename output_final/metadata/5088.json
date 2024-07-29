@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Black Gentleman",
       "trait_type": "Body"
-    },
-    {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

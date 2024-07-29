@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Black Jungle",
       "trait_type": "Body"
-    },
-    {
-      "value": "Dreadlocks",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

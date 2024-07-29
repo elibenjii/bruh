@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Pork BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Cyber Claw",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Pacifier",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Walter Face",
       "trait_type": "Accessory"
     }
   ]

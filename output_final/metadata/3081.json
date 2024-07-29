@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Electroman",
+      "value": "Punisher",
       "trait_type": "Body"
-    },
-    {
-      "value": "White Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Alien Ice Cream",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Tropical Shirt",
+      "value": "Frogger",
       "trait_type": "Body"
     },
     {
-      "value": "Goku Hair",
+      "value": "Mario Hat",
       "trait_type": "Accessory"
     }
   ]

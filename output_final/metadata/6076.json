@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Chicken BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Black Jungle",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bicycle Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

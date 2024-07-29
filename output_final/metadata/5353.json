@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Tatoo",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Tank Top Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
+      "value": "Crown",
       "trait_type": "Accessory"
     },
     {
-      "value": "Gray Glass",
+      "value": "Perfect Beard",
       "trait_type": "Accessory"
     }
   ]

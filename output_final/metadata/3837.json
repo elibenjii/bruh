@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Pepe Classic White",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pablo Escobar",
+      "trait_type": "Accessory"
     }
   ]
 }

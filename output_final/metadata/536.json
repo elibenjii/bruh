@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Tropical Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Ninja Turtle Mask",
+      "value": "Bob",
       "trait_type": "Accessory"
     }
   ]

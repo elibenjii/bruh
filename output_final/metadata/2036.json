@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Tatoo",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Mario",
+      "value": "Overalls",
       "trait_type": "Body"
     },
     {
-      "value": "Pipe",
+      "value": "Mushroom Cap",
       "trait_type": "Accessory"
     }
   ]

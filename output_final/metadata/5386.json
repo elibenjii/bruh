@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Italian Ice Cream Monster",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "White Jungle",
       "trait_type": "Body"
-    },
-    {
-      "value": "Army Helmet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Tank Top Jacket",
+      "value": "Ironman",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
-      "trait_type": "Accessory"
     }
   ]
 }

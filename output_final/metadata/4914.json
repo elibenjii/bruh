@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Suit",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
+      "trait_type": "Accessory"
     }
   ]
 }

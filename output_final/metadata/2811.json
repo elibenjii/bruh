@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Ultra",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Ultra",
+      "value": "Waterboy Soldier",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bob",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
     }
   ]
 }

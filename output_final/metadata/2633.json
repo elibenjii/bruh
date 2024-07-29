@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Punisher",
       "trait_type": "Body"
-    },
-    {
-      "value": "Mario Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,15 @@
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Tropical Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Kim Jong Un Hair",
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

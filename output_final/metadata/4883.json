@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "White Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Purple Space Helmet",
+      "trait_type": "Accessory"
     }
   ]
 }

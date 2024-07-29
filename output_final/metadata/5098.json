@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Agent Pepe Pistol",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Suit",
+      "value": "Waterboy Soldier",
       "trait_type": "Body"
     },
     {
-      "value": "Black Glass",
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

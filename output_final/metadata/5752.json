@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Green Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bandito",
+      "trait_type": "Accessory"
     }
   ]
 }

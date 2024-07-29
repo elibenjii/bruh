@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Grenade Man",
       "trait_type": "Body"
     },
     {
-      "value": "Goku Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Flying Cap",
       "trait_type": "Accessory"
     }
   ]

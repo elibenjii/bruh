@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Angry",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Overalls",
+      "value": "Gray Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "John Wick Hair",
+      "value": "Naruto Hair",
       "trait_type": "Accessory"
     }
   ]

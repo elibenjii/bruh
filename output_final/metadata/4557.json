@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Hesitation",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Shaolin Shirt",
+      "value": "Funky",
       "trait_type": "Body"
     },
     {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Peaked Cap",
       "trait_type": "Accessory"
     }
   ]

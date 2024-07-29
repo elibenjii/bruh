@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Straw Hat",
       "trait_type": "Accessory"
     }
   ]

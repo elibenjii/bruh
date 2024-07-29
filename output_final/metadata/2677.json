@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Lucille Bat",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Cyberpunk",
       "trait_type": "Body"
-    },
-    {
-      "value": "Scarf",
-      "trait_type": "Accessory"
     }
   ]
 }

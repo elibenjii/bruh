@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Gentleman",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Cyber Claw",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Thunberg Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Walter Face",
+      "value": "Orange Headphone",
       "trait_type": "Accessory"
     }
   ]

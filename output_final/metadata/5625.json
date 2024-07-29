@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Gentleman",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Orange Headphone",
-      "trait_type": "Accessory"
     }
   ]
 }

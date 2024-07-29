@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Mustacho",
+      "value": "Smol Hair",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "White Gentleman",
+      "value": "Frogger",
       "trait_type": "Body"
     },
     {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "Punk Hair",
       "trait_type": "Accessory"
     }
   ]

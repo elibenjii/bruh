@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Special Force",
       "trait_type": "Body"
+    },
+    {
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

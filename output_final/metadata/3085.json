@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "GMO Worm",
       "trait_type": "Arm"
     },
     {
@@ -18,7 +18,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

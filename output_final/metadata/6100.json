@@ -10,16 +10,12 @@
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Green Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Kim Jong Un Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

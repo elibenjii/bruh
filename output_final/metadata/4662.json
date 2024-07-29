@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Pork BBQ",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
     },
     {
-      "value": "Bandito",
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

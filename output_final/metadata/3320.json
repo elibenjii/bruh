@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "Red Jungle",
       "trait_type": "Body"
-    },
-    {
-      "value": "Chun-li Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

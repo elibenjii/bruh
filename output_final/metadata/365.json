@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Ice Cream Monster",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "White Lezards",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandana",
-      "trait_type": "Accessory"
     }
   ]
 }

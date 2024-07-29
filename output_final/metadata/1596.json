@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Red Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Smol Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

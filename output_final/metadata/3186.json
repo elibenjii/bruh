@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Tatoo",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Aladdin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
+      "value": "Mario Hat",
       "trait_type": "Accessory"
     }
   ]

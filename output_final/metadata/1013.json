@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie Hacker",
+      "value": "Punisher",
       "trait_type": "Body"
-    },
-    {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
     }
   ]
 }

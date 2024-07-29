@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Fist",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandana",
-      "trait_type": "Accessory"
     }
   ]
 }

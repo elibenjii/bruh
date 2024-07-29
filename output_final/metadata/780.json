@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Steampunk Armor",
+      "value": "Hulk Body",
       "trait_type": "Body"
-    },
-    {
-      "value": "White Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

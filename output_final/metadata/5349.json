@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "Mustacho",
       "trait_type": "Accessory"
     }
   ]

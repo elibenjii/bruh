@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "White Jungle",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Woke Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
+      "value": "Bandito",
       "trait_type": "Accessory"
     }
   ]

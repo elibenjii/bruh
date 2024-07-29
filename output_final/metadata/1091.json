@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Hulk Body",
       "trait_type": "Body"
+    },
+    {
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
     }
   ]
 }

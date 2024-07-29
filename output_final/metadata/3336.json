@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Woke Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Mushroom Cap",
       "trait_type": "Accessory"
     }
   ]

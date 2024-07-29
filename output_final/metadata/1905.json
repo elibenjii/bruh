@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Black",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

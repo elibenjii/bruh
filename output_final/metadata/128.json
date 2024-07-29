@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Frogger",
       "trait_type": "Body"
-    },
-    {
-      "value": "Kim Jong Un Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

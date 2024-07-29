@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Pointing Finger",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Dino Suit",
+      "value": "Green Cyber Claw",
       "trait_type": "Body"
+    },
+    {
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

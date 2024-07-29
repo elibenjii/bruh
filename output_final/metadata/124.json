@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Red Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Thunberg Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

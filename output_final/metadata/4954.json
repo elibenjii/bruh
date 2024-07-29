@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Chicken BBQ",
+      "value": "Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Black Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Thunberg Hair",
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

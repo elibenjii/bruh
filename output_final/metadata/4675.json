@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Flying Ice Cream",
+      "value": "Detective",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Pimp Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pilot Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

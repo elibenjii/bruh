@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Steampunk Armor",
+      "value": "Grenade Man",
       "trait_type": "Body"
     },
     {
-      "value": "Chun-li Hair",
+      "value": "Jason Mask",
       "trait_type": "Accessory"
     }
   ]

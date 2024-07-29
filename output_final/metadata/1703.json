@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "White Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Flying Cap With Pacifier",
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
@@ -14,8 +14,12 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Pikachu Hoodie",
+      "value": "Bomber",
       "trait_type": "Body"
+    },
+    {
+      "value": "Green Headphone",
+      "trait_type": "Accessory"
     }
   ]
 }

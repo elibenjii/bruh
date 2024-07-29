@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Dreadlocks",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Green Headphone",
+      "value": "Bicycle Helmet",
       "trait_type": "Accessory"
     }
   ]

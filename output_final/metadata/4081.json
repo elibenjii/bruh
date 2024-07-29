@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "White Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

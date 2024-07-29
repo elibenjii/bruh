@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
@@ -18,7 +18,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
+      "value": "Bicycle Helmet",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "White Lezards",
       "trait_type": "Body"
     },
     {
-      "value": "Pipe",
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

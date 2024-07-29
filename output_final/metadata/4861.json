@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
@@ -14,12 +14,8 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Buffed",
+      "value": "Orange Jacket",
       "trait_type": "Body"
-    },
-    {
-      "value": "Ghetto Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

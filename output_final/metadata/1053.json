@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Jason Mask",
-      "trait_type": "Accessory"
     }
   ]
 }

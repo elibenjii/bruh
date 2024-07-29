@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Samourai",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

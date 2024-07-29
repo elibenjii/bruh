@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Space Spinach",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Waterboy Soldier",
       "trait_type": "Body"
+    },
+    {
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Straw",
+      "trait_type": "Accessory"
     }
   ]
 }

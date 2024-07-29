@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "GMO Flower",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Waterboy Soldier",
       "trait_type": "Body"
     },
     {
-      "value": "Nose Piercing",
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Perfect Beard",
       "trait_type": "Accessory"
     }
   ]

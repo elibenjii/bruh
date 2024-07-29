@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Hat Sheet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Smol Hair",
       "trait_type": "Accessory"
     }
   ]

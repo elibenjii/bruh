@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Pokebong",
       "trait_type": "Arm"
     },
     {
-      "value": "Tank Top Jacket",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Mushroom Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Mustacho",
-      "trait_type": "Accessory"
     }
   ]
 }

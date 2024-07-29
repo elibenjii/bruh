@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Shotgun Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

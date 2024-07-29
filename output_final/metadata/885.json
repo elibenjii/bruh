@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Gentleman Lucille Bat",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Electroman",
+      "value": "Gray Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Hell Boy Horn",
-      "trait_type": "Accessory"
     }
   ]
 }

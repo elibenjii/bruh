@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Terrorist",
       "trait_type": "Body"
-    },
-    {
-      "value": "Dreadlocks",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

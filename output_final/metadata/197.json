@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Peaked Cap",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

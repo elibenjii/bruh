@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
+    },
+    {
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
     }
   ]
 }

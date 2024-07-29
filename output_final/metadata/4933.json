@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Heart",
       "trait_type": "Body"
     },
     {
-      "value": "Pilot Helmet",
+      "value": "Black Cap",
       "trait_type": "Accessory"
     }
   ]

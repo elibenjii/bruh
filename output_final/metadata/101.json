@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

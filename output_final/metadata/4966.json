@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Gentleman",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Buffed",
+      "value": "Frogger",
       "trait_type": "Body"
-    },
-    {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
     }
   ]
 }

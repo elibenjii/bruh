@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Red",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Purple Space Helmet",
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

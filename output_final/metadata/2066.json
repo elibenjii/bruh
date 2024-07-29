@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Worm",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Alien Brand",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

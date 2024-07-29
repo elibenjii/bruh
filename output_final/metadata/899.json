@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Steampunk Armor",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Mushroom Cap",
+      "value": "Purple Space Helmet",
       "trait_type": "Accessory"
     }
   ]

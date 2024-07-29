@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Punisher",
       "trait_type": "Body"
-    },
-    {
-      "value": "Reversed Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Gray Aviator Glass",
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

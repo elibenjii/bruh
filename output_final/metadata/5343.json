@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Agent Pepe Pistol",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Black Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nose Piercing",
+      "value": "Bandana",
       "trait_type": "Accessory"
     }
   ]

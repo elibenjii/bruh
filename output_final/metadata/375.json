@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Hat Sheet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Walter Face",
-      "trait_type": "Accessory"
     }
   ]
 }

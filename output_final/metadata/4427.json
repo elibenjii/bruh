@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Agent Pepe Pistol",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Suit",
+      "value": "Black Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Jason Mask",
-      "trait_type": "Accessory"
     }
   ]
 }

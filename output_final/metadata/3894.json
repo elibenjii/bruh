@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Gray Glass",
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

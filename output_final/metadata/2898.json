@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Flying Ice Cream",
+      "value": "Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Goku Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Bicycle Helmet",
       "trait_type": "Accessory"
     }
   ]

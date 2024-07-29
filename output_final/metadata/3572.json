@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Flying Ice Cream",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Red Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Hell Boy Horn",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nose Piercing",
+      "value": "Black Cap",
       "trait_type": "Accessory"
     }
   ]

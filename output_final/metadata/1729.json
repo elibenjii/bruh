@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Ninja Turtle Mask",
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Walter Face",
       "trait_type": "Accessory"
     }
   ]

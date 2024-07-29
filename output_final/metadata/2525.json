@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Scarf",
-      "trait_type": "Accessory"
     }
   ]
 }

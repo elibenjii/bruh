@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Boxing",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Orange Jacket",
       "trait_type": "Body"
+    },
+    {
+      "value": "Jason Mask",
+      "trait_type": "Accessory"
     }
   ]
 }

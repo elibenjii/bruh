@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
@@ -18,7 +18,11 @@
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Walter Face",
       "trait_type": "Accessory"
     }
   ]

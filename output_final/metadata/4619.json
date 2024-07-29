@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Jungle",
+      "value": "Shotgun Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Bandana",
+      "value": "Pilot Helmet",
       "trait_type": "Accessory"
     }
   ]

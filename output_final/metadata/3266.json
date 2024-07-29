@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "GMO Worm",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
-    },
-    {
-      "value": "Mustacho",
-      "trait_type": "Accessory"
     }
   ]
 }

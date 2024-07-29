@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Ultra",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Ultra",
       "trait_type": "Body"
-    },
-    {
-      "value": "Flying Cap With Pacifier",
-      "trait_type": "Accessory"
     }
   ]
 }

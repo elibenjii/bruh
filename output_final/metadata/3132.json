@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "Alien Brand",
       "trait_type": "Body"
-    },
-    {
-      "value": "Green Headphone",
-      "trait_type": "Accessory"
     }
   ]
 }

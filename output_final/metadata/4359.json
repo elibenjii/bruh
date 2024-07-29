@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "White Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Red Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Boxing Headgear",
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

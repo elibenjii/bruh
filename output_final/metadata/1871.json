@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Black Jungle",
       "trait_type": "Body"
+    },
+    {
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Cyberpunk",
       "trait_type": "Body"
-    },
-    {
-      "value": "Peaked Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

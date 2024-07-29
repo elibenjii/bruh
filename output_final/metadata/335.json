@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Ninja Turtle Mask",
       "trait_type": "Accessory"
     }
   ]

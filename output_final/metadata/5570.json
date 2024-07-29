@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Ghetto Jacket",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
     },
     {
-      "value": "Hat Sheet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Smol Hair",
       "trait_type": "Accessory"
     }
   ]

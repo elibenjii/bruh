@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Gentleman",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Dino Suit",
+      "value": "Frogger",
       "trait_type": "Body"
+    },
+    {
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

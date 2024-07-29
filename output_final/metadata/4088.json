@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Lucille Bat",
       "trait_type": "Arm"
     },
     {
@@ -18,7 +18,11 @@
       "trait_type": "Body"
     },
     {
-      "value": "Ninja Turtle Mask",
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Ghetto Jacket",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Ninja Turtle Mask",
+      "value": "Bob",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

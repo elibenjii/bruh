@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

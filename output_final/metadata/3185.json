@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
+      "value": "Flying Cap With Pacifier",
       "trait_type": "Accessory"
     }
   ]

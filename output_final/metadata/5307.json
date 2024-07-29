@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Skelton Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bicycle Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

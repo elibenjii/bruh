@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Agent Pepe Pistol",
       "trait_type": "Arm"
     },
     {
-      "value": "Lumberjack",
+      "value": "Black Suit",
       "trait_type": "Body"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Space Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Peaked Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

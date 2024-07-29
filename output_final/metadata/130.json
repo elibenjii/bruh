@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Alien Ice Cream",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Mario",
       "trait_type": "Body"
     },
     {
-      "value": "Scarf",
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Jungle",
+      "value": "Abibas",
       "trait_type": "Body"
-    },
-    {
-      "value": "Space Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

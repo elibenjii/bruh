@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Punk Badass",
       "trait_type": "Body"
     },
     {
-      "value": "Bandito",
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Green Headphone",
       "trait_type": "Accessory"
     }
   ]

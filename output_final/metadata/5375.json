@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Alien Brand",
       "trait_type": "Body"
     },
     {
-      "value": "Goku Hair",
+      "value": "Pacifier",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

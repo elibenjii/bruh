@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Ice Cream Monster",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Pepe Cap",
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

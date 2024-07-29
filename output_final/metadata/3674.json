@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Punk Badass",
+      "value": "Weed",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Bicycle Helmet",
       "trait_type": "Accessory"
     }
   ]

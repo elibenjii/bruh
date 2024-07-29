@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Steampunk Armor",
+      "value": "Aladdin Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Ghetto Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

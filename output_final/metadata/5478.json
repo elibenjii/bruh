@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Ghetto Jacket",
+      "value": "Pink Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Gray Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

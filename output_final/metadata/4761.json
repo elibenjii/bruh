@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "Boston Dynamics Armor",
+      "value": "Black Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pablo Escobar",
-      "trait_type": "Accessory"
     }
   ]
 }

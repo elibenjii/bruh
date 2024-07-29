@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Hesitation",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Cyber Claw",
+      "value": "Skelton Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Big Nose",
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Walter Face",
       "trait_type": "Accessory"
     }
   ]

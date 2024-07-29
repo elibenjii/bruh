@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "Samourai",
       "trait_type": "Body"
-    },
-    {
-      "value": "John Wick Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

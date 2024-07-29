@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
     },
     {
-      "value": "Naruto Hair",
+      "value": "Pilot Helmet",
       "trait_type": "Accessory"
     }
   ]

@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Worm",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Hat Sheet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -10,16 +10,12 @@
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
-    },
-    {
-      "value": "Gray Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -10,16 +10,12 @@
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Cyberpunk",
       "trait_type": "Body"
-    },
-    {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
     }
   ]
 }

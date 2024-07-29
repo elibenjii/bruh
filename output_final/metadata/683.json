@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Space Spinach",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Space Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pilot Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

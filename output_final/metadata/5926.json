@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Green Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pipe",
-      "trait_type": "Accessory"
     }
   ]
 }

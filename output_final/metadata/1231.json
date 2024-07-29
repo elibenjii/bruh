@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Lucille Bat",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Punisher",
       "trait_type": "Body"
+    },
+    {
+      "value": "Gray Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

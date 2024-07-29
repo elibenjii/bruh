@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Hulk Body",
       "trait_type": "Body"
     },
     {
-      "value": "Dreadlocks",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Cyberpunk",
       "trait_type": "Body"
     },
     {
-      "value": "Goku Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

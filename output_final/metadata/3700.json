@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Angry",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Shaolin Shirt",
+      "value": "Black Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Peaked Cap",
+      "value": "Hat Sheet",
       "trait_type": "Accessory"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

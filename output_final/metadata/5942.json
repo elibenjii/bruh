@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Send It",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Gray Jacket",
       "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

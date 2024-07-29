@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Steampunk Armor",
+      "value": "Red Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Black Glass",
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

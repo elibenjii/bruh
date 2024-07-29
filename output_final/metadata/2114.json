@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Mario",
       "trait_type": "Body"
     },
     {
-      "value": "Boxing Headgear",
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

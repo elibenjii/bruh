@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Mario",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
-    },
-    {
-      "value": "Mushroom Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Mustacho",
-      "trait_type": "Accessory"
     }
   ]
 }

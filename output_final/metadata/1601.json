@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Gentleman",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Mario",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Mushroom Cap",
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

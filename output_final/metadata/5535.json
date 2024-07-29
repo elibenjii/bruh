@@ -10,16 +10,12 @@
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Flying Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Waterboy Soldier",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

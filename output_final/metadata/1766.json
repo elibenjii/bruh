@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Cyberpunk",
       "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
     },
     {
       "value": "Black Aviator Glass",

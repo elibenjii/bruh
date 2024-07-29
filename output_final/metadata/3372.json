@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Hesitation",
       "trait_type": "Arm"
     },
     {
-      "value": "Lumberjack",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Smol Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

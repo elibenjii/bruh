@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
@@ -18,7 +18,11 @@
       "trait_type": "Body"
     },
     {
-      "value": "Boxing Headgear",
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

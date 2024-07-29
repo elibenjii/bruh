@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Space Weed",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Punisher",
       "trait_type": "Body"
-    },
-    {
-      "value": "Space Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

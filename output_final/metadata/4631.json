@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Lucille Bat",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Suit",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

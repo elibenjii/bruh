@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "White Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

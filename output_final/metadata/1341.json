@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
     },
     {
-      "value": "Mustacho",
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Boston Dynamics Armor",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Boredemon Face",
+      "value": "Jason Mask",
       "trait_type": "Accessory"
     }
   ]

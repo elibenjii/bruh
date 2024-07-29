@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
+    },
+    {
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

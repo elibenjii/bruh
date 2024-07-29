@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "Pepe Cap",
       "trait_type": "Accessory"
     }
   ]

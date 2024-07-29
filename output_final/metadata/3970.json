@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Trapped Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Electroman",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

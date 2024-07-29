@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Hesitation",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Chun-li Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

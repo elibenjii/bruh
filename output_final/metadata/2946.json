@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Hulk Body",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

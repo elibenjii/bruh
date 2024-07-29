@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Lucille Bat",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Ghetto Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Flying Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Abibas",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
-    },
-    {
-      "value": "Boredemon Face",
-      "trait_type": "Accessory"
     }
   ]
 }

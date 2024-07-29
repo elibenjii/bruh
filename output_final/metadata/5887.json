@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Boxing",
+      "value": "GMO Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Chilling",
+      "value": "Jungle Commando",
       "trait_type": "Body"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
     }
   ]
 }

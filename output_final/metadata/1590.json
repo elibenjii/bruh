@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Orange Jacket",
+      "value": "Ghetto Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Green Headphone",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

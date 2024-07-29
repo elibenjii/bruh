@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Kim Jong Un Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

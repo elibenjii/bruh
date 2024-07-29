@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Shaolin Shirt",
+      "value": "Ice Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Jason Mask",
-      "trait_type": "Accessory"
     }
   ]
 }

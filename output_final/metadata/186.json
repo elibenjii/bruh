@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Pork BBQ",
+      "value": "Hesitation",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Black",
+      "value": "Shaolin Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Pink Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Unicorn",
       "trait_type": "Body"
-    },
-    {
-      "value": "Nose Piercing",
-      "trait_type": "Accessory"
     }
   ]
 }

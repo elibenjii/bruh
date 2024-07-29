@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Flying Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
-    },
-    {
-      "value": "Big Nose",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Frogger",
       "trait_type": "Body"
-    },
-    {
-      "value": "Chun-li Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

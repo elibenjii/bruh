@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
@@ -14,16 +14,8 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Electroman",
+      "value": "Punk Badass",
       "trait_type": "Body"
-    },
-    {
-      "value": "Dreadlocks",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Mustacho",
-      "trait_type": "Accessory"
     }
   ]
 }

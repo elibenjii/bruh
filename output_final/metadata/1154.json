@@ -10,20 +10,12 @@
       "trait_type": "Head"
     },
     {
-      "value": "Chicken BBQ",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Ice Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Goku Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
-      "trait_type": "Accessory"
     }
   ]
 }

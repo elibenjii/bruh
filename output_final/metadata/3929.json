@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Italian Ice Cream Monster",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Dbz",
       "trait_type": "Body"
-    },
-    {
-      "value": "Straw",
-      "trait_type": "Accessory"
     }
   ]
 }

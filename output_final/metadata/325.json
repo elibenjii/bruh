@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Hoodie",
       "trait_type": "Body"
     },
     {
-      "value": "Kim Jong Un Hair",
+      "value": "Army Helmet",
       "trait_type": "Accessory"
     }
   ]

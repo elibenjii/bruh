@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Red Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Boxing Headgear",
       "trait_type": "Accessory"
     }
   ]

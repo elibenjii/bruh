@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Cyberpunk",
       "trait_type": "Body"
-    },
-    {
-      "value": "Army Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

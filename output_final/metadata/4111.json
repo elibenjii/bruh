@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
     }
   ]
 }

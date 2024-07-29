@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pablo Escobar",
+      "trait_type": "Accessory"
     }
   ]
 }

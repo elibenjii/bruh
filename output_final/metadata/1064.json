@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "GMO Worm",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Heart",
       "trait_type": "Body"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

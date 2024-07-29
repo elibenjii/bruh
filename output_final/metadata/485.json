@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Tank Top Jacket",
       "trait_type": "Body"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

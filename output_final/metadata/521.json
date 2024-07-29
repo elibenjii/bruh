@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Funky",
+      "value": "Dbz",
       "trait_type": "Body"
+    },
+    {
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

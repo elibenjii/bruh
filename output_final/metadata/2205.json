@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Mario",
+      "value": "Cyberpunk",
       "trait_type": "Body"
     },
     {
-      "value": "Goku Hair",
+      "value": "Hat Sheet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

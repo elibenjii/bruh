@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Angry",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pikachu Hoodie",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pilot Helmet",
+      "trait_type": "Accessory"
     }
   ]
 }

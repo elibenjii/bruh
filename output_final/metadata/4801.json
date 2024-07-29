@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Red Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Space Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
       "value": "Thunberg Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

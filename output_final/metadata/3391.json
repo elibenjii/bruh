@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Jacket",
+      "value": "Ice Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandito",
-      "trait_type": "Accessory"
     }
   ]
 }

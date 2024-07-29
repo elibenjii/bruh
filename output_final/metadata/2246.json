@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Punk Badass",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bandana",
+      "trait_type": "Accessory"
     }
   ]
 }

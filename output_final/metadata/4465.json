@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Bandito",
       "trait_type": "Accessory"
     }
   ]

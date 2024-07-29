@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Lucille Bat",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Dbz",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bandito",
+      "trait_type": "Accessory"
     }
   ]
 }

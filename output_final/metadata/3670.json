@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Chicken BBQ",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
+      "value": "Ninja Turtle Mask",
       "trait_type": "Accessory"
     }
   ]

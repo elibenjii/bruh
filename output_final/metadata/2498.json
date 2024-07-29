@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Electroman",
       "trait_type": "Body"
     },
     {
-      "value": "Pipe",
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

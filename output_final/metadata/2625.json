@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Lumberjack",
       "trait_type": "Body"
-    },
-    {
-      "value": "Peaked Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Cozy Sweater",
+      "value": "Moon Latex",
       "trait_type": "Body"
-    },
-    {
-      "value": "Crown",
-      "trait_type": "Accessory"
     }
   ]
 }

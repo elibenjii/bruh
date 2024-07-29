@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
@@ -18,11 +18,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Dreadlocks",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
+      "value": "Bicycle Helmet",
       "trait_type": "Accessory"
     }
   ]

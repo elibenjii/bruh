@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Space Spinach",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Black",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Hat Sheet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Croco Hood",
+      "value": "Mario Hat",
       "trait_type": "Accessory"
     }
   ]

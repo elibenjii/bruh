@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Gentleman",
+      "value": "Gentleman Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Chilling",
+      "value": "Tropical Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Bandana",
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

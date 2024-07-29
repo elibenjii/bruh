@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Cyberpunk",
       "trait_type": "Body"
     },
     {
-      "value": "Goku Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gothic Piercing",
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

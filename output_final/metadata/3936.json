@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Ice Cream Monster",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Black Glass",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

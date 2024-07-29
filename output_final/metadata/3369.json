@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Flying Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Alien Brand",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

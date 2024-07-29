@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Flying Ice Cream",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Bomber",
       "trait_type": "Body"
-    },
-    {
-      "value": "John Wick Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

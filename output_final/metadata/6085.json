@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Purple Space Helmet",
+      "value": "Straw Hat",
       "trait_type": "Accessory"
     }
   ]

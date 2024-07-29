@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Alien Ice Cream",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Steampunk Armor",
+      "value": "Punk Badass",
       "trait_type": "Body"
+    },
+    {
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

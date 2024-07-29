@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
-    },
-    {
-      "value": "Reversed Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Mustacho",
-      "trait_type": "Accessory"
     }
   ]
 }

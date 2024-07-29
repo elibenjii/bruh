@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Space Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Mushroom Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

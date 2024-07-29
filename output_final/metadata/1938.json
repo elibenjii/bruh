@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Pork BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Lumberjack",
+      "value": "Cyberpunk",
       "trait_type": "Body"
-    },
-    {
-      "value": "Purple Space Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

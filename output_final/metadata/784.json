@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Detective",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Pimp Suit",
+      "value": "Space Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

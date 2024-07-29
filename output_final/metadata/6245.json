@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Samourai",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Naruto Hair",
       "trait_type": "Accessory"
     }
   ]

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Pink Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Unicorn",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pilot Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

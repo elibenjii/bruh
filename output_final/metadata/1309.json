@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Chilling",
       "trait_type": "Body"
+    },
+    {
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

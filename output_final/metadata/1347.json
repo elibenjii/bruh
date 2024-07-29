@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Fish",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Punk Badass",
+      "value": "Green Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Crown",
+      "trait_type": "Accessory"
     }
   ]
 }

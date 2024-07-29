@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Big Nose",
+      "value": "Super Saiyan Hair",
       "trait_type": "Accessory"
     }
   ]

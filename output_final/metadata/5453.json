@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Weed",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bicycle Helmet",
+      "trait_type": "Accessory"
     }
   ]
 }

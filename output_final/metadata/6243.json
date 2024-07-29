@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Red",
+      "value": "Alien Brand",
       "trait_type": "Body"
     },
     {
-      "value": "Mario Hat",
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

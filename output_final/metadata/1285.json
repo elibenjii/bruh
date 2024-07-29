@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
@@ -14,8 +14,16 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Black Jungle",
       "trait_type": "Body"
+    },
+    {
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

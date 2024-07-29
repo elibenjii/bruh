@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Aladdin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Flying Cap",
+      "value": "Mushroom Cap",
       "trait_type": "Accessory"
     },
     {
-      "value": "Big Nose",
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

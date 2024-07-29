@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Pipe",
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Perfect Beard",
       "trait_type": "Accessory"
     }
   ]

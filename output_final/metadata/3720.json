@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Punk Badass",
+      "value": "Aladdin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

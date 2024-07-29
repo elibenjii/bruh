@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Overalls",
+      "value": "Red Jungle",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

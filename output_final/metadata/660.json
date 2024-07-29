@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Green Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Big Nose",
-      "trait_type": "Accessory"
     }
   ]
 }

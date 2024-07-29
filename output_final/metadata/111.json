@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Grenade Man",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bob",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

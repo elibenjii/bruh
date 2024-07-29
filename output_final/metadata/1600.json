@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Buffed",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

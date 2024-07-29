@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop",
+      "value": "Bread",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Punisher",
       "trait_type": "Body"
-    },
-    {
-      "value": "Naruto Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

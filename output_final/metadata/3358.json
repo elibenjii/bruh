@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
@@ -18,7 +18,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

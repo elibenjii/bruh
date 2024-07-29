@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Waterboy Soldier",
       "trait_type": "Body"
     },
     {
-      "value": "Mushroom Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "Black Cap",
       "trait_type": "Accessory"
     }
   ]

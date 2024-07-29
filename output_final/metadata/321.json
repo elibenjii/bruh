@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Cozy Sweater",
+      "value": "Black Gentleman",
       "trait_type": "Body"
+    },
+    {
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

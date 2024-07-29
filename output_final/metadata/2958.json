@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
@@ -18,7 +18,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Purple Space Helmet",
+      "value": "Pablo Escobar",
       "trait_type": "Accessory"
     }
   ]

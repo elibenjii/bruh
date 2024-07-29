@@ -10,15 +10,19 @@
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Ironman",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

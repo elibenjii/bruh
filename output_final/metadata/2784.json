@@ -10,12 +10,16 @@
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Ghetto Jacket",
       "trait_type": "Body"
+    },
+    {
+      "value": "Jason Mask",
+      "trait_type": "Accessory"
     }
   ]
 }

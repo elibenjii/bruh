@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Black Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Fist",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Dino Suit",
+      "value": "Samourai",
       "trait_type": "Body"
+    },
+    {
+      "value": "Gray Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

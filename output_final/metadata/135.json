@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
-    },
-    {
-      "value": "John Wick Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

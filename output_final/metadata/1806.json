@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Mario",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Mario Hat",
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

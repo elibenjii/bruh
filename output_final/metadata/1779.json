@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Boston Dynamics Armor",
+      "value": "Electroman",
       "trait_type": "Body"
-    },
-    {
-      "value": "Boxing Headgear",
-      "trait_type": "Accessory"
     }
   ]
 }

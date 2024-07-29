@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Italian Ice Cream Monster",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Ghetto Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

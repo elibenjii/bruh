@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Skelton Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

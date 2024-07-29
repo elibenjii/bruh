@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "GMO Worm",
+      "value": "Bread",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Gray Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Goku Hair",
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

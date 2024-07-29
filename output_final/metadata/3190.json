@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Buffed",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Perfect Beard",
+      "value": "Jason Mask",
       "trait_type": "Accessory"
     }
   ]

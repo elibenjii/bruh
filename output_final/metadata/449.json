@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Jason Mask",
       "trait_type": "Accessory"
     }
   ]

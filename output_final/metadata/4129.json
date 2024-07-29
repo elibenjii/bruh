@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "Ghetto Jacket",
+      "value": "Space Suit",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Straw",
+      "trait_type": "Accessory"
     }
   ]
 }

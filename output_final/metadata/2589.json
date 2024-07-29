@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Flying Ice Cream",
+      "value": "Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Terrorist",
       "trait_type": "Body"
-    },
-    {
-      "value": "Croco Hood",
-      "trait_type": "Accessory"
     }
   ]
 }

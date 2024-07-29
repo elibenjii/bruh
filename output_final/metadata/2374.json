@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Electroman",
+      "value": "Space Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

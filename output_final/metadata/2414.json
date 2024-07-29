@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Naruto Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "Punk Hair",
       "trait_type": "Accessory"
     }
   ]

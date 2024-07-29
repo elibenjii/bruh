@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Grenade Man",
       "trait_type": "Body"
     },
     {
-      "value": "Bandana",
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

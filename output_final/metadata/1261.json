@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Pork BBQ",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Black",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "John Wick Hair",
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

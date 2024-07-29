@@ -10,12 +10,16 @@
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Gentleman Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Tropical Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Moon Latex",
       "trait_type": "Body"
+    },
+    {
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

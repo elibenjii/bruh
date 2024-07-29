@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Detective",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Pimp Suit",
+      "value": "Mario",
       "trait_type": "Body"
     },
     {
-      "value": "Bandana",
+      "value": "Bob",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

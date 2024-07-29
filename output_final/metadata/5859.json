@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Mushroom Cap",
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
       "trait_type": "Accessory"
     }
   ]

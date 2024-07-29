@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Space Spinach",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Black Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Jason Mask",
-      "trait_type": "Accessory"
     }
   ]
 }

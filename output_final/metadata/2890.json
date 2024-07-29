@@ -10,12 +10,16 @@
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "White Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Boxing Headgear",
+      "trait_type": "Accessory"
     }
   ]
 }

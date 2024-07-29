@@ -10,12 +10,16 @@
       "trait_type": "Head"
     },
     {
-      "value": "Brown Donut",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Buffed",
+      "value": "Heart",
       "trait_type": "Body"
+    },
+    {
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
     }
   ]
 }

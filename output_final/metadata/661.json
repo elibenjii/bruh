@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
+      "value": "Army Helmet",
       "trait_type": "Accessory"
     },
     {
-      "value": "Mustacho",
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

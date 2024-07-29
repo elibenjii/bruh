@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Weed",
       "trait_type": "Body"
     },
     {
-      "value": "Pipe",
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

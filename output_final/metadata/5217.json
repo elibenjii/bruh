@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
@@ -18,11 +18,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Mario Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Croco Hood",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Mario",
       "trait_type": "Body"
     },
     {
-      "value": "Goku Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Ghetto Cap",
       "trait_type": "Accessory"
     }
   ]

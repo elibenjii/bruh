@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Mario Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
+      "value": "Bob",
       "trait_type": "Accessory"
     }
   ]

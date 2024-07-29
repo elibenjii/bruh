@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Black Cap",
       "trait_type": "Accessory"
     }
   ]

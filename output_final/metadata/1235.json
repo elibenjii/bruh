@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie Hacker",
+      "value": "Black Jungle",
       "trait_type": "Body"
-    },
-    {
-      "value": "Reversed Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
@@ -14,15 +14,15 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Hell Boy Horn",
+      "value": "Yellow Hat",
       "trait_type": "Accessory"
     },
     {
-      "value": "Black Glass",
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

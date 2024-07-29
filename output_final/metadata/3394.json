@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Tank Top Jacket",
+      "value": "Black Jungle",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pablo Escobar",
-      "trait_type": "Accessory"
     }
   ]
 }

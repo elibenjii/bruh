@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "Funky",
+      "value": "White Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Nerd Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

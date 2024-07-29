@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
-    },
-    {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

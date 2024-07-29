@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Hesitation",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandana",
-      "trait_type": "Accessory"
     }
   ]
 }

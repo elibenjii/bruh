@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Bread",
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "Black Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Flying Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

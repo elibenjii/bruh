@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "Terrorist",
       "trait_type": "Body"
-    },
-    {
-      "value": "Woke Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

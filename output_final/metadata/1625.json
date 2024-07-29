@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "White Gentleman",
       "trait_type": "Body"
-    },
-    {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Jungle",
+      "value": "Samourai",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
     }
   ]
 }

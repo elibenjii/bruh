@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Bread",
       "trait_type": "Arm"
     },
     {
-      "value": "Mario",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Gray Aviator Glass",
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

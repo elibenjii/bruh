@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Aladdin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Ski Glass",
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

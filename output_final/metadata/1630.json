@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Goku Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Bandito",
       "trait_type": "Accessory"
     }
   ]

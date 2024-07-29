@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Orange Jacket",
       "trait_type": "Body"
-    },
-    {
-      "value": "Dreadlocks",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Green Headphone",
-      "trait_type": "Accessory"
     }
   ]
 }

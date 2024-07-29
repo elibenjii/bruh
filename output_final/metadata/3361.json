@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,15 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Samourai",
+      "value": "Ironman",
       "trait_type": "Body"
     },
     {
-      "value": "Peaked Cap",
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

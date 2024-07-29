@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
@@ -14,8 +14,12 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Pikachu Hoodie",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
+    },
+    {
+      "value": "Black Cap",
+      "trait_type": "Accessory"
     }
   ]
 }

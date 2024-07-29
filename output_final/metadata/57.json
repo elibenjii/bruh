@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Chun-li Hair",
+      "value": "Bob",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

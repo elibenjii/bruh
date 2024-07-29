@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Buffed",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
-    },
-    {
-      "value": "Ninja Turtle Mask",
-      "trait_type": "Accessory"
     }
   ]
 }

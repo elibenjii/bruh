@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Gray Glass",
+      "value": "Peaked Cap",
       "trait_type": "Accessory"
     }
   ]

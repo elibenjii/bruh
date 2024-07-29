@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Pablo Escobar",
       "trait_type": "Accessory"
     }
   ]

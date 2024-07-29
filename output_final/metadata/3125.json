@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "Ironman",
       "trait_type": "Body"
+    },
+    {
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
+      "trait_type": "Accessory"
     }
   ]
 }

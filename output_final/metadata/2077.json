@@ -10,16 +10,12 @@
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Agent Pepe Pistol",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Jungle",
+      "value": "Black Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandana",
-      "trait_type": "Accessory"
     }
   ]
 }

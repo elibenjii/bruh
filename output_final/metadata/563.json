@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Punk Hair",
       "trait_type": "Accessory"
     }
   ]

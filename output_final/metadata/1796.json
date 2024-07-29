@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Hell Boy Horn",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

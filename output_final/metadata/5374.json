@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Alien Ice Cream",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Waterboy Soldier",
       "trait_type": "Body"
+    },
+    {
+      "value": "Perfect Beard",
+      "trait_type": "Accessory"
     }
   ]
 }

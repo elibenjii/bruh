@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Abibas",
+      "value": "Punk Badass",
       "trait_type": "Body"
+    },
+    {
+      "value": "Purple Space Helmet",
+      "trait_type": "Accessory"
     }
   ]
 }

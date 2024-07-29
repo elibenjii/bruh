@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
@@ -18,7 +18,11 @@
       "trait_type": "Body"
     },
     {
-      "value": "Mushroom Cap",
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Agent Pepe Pistol",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Black Suit",
       "trait_type": "Body"
+    },
+    {
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

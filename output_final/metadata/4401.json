@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,15 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Grenade Man",
       "trait_type": "Body"
     },
     {
-      "value": "Woke Hair",
+      "value": "Hobbo Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

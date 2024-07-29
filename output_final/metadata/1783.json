@@ -10,20 +10,12 @@
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Electroman",
       "trait_type": "Body"
-    },
-    {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

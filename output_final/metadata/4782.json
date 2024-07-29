@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Pink Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Unicorn",
       "trait_type": "Body"
-    },
-    {
-      "value": "Big Nose",
-      "trait_type": "Accessory"
     }
   ]
 }

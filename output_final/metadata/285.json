@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
     },
     {
-      "value": "Mustacho",
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

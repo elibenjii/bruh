@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Punk Badass",
+      "value": "Jungle Commando",
       "trait_type": "Body"
-    },
-    {
-      "value": "Mario Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

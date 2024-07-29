@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Italian Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Ice Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Kim Jong Un Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Mustacho",
-      "trait_type": "Accessory"
     }
   ]
 }

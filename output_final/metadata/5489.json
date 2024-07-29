@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Grenade Man",
       "trait_type": "Body"
+    },
+    {
+      "value": "Black Cap",
+      "trait_type": "Accessory"
     }
   ]
 }

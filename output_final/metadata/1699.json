@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Alien Ice Cream",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Boston Dynamics Armor",
+      "value": "Green Cyber Claw",
       "trait_type": "Body"
     },
     {
-      "value": "Bandito",
+      "value": "Pacifier",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

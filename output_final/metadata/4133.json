@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

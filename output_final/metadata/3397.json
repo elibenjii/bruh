@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Straw Hat",
       "trait_type": "Accessory"
     }
   ]

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Red Tank Top",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pablo Escobar",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Green Cyber Claw",
       "trait_type": "Body"
-    },
-    {
-      "value": "Dreadlocks",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Green Headphone",
-      "trait_type": "Accessory"
     }
   ]
 }

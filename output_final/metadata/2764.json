@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
-    },
-    {
-      "value": "Green Headphone",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Electroman",
       "trait_type": "Body"
+    },
+    {
+      "value": "Space Helmet",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Electroman",
       "trait_type": "Body"
-    },
-    {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

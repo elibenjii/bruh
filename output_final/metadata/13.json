@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ninja Turtle Mask",
       "trait_type": "Accessory"
     }
   ]

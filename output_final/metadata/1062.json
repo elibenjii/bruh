@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Jungle",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Flying Cap With Pacifier",
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

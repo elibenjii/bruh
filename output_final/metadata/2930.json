@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie",
+      "value": "Overalls",
       "trait_type": "Body"
-    },
-    {
-      "value": "Ghetto Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Crown",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Trapped Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Goku Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
+      "value": "Kim Jong Un Hair",
       "trait_type": "Accessory"
     }
   ]

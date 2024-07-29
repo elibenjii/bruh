@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Green Cyber Claw",
       "trait_type": "Body"
     },
     {
-      "value": "Pacifier",
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

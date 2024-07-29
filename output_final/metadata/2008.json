@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Shotgun Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

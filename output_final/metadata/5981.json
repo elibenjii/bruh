@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Ironman",
       "trait_type": "Body"
     },
     {
-      "value": "Green Headphone",
+      "value": "Balaclava",
       "trait_type": "Accessory"
     }
   ]

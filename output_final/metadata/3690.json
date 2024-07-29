@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "John Wick Hair",
       "trait_type": "Accessory"
     }
   ]

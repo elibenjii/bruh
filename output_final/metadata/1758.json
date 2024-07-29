@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Gentleman",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Mario",
       "trait_type": "Body"
-    },
-    {
-      "value": "Mushroom Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Overalls",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
+      "value": "Balaclava",
       "trait_type": "Accessory"
     }
   ]

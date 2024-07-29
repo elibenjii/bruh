@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Grenade Man",
       "trait_type": "Body"
-    },
-    {
-      "value": "Smol Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Orange Headphone",
-      "trait_type": "Accessory"
     }
   ]
 }

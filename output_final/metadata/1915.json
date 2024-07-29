@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Lucille Bat",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Cyberpunk",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
+      "value": "Purple Space Helmet",
       "trait_type": "Accessory"
     }
   ]

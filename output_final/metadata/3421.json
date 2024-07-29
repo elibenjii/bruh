@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Hulk Body",
       "trait_type": "Body"
     },
     {
-      "value": "Hell Boy Horn",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Pepe Cap",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Bandito",
       "trait_type": "Accessory"
     }
   ]

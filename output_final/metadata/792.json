@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Angry",
+      "value": "GMO Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Shaolin Shirt",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Bandito",
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

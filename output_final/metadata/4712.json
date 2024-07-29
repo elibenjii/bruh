@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Ghetto Jacket",
+      "value": "Black Jungle",
       "trait_type": "Body"
+    },
+    {
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

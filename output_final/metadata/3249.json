@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Abibas",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
+      "value": "Flying Cap",
       "trait_type": "Accessory"
     }
   ]

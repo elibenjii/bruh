@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Lucille Bat",
       "trait_type": "Arm"
     },
     {
-      "value": "Funky",
+      "value": "Black Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Nerd Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

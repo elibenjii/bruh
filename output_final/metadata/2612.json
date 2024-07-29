@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Crown",
-      "trait_type": "Accessory"
     },
     {
       "value": "Black Aviator Glass",

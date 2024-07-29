@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Pacifier",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Mushroom Cap",
       "trait_type": "Accessory"
     }
   ]

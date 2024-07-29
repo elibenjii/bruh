@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Pikachu Hoodie",
+      "value": "Punisher",
       "trait_type": "Body"
+    },
+    {
+      "value": "Gray Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

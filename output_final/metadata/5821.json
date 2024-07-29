@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Samourai",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Boxing Headgear",
+      "value": "Mario Hat",
       "trait_type": "Accessory"
     }
   ]

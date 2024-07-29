@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Fish",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Abibas",
       "trait_type": "Body"
-    },
-    {
-      "value": "Kim Jong Un Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Mustacho",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Jungle",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

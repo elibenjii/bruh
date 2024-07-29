@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

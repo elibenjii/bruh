@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Hulk Body",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

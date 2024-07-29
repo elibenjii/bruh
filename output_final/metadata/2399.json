@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Boxing",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Jacket",
+      "value": "Green Cyber Claw",
       "trait_type": "Body"
-    },
-    {
-      "value": "Flying Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
-      "trait_type": "Accessory"
     }
   ]
 }

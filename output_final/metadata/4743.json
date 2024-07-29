@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Pork BBQ",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Mushroom Cap",
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

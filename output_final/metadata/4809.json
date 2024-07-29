@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Detective",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Pimp Suit",
+      "value": "Black Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Green Headphone",
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

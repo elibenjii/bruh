@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Orange Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Peaked Cap",
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Straw",
       "trait_type": "Accessory"
     }
   ]

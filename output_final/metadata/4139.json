@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Fist",
+      "value": "Agent Pepe Pistol",
       "trait_type": "Arm"
     },
     {
-      "value": "Boredemon",
+      "value": "Black Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Goku Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

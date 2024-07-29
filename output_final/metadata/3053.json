@@ -10,16 +10,12 @@
       "trait_type": "Head"
     },
     {
-      "value": "Fist",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie",
+      "value": "Space Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Peaked Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

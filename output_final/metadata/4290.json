@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Ice Cream Monster",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Black Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

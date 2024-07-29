@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "GMO Worm",
+      "value": "Flying Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Punisher",
       "trait_type": "Body"
+    },
+    {
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
     }
   ]
 }

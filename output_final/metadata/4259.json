@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

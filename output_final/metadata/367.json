@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Bread",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Hat Sheet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gothic Piercing",
+      "value": "Bandito",
       "trait_type": "Accessory"
     }
   ]

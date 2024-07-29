@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Woke Hair",
+      "value": "Bob",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

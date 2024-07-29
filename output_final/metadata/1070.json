@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Gray Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Peaked Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Perfect Beard",
+      "value": "Pacifier",
       "trait_type": "Accessory"
     }
   ]

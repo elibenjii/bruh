@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bicycle Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

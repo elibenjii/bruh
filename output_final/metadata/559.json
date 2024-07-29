@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
@@ -14,8 +14,16 @@
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "White Gentleman",
       "trait_type": "Body"
+    },
+    {
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gothic Piercing",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Flying Ice Cream",
+      "value": "Boxing",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Goku Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

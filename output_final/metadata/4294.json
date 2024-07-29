@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Fist",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Cyber Claw",
+      "value": "Overalls",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

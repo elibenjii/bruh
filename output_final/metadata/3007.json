@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Fist",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Chilling",
       "trait_type": "Body"
     },
     {
-      "value": "Boxing Headgear",
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

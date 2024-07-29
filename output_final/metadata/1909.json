@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Cozy Sweater",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Mario Hat",
+      "value": "Yellow Hat",
       "trait_type": "Accessory"
     }
   ]

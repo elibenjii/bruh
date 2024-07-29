@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Detective",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pimp Suit",
+      "value": "Ironman",
       "trait_type": "Body"
     },
     {
-      "value": "Ghetto Cap",
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

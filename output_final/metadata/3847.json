@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Samourai",
+      "value": "Abibas",
       "trait_type": "Body"
-    },
-    {
-      "value": "White Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

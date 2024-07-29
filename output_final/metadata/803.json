@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Hesitation",
       "trait_type": "Arm"
     },
     {
-      "value": "Overalls",
+      "value": "Green Cyber Claw",
       "trait_type": "Body"
     },
     {
-      "value": "Mushroom Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Punk Hair",
       "trait_type": "Accessory"
     }
   ]

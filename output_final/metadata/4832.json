@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
@@ -18,7 +18,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Boxing Headgear",
+      "value": "Bob",
       "trait_type": "Accessory"
     }
   ]

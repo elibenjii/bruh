@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Detective",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pimp Suit",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Big Nose",
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

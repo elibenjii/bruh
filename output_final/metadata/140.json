@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Alien Brand",
       "trait_type": "Body"
+    },
+    {
+      "value": "Hell Boy Horn",
+      "trait_type": "Accessory"
     }
   ]
 }

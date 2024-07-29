@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
@@ -14,12 +14,8 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Shotgun Ammo",
+      "value": "White Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Boredemon Face",
-      "trait_type": "Accessory"
     }
   ]
 }

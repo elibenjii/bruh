@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Reversed Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
-      "trait_type": "Accessory"
     }
   ]
 }

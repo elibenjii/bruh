@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Boxing",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Black Gentleman",
       "trait_type": "Body"
-    },
-    {
-      "value": "John Wick Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

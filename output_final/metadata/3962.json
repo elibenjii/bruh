@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Tank Top Jacket",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Mario Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

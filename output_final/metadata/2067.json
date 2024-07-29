@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Kim Jong Un Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Green Headphone",
       "trait_type": "Accessory"
     }
   ]

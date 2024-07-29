@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Skelton Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Pacifier",
+      "value": "Bob",
       "trait_type": "Accessory"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

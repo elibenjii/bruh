@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Pork BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Punisher",
       "trait_type": "Body"
-    },
-    {
-      "value": "Kim Jong Un Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
-      "trait_type": "Accessory"
     }
   ]
 }

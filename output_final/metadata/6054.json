@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Suit",
+      "value": "Weed",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Gentleman",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Orange Headphone",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Aladdin Shirt",
+      "value": "Bomber",
       "trait_type": "Body"
-    },
-    {
-      "value": "Chun-li Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

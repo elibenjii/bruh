@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

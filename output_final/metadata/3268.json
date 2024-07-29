@@ -10,16 +10,12 @@
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Cozy Sweater",
+      "value": "Black Gentleman",
       "trait_type": "Body"
-    },
-    {
-      "value": "Army Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

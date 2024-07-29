@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Moon Latex",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pablo Escobar",
-      "trait_type": "Accessory"
     }
   ]
 }

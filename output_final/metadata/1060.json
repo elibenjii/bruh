@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Pepe Classic White",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Hat Sheet",
       "trait_type": "Accessory"
     }
   ]

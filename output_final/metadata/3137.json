@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Pepe Classic White",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "White Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Black Cap",
+      "trait_type": "Accessory"
     }
   ]
 }

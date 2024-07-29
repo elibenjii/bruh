@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Chicken BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Lumberjack",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Woke Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Mustacho",
+      "value": "Pablo Escobar",
       "trait_type": "Accessory"
     }
   ]

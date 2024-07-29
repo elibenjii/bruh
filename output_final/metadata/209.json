@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Bomber",
       "trait_type": "Body"
+    },
+    {
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "White Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pacifier",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

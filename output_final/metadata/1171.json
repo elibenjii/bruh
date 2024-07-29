@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Bread",
+      "value": "Italian Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Dreadlocks",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
+      "value": "Chun-li Hair",
       "trait_type": "Accessory"
     }
   ]

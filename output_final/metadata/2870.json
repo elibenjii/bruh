@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Shotgun Ammo",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Boredemon Face",
-      "trait_type": "Accessory"
     }
   ]
 }

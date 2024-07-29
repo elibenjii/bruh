@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Orange Jacket",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Thunberg Hair",
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Shaolin Shirt",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Thunberg Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Balaclava",
       "trait_type": "Accessory"
     }
   ]

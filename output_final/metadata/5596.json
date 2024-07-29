@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Dbz",
       "trait_type": "Body"
-    },
-    {
-      "value": "Naruto Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nose Piercing",
-      "trait_type": "Accessory"
     }
   ]
 }

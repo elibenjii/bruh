@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Funky",
       "trait_type": "Body"
-    },
-    {
-      "value": "John Wick Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

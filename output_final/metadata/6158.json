@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Buffed",
       "trait_type": "Body"
     },
     {
-      "value": "Chun-li Hair",
+      "value": "Thunberg Hair",
       "trait_type": "Accessory"
     },
     {
-      "value": "Gray Aviator Glass",
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

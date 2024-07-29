@@ -10,12 +10,16 @@
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "GMO Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie Hacker",
+      "value": "Terrorist",
       "trait_type": "Body"
+    },
+    {
+      "value": "Boredemon Face",
+      "trait_type": "Accessory"
     }
   ]
 }

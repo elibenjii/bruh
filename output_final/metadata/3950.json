@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Ultra",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Ultra",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandana",
-      "trait_type": "Accessory"
     }
   ]
 }

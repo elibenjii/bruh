@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Pipe",
+      "value": "Bob",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

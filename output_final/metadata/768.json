@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Shark Hoodie",
       "trait_type": "Arm"
     },
     {
-      "value": "Abibas",
+      "value": "Shark Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

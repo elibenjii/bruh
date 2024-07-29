@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Woke Hair",
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
       "trait_type": "Accessory"
     }
   ]

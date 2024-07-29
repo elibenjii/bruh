@@ -10,16 +10,12 @@
       "trait_type": "Head"
     },
     {
-      "value": "Pokebong",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Overalls",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
-    },
-    {
-      "value": "Jason Mask",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Agent Pepe Pistol",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Suit",
+      "value": "Hulk Body",
       "trait_type": "Body"
     },
     {
-      "value": "Hat Sheet",
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

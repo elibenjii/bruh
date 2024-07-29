@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Reversed Cap",
       "trait_type": "Accessory"
     }
   ]

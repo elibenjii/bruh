@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Samourai",
+      "value": "Hoodie",
       "trait_type": "Body"
     },
     {
-      "value": "Bandito",
+      "value": "Pilot Helmet",
       "trait_type": "Accessory"
     }
   ]

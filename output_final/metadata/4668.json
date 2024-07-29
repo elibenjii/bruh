@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Overalls",
+      "value": "Grenade Man",
       "trait_type": "Body"
-    },
-    {
-      "value": "Mushroom Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

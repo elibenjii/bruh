@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

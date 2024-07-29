@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Black",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bob",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
     }
   ]
 }

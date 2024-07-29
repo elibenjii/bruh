@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Brown Donut",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Orange Jacket",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
     }
   ]
 }

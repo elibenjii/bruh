@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Suit",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Purple Space Helmet",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

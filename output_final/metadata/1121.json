@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "White Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Heart",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

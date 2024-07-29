@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Ghetto Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
+      "value": "Hat Sheet",
       "trait_type": "Accessory"
     }
   ]

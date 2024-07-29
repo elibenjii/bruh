@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "White Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Space Helmet",
+      "trait_type": "Accessory"
     }
   ]
 }

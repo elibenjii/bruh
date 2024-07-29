@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Funky",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

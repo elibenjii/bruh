@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Gray Glass",
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

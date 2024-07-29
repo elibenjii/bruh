@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Army Helmet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

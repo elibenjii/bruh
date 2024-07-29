@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Ironman",
       "trait_type": "Body"
+    },
+    {
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
     }
   ]
 }

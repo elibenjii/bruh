@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "GMO Worm",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Pilot Helmet",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Abibas",
       "trait_type": "Body"
     },
     {
-      "value": "Peaked Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Ghetto Cap",
       "trait_type": "Accessory"
     }
   ]

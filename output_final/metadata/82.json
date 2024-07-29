@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
-    },
-    {
-      "value": "Croco Hood",
-      "trait_type": "Accessory"
     }
   ]
 }

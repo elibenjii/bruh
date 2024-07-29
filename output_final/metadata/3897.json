@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Pink Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Shaolin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

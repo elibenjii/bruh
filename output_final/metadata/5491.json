@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

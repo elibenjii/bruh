@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie Hacker",
+      "value": "Cyberpunk",
       "trait_type": "Body"
     },
     {
-      "value": "Purple Space Helmet",
+      "value": "Bob",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -10,12 +10,16 @@
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Steampunk Armor",
+      "value": "Red Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Jason Mask",
+      "trait_type": "Accessory"
     }
   ]
 }

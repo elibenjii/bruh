@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Shark Hoodie",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Shark Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pilot Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
@@ -14,16 +14,8 @@
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Skelton Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Smol Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

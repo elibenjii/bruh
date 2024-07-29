@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
@@ -14,15 +14,15 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
+      "value": "Mushroom Cap",
       "trait_type": "Accessory"
     },
     {
-      "value": "Gray Glass",
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

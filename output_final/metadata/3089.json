@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandito",
-      "trait_type": "Accessory"
     }
   ]
 }

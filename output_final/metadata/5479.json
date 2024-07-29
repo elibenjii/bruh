@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "Bomber",
       "trait_type": "Body"
-    },
-    {
-      "value": "Jason Mask",
-      "trait_type": "Accessory"
     }
   ]
 }

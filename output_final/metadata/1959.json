@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Mustacho",
       "trait_type": "Accessory"
     }
   ]

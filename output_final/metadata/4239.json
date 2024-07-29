@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Ultra",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Ultra",
       "trait_type": "Body"
-    },
-    {
-      "value": "Woke Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
-      "trait_type": "Accessory"
     }
   ]
 }

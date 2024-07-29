@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Ultra",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Ultra",
+      "value": "White Lezards",
       "trait_type": "Body"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

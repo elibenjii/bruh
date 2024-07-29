@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Electroman",
       "trait_type": "Body"
-    },
-    {
-      "value": "Hell Boy Horn",
-      "trait_type": "Accessory"
     }
   ]
 }

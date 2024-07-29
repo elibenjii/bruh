@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Alien Ice Cream",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Shotgun Ammo",
       "trait_type": "Body"
+    },
+    {
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

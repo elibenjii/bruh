@@ -10,20 +10,12 @@
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Cyberpunk",
       "trait_type": "Body"
-    },
-    {
-      "value": "Crown",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gothic Piercing",
-      "trait_type": "Accessory"
     }
   ]
 }

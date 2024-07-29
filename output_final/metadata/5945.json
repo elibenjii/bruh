@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Italian Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "Steampunk Armor",
+      "value": "Black Jungle",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

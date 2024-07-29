@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Shark Hoodie",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Shark Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Mushroom Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Mustacho",
-      "trait_type": "Accessory"
     }
   ]
 }

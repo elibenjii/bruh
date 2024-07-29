@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Flying Cap",
       "trait_type": "Accessory"
     }
   ]

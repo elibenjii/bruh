@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Send It",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Aladdin Shirt",
+      "value": "Weed",
       "trait_type": "Body"
     },
     {
-      "value": "Walter Face",
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Straw",
       "trait_type": "Accessory"
     }
   ]

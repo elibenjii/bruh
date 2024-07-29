@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Waterboy Soldier",
       "trait_type": "Body"
     },
     {
-      "value": "John Wick Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
+      "value": "Smol Hair",
       "trait_type": "Accessory"
     }
   ]

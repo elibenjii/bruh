@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Hesitation",
+      "value": "Detective",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie",
+      "value": "Pimp Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
     },
     {
       "value": "Black Aviator Glass",

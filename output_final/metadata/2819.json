@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Flying Ice Cream",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
       "value": "Cyberpunk",
       "trait_type": "Body"
-    },
-    {
-      "value": "Walter Face",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Chicken BBQ",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Weed",
       "trait_type": "Body"
+    },
+    {
+      "value": "Thunberg Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

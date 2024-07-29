@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
@@ -18,7 +18,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Mario Hat",
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

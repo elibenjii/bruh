@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Detective",
       "trait_type": "Arm"
     },
     {
-      "value": "Shaolin Shirt",
+      "value": "Pimp Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Flying Cap",
+      "value": "Peaked Cap",
       "trait_type": "Accessory"
     }
   ]

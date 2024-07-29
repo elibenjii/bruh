@@ -10,12 +10,16 @@
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Pink Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Space Helmet",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Hat Sheet",
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
       "trait_type": "Accessory"
     }
   ]

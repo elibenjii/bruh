@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
-    },
-    {
-      "value": "Flying Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
-      "trait_type": "Accessory"
     }
   ]
 }

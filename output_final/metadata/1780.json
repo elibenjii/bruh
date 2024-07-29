@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Special Force",
       "trait_type": "Body"
     },
     {
-      "value": "Orange Headphone",
+      "value": "Pilot Helmet",
       "trait_type": "Accessory"
     }
   ]

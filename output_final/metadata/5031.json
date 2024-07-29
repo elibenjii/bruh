@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
-    },
-    {
-      "value": "Goku Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

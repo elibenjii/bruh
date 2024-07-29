@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Black Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandana",
-      "trait_type": "Accessory"
     }
   ]
 }

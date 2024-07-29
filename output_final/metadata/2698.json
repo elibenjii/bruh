@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
       "value": "Cyberpunk",
       "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

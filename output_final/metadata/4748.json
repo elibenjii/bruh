@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Trapped Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Abibas",
       "trait_type": "Body"
+    },
+    {
+      "value": "Purple Space Helmet",
+      "trait_type": "Accessory"
     }
   ]
 }

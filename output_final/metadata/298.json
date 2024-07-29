@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Grenade Man",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bob",
-      "trait_type": "Accessory"
     }
   ]
 }

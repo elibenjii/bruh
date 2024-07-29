@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Lollipop",
       "trait_type": "Arm"
     },
     {
-      "value": "Electroman",
+      "value": "Terrorist",
       "trait_type": "Body"
-    },
-    {
-      "value": "White Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

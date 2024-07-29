@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Dino Suit",
+      "value": "Heart",
       "trait_type": "Body"
+    },
+    {
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
+      "trait_type": "Accessory"
     }
   ]
 }

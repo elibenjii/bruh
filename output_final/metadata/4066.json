@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Funky",
+      "value": "Black Jungle",
       "trait_type": "Body"
-    },
-    {
-      "value": "Mushroom Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

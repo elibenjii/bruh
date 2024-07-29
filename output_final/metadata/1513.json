@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Tropical Shirt",
+      "value": "White Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Hell Boy Horn",
-      "trait_type": "Accessory"
     }
   ]
 }

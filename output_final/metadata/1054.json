@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Joint",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Pikachu Hoodie",
+      "value": "Dbz",
       "trait_type": "Body"
+    },
+    {
+      "value": "Straw",
+      "trait_type": "Accessory"
     }
   ]
 }

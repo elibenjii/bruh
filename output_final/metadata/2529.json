@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Tropical Shirt",
+      "value": "White Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Chun-li Hair",
       "trait_type": "Accessory"
     }
   ]

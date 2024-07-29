@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Flying Ice Cream",
+      "value": "Angry",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Overalls",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "John Wick Hair",
       "trait_type": "Accessory"
     }
   ]

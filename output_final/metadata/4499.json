@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Italian Ice Cream Monster",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

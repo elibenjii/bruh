@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Grenade Man",
       "trait_type": "Body"
+    },
+    {
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

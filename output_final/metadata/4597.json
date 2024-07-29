@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Samourai",
       "trait_type": "Body"
-    },
-    {
-      "value": "Croco Hood",
-      "trait_type": "Accessory"
     }
   ]
 }

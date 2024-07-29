@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Angry",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Tank Top Jacket",
       "trait_type": "Body"
-    },
-    {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

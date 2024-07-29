@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Crown",
-      "trait_type": "Accessory"
     }
   ]
 }

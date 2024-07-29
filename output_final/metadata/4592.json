@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Joint",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Tank Top",
+      "value": "Pepe Classic White",
       "trait_type": "Body"
-    },
-    {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

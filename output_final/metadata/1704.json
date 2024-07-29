@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Space Spinach",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Pepe Classic Red",
       "trait_type": "Body"
+    },
+    {
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

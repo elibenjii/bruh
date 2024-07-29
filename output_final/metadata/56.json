@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Suit",
+      "value": "Black Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

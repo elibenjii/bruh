@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Punk Badass",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Black Cap",
       "trait_type": "Accessory"
     }
   ]

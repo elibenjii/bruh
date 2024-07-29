@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,15 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Boston Dynamics Armor",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

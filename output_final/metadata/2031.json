@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Abibas",
       "trait_type": "Body"
-    },
-    {
-      "value": "Crown",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Peaked Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Flying Cap",
       "trait_type": "Accessory"
     }
   ]

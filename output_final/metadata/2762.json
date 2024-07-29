@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
@@ -14,8 +14,12 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Ghetto Jacket",
+      "value": "Heart",
       "trait_type": "Body"
+    },
+    {
+      "value": "Boxing Headgear",
+      "trait_type": "Accessory"
     }
   ]
 }

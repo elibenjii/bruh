@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Shaolin Shirt",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
+      "value": "Bicycle Helmet",
       "trait_type": "Accessory"
     }
   ]

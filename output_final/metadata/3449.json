@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Bomber",
       "trait_type": "Body"
+    },
+    {
+      "value": "Balaclava",
+      "trait_type": "Accessory"
     }
   ]
 }

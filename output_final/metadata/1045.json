@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
     }
   ]
 }

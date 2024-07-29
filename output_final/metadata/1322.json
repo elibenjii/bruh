@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Shaolin Shirt",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Chun-li Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "Boxing Headgear",
       "trait_type": "Accessory"
     }
   ]

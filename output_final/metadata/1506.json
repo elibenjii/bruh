@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Green Headphone",
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

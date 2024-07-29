@@ -10,15 +10,19 @@
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Walter Face",
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

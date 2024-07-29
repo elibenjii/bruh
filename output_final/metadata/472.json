@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Angry",
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "Green Cyber Claw",
       "trait_type": "Body"
     },
     {
-      "value": "Army Helmet",
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

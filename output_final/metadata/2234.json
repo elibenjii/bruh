@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Lucille Bat",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Space Suit",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pacifier",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

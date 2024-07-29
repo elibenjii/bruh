@@ -10,16 +10,12 @@
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Fist",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Big Nose",
-      "trait_type": "Accessory"
     }
   ]
 }

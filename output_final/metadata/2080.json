@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Tropical Shirt",
+      "value": "Special Force",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

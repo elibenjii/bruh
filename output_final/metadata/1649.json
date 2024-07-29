@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
     },
     {
-      "value": "Big Nose",
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "GMO Worm",
+      "value": "Hesitation",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Scarf",
-      "trait_type": "Accessory"
     }
   ]
 }

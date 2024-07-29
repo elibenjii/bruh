@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Weed",
       "trait_type": "Body"
     },
     {
-      "value": "Bandana",
+      "value": "Hell Boy Horn",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ninja Turtle Mask",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Pilot Helmet",
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

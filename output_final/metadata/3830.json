@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Shark Hoodie",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Shark Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

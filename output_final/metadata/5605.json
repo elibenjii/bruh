@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Tank Top Jacket",
+      "value": "Funky",
       "trait_type": "Body"
-    },
-    {
-      "value": "Ninja Turtle Mask",
-      "trait_type": "Accessory"
     }
   ]
 }

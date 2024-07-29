@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

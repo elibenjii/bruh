@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Mustacho",
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

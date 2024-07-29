@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Hulk Body",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

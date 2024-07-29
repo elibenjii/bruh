@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Lumberjack",
+      "value": "Pepe Classic White",
       "trait_type": "Body"
     },
     {
-      "value": "Nose Piercing",
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Perfect Beard",
       "trait_type": "Accessory"
     }
   ]

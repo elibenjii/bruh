@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Peaked Cap",
+      "value": "Yellow Hat",
       "trait_type": "Accessory"
     }
   ]

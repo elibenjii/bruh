@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Heart",
       "trait_type": "Body"
-    },
-    {
-      "value": "Goku Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

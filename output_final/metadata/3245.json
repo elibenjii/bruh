@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

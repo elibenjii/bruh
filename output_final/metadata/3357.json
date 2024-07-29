@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Tatoo",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Aladdin Shirt",
+      "value": "White Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Space Helmet",
+      "trait_type": "Accessory"
     }
   ]
 }

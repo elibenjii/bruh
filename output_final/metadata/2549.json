@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Space Suit",
       "trait_type": "Body"
+    },
+    {
+      "value": "Jason Mask",
+      "trait_type": "Accessory"
     }
   ]
 }

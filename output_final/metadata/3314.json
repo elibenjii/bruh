@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Steampunk Armor",
+      "value": "Shotgun Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Gray Aviator Glass",
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
       "trait_type": "Accessory"
     }
   ]

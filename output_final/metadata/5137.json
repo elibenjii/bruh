@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
@@ -18,7 +18,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Pilot Helmet",
       "trait_type": "Accessory"
     }
   ]

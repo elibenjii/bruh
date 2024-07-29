@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Boston Dynamics Armor",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Ninja Turtle Mask",
+      "trait_type": "Accessory"
     }
   ]
 }

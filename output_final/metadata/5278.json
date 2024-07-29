@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Agent Pepe Pistol",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Cyber Claw",
+      "value": "Black Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Hobbo Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

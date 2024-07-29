@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Black",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Reversed Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

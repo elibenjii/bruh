@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Gray Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Flying Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
+      "value": "Ghetto Cap",
       "trait_type": "Accessory"
     }
   ]

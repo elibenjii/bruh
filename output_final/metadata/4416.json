@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
-    },
-    {
-      "value": "Smol Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

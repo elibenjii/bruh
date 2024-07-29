@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Hulk Body",
       "trait_type": "Body"
     },
     {
-      "value": "Army Helmet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Mustacho",
+      "value": "Jason Mask",
       "trait_type": "Accessory"
     }
   ]

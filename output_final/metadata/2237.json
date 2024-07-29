@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "GMO Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie Hacker",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
-    },
-    {
-      "value": "Smol Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

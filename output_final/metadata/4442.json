@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Detective",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Pimp Suit",
       "trait_type": "Body"
     },
     {
-      "value": "John Wick Hair",
+      "value": "Crown",
       "trait_type": "Accessory"
     }
   ]

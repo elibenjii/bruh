@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "White Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Pilot Helmet",
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

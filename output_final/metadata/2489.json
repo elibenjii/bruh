@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Mario",
+      "value": "Weed",
       "trait_type": "Body"
     },
     {
-      "value": "Nose Piercing",
+      "value": "Pacifier",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

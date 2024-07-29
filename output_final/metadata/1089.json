@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Special Force",
       "trait_type": "Body"
-    },
-    {
-      "value": "Kim Jong Un Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

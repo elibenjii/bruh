@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Moon Latex",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pacifier",
-      "trait_type": "Accessory"
     }
   ]
 }

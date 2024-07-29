@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Dbz",
       "trait_type": "Body"
     },
     {
-      "value": "Dreadlocks",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
+      "value": "Beard",
       "trait_type": "Accessory"
     }
   ]

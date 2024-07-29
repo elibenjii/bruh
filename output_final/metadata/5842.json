@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Ghetto Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Thunberg Hair",
       "trait_type": "Accessory"
     }
   ]

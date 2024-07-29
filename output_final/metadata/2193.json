@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Overalls",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Naruto Hair",
+      "value": "Balaclava",
       "trait_type": "Accessory"
     },
     {
-      "value": "White Glass",
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

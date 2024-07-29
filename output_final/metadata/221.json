@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Black Gentleman",
       "trait_type": "Body"
-    },
-    {
-      "value": "Space Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

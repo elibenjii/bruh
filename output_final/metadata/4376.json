@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Scarf",
-      "trait_type": "Accessory"
     }
   ]
 }

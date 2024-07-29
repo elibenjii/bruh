@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Worm",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

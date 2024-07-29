@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "Orange Jacket",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Purple Space Helmet",
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

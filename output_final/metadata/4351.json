@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Abibas",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Crown",
-      "trait_type": "Accessory"
     }
   ]
 }

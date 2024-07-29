@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
       "trait_type": "Accessory"
     }
   ]

@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pikachu Hoodie",
+      "value": "Special Force",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pacifier",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

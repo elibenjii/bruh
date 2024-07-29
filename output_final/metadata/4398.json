@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Ice Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Hell Boy Horn",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

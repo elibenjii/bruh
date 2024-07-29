@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
@@ -18,7 +18,11 @@
       "trait_type": "Body"
     },
     {
-      "value": "Bandana",
+      "value": "Hat Sheet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

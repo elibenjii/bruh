@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Orange Jacket",
+      "value": "Abibas",
       "trait_type": "Body"
     },
     {
-      "value": "Kim Jong Un Hair",
+      "value": "Hell Boy Horn",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

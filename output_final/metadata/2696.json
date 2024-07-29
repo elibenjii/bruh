@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Detective",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Pimp Suit",
+      "value": "Bomber",
       "trait_type": "Body"
+    },
+    {
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Tank Top Jacket",
+      "value": "Hulk Body",
       "trait_type": "Body"
-    },
-    {
-      "value": "White Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

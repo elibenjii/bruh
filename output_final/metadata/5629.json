@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nose Piercing",
-      "trait_type": "Accessory"
     }
   ]
 }

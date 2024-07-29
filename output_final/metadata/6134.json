@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

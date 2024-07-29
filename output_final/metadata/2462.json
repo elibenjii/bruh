@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Red",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Naruto Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Punk Hair",
       "trait_type": "Accessory"
     }
   ]

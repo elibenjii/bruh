@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "Mario",
+      "value": "Heart",
       "trait_type": "Body"
     },
     {
-      "value": "Pablo Escobar",
+      "value": "Straw Hat",
       "trait_type": "Accessory"
     }
   ]

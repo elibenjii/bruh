@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
@@ -18,7 +18,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Ninja Turtle Mask",
+      "value": "Chun-li Hair",
       "trait_type": "Accessory"
     }
   ]

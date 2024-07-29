@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Italian Ice Cream Monster",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Overalls",
       "trait_type": "Body"
     },
     {
-      "value": "Goku Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Mustacho",
+      "value": "Pilot Helmet",
       "trait_type": "Accessory"
     }
   ]

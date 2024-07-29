@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Shotgun Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Naruto Hair",
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Samourai",
+      "value": "Gray Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Mustacho",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

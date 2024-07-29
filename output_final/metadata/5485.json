@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Detective",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Pimp Suit",
+      "value": "White Jungle",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bandana",
+      "trait_type": "Accessory"
     }
   ]
 }

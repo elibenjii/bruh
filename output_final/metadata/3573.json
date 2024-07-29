@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Boston Dynamics Armor",
+      "value": "Punk Badass",
       "trait_type": "Body"
+    },
+    {
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
+      "trait_type": "Accessory"
     }
   ]
 }

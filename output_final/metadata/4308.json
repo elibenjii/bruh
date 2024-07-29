@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Joint",
+      "value": "Shark Hoodie",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie",
+      "value": "Shark Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Green Headphone",
-      "trait_type": "Accessory"
     }
   ]
 }

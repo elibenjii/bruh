@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Punisher",
       "trait_type": "Body"
-    },
-    {
-      "value": "Scarf",
-      "trait_type": "Accessory"
     }
   ]
 }

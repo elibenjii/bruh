@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Agent Pepe Pistol",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Suit",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Peaked Cap",
+      "value": "Bandana",
       "trait_type": "Accessory"
     }
   ]

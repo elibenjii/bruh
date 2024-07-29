@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "White Gentleman",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

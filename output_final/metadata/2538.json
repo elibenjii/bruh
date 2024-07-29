@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

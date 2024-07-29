@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Jungle",
+      "value": "Red Tank Top",
       "trait_type": "Body"
     },
     {
-      "value": "Black Glass",
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Dino Suit",
+      "value": "Dbz",
       "trait_type": "Body"
+    },
+    {
+      "value": "Thunberg Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

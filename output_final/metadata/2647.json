@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Jacket",
+      "value": "Pepe Classic White",
       "trait_type": "Body"
     },
     {
-      "value": "Ninja Turtle Mask",
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

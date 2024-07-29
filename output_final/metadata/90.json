@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Agent Pepe Pistol",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Black Suit",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pablo Escobar",
+      "trait_type": "Accessory"
     }
   ]
 }

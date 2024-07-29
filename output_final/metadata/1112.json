@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Boxing",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Jacket",
+      "value": "Moon Latex",
       "trait_type": "Body"
     },
     {
-      "value": "Boxing Headgear",
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

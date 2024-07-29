@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Send It",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Overalls",
+      "value": "Green Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

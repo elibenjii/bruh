@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Alien Brand",
       "trait_type": "Body"
     },
     {
-      "value": "Green Headphone",
+      "value": "Pilot Helmet",
       "trait_type": "Accessory"
     }
   ]

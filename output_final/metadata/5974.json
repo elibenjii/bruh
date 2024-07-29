@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Jungle",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Army Helmet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Gothic Piercing",
       "trait_type": "Accessory"
     }
   ]

@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Chicken BBQ",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Jungle",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pacifier",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

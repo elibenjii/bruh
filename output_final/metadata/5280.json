@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "GMO Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Steampunk Armor",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

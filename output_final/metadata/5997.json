@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Jacket",
+      "value": "Pepe Classic Red",
       "trait_type": "Body"
+    },
+    {
+      "value": "Hell Boy Horn",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

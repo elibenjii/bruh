@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Trapped Pan",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Electroman",
+      "value": "Weed",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

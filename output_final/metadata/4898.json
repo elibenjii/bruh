@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Peaked Cap",
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

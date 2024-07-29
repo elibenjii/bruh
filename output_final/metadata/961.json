@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Black Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nose Piercing",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

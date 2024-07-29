@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Bread",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Nerd Glass",
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

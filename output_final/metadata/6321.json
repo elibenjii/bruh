@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "White Jungle",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
-    },
-    {
-      "value": "Jason Mask",
-      "trait_type": "Accessory"
     }
   ]
 }

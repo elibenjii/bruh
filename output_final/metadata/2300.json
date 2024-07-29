@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "GMO Worm",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
       "value": "Green Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Croco Hood",
+      "trait_type": "Accessory"
     }
   ]
 }

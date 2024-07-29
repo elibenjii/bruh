@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Cyberpunk",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pilot Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

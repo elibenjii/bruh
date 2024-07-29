@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Croco Hood",
       "trait_type": "Accessory"
     }
   ]

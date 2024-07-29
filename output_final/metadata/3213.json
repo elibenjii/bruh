@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Woke Hair",
+      "value": "Pacifier",
       "trait_type": "Accessory"
     },
     {
-      "value": "Black Glass",
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

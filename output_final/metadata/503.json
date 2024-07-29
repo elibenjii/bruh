@@ -10,15 +10,15 @@
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

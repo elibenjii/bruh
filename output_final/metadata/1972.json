@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Red Tank Top",
       "trait_type": "Body"
     },
     {
-      "value": "John Wick Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Black Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Perfect Beard",
       "trait_type": "Accessory"
     }
   ]

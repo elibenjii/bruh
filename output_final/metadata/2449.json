@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Pepe Classic White",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

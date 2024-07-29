@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Abibas",
       "trait_type": "Body"
     },
     {
-      "value": "Kim Jong Un Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
+      "value": "Mario Hat",
       "trait_type": "Accessory"
     }
   ]

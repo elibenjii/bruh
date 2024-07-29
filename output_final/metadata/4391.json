@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Lucille Bat",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Ghetto Jacket",
+      "value": "Suit",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pipe",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
+    },
+    {
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

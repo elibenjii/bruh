@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Italian Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Ice Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

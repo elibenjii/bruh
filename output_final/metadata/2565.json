@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie Hacker",
+      "value": "Skelton Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pablo Escobar",
-      "trait_type": "Accessory"
     }
   ]
 }

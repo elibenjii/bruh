@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
@@ -14,15 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Samourai",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Dreadlocks",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Flying Cap With Pacifier",
       "trait_type": "Accessory"
     }
   ]

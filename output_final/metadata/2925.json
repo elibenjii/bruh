@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Bread",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Pablo Escobar",
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

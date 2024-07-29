@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Electroman",
       "trait_type": "Body"
-    },
-    {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

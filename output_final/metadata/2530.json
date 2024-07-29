@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
+    },
+    {
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Straw",
+      "trait_type": "Accessory"
     }
   ]
 }

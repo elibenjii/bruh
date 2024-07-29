@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Space Suit",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pablo Escobar",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Space Spinach",
+      "value": "Ultra",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Ultra",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

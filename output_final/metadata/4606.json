@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Italian Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "Tropical Shirt",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

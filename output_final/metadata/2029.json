@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Lumberjack",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

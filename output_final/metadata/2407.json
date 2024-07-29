@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "White Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Nerd Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

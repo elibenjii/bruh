@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Ghetto Jacket",
       "trait_type": "Body"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

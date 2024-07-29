@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Abibas",
       "trait_type": "Body"
-    },
-    {
-      "value": "Ninja Turtle Mask",
-      "trait_type": "Accessory"
     }
   ]
 }

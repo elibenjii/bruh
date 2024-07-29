@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Ice Cream",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Jacket",
+      "value": "Grenade Man",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

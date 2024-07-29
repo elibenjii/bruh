@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Green Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Big Nose",
-      "trait_type": "Accessory"
     }
   ]
 }

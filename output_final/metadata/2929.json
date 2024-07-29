@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Ironman",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandana",
-      "trait_type": "Accessory"
     }
   ]
 }

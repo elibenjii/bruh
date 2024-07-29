@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Skelton Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Hell Boy Horn",
+      "value": "Bob",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

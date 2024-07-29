@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Bread",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Black Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
@@ -14,12 +14,8 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Ghetto Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

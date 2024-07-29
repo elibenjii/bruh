@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Space Spinach",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie Hacker",
+      "value": "Heart",
       "trait_type": "Body"
     },
     {
-      "value": "Bandana",
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

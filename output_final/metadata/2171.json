@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Ironman",
       "trait_type": "Body"
     },
     {
-      "value": "John Wick Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

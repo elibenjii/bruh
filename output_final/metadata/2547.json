@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Agent Pepe Pistol",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Suit",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
     },
     {
-      "value": "Woke Hair",
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

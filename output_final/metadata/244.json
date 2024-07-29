@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Pink Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Tank Top Jacket",
       "trait_type": "Body"
+    },
+    {
+      "value": "Beard",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

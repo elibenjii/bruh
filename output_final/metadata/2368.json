@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Ice Cream Monster",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
     },
     {
-      "value": "John Wick Hair",
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -10,12 +10,16 @@
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Pokebong",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Red",
+      "value": "Buffed",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bicycle Helmet",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nose Piercing",
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

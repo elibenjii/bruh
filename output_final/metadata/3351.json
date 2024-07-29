@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Pork BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Moon Latex",
       "trait_type": "Body"
-    },
-    {
-      "value": "Flying Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Pilot Helmet",
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

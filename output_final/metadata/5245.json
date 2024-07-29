@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie",
+      "value": "Cyberpunk",
       "trait_type": "Body"
-    },
-    {
-      "value": "Purple Space Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

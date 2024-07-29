@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Black Gentleman",
       "trait_type": "Body"
+    },
+    {
+      "value": "Mustacho",
+      "trait_type": "Accessory"
     }
   ]
 }

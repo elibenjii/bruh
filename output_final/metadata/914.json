@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Ironman",
       "trait_type": "Body"
     },
     {
-      "value": "Scarf",
+      "value": "Bandana",
       "trait_type": "Accessory"
     }
   ]

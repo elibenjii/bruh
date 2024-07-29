@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Terrorist",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bicycle Helmet",
+      "trait_type": "Accessory"
     }
   ]
 }

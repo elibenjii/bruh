@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Skelton Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Army Helmet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Bandito",
       "trait_type": "Accessory"
     }
   ]

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Pepe Classic White",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bicycle Helmet",
+      "trait_type": "Accessory"
     }
   ]
 }

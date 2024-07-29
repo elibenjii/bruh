@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Chicken BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Pikachu Hoodie",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

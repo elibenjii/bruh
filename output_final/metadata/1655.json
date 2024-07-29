@@ -10,16 +10,12 @@
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
       "value": "Jungle Commando",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bicycle Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

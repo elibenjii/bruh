@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Detective",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Pimp Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Naruto Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

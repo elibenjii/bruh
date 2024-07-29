@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Samourai",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

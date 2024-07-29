@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Boston Dynamics Armor",
+      "value": "Black Gentleman",
       "trait_type": "Body"
+    },
+    {
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

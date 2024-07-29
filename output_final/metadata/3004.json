@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Ghetto Jacket",
+      "value": "Alien Brand",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Mario Hat",
       "trait_type": "Accessory"
     }
   ]

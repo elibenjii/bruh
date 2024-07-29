@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Jason Mask",
       "trait_type": "Accessory"
     }
   ]

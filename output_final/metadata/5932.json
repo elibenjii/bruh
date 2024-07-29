@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Cozy Sweater",
+      "value": "Samourai",
       "trait_type": "Body"
     },
     {
-      "value": "Ski Glass",
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
       "trait_type": "Accessory"
     }
   ]

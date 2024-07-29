@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,15 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Punk Badass",
       "trait_type": "Body"
     },
     {
-      "value": "Ninja Turtle Mask",
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

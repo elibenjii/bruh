@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Shark Hoodie",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Shark Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

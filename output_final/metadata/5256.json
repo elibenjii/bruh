@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

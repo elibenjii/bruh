@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Tatoo",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Aladdin Shirt",
+      "value": "Special Force",
       "trait_type": "Body"
     },
     {
-      "value": "Ghetto Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

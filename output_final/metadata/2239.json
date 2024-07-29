@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie Hacker",
+      "value": "Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Flying Cap With Pacifier",
-      "trait_type": "Accessory"
     }
   ]
 }

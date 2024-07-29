@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Gentleman Bong Laser Gun",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Tropical Shirt",
+      "value": "Chilling",
       "trait_type": "Body"
     },
     {
-      "value": "Ghetto Cap",
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

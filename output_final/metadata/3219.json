@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Tatoo",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Tank Top Jacket",
+      "value": "Ironman",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
+      "value": "Army Helmet",
       "trait_type": "Accessory"
     },
     {
-      "value": "Perfect Beard",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

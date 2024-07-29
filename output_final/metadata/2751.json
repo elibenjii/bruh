@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Pink Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Beard",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Straw",
+      "trait_type": "Accessory"
     }
   ]
 }

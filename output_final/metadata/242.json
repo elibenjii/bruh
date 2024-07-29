@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Black",
+      "value": "Pepe Classic Red",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
+      "value": "Green Headphone",
       "trait_type": "Accessory"
     }
   ]

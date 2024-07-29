@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Boxing",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Weed",
       "trait_type": "Body"
     },
     {
-      "value": "Smol Hair",
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

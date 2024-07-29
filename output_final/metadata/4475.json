@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Ice Cream Monster",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "White Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

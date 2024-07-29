@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Funky",
+      "value": "Abibas",
       "trait_type": "Body"
+    },
+    {
+      "value": "Black Cap",
+      "trait_type": "Accessory"
     }
   ]
 }

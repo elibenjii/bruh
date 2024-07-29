@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
-    },
-    {
-      "value": "Croco Hood",
-      "trait_type": "Accessory"
     }
   ]
 }

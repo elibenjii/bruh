@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Funky",
       "trait_type": "Body"
-    },
-    {
-      "value": "Flying Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

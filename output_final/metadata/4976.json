@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Punk Badass",
       "trait_type": "Body"
     },
     {
-      "value": "Pilot Helmet",
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

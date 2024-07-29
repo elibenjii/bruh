@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Tatoo",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Jacket",
+      "value": "Dbz",
       "trait_type": "Body"
     },
     {
-      "value": "Ninja Turtle Mask",
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

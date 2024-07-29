@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Chicken BBQ",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Dreadlocks",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

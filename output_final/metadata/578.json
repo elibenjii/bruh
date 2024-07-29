@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Tropical Shirt",
+      "value": "Lumberjack",
       "trait_type": "Body"
     },
     {
-      "value": "Goku Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Pablo Escobar",
       "trait_type": "Accessory"
     }
   ]

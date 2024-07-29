@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Ghetto Jacket",
+      "value": "Black Gentleman",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pacifier",
-      "trait_type": "Accessory"
     }
   ]
 }

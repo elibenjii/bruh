@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Funky",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
+      "value": "Army Helmet",
       "trait_type": "Accessory"
     }
   ]

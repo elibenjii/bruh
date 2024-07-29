@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Punisher",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandito",
-      "trait_type": "Accessory"
     }
   ]
 }

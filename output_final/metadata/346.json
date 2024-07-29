@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
@@ -18,11 +18,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
+      "value": "Bandito",
       "trait_type": "Accessory"
     }
   ]

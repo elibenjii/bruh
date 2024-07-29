@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Funky",
+      "value": "Alien Brand",
       "trait_type": "Body"
+    },
+    {
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
+      "trait_type": "Accessory"
     }
   ]
 }

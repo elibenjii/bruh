@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie Hacker",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

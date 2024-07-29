@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Punisher",
       "trait_type": "Body"
+    },
+    {
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
     }
   ]
 }

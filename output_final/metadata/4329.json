@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Italian Ice Cream Monster",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Tropical Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Ghetto Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

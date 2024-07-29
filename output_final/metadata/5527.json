@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Lucille Bat",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Cozy Sweater",
+      "value": "Moon Latex",
       "trait_type": "Body"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

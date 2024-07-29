@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Punk Badass",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Gray Aviator Glass",
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

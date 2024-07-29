@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

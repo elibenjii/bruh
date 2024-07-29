@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
+      "value": "Beard",
       "trait_type": "Accessory"
     },
     {
-      "value": "White Glass",
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

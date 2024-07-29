@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Suit",
+      "value": "Cyberpunk",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Flying Cap With Pacifier",
       "trait_type": "Accessory"
     }
   ]

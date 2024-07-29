@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Pokebong",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Shaolin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "White Jungle",
       "trait_type": "Body"
+    },
+    {
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Tropical Shirt",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Ghetto Cap",
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

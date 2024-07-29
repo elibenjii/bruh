@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
     },
     {
-      "value": "Chun-li Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

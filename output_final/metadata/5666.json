@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "White Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Pablo Escobar",
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Croco Hood",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

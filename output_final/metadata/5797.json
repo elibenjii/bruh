@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Bread",
+      "value": "Detective",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Pimp Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Boxing Headgear",
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

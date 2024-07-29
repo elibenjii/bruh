@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Chicken BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Jungle",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Perfect Beard",
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

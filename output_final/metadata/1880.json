@@ -10,12 +10,20 @@
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Black Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nose Piercing",
+      "trait_type": "Accessory"
     }
   ]
 }

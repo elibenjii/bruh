@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Jungle Commando",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandito",
-      "trait_type": "Accessory"
     }
   ]
 }

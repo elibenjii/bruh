@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Nose Piercing",
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

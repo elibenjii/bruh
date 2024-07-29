@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Pink Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Unicorn",
       "trait_type": "Body"
-    },
-    {
-      "value": "Naruto Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

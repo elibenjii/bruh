@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Brown Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

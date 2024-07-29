@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Mario",
+      "value": "Cyberpunk",
       "trait_type": "Body"
     },
     {
-      "value": "Perfect Beard",
+      "value": "Ninja Turtle Mask",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Abibas",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Super Saiyan Hair",
       "trait_type": "Accessory"
     }
   ]

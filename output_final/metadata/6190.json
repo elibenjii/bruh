@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Gray Glass",
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

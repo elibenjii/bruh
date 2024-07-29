@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Alien Ice Cream",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
@@ -18,11 +18,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Dreadlocks",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Perfect Beard",
+      "value": "Bandana",
       "trait_type": "Accessory"
     }
   ]

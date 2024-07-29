@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
+      "value": "Thunberg Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

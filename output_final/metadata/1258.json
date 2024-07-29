@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Pilot Helmet",
+      "value": "Hobbo Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

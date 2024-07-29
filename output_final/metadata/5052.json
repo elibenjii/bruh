@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "GMO Flower",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
     },
     {
-      "value": "Beard",
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Walter Face",
       "trait_type": "Accessory"
     }
   ]

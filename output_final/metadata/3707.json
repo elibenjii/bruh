@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Cozy Sweater",
+      "value": "Pepe Classic Red",
       "trait_type": "Body"
-    },
-    {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

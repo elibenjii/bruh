@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
-      "value": "Ghetto Jacket",
+      "value": "Tropical Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Gray Aviator Glass",
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

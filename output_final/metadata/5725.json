@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Ghetto Jacket",
+      "value": "White Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Green Headphone",
+      "trait_type": "Accessory"
     }
   ]
 }

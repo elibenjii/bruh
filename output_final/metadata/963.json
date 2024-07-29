@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Detective",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Pimp Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Army Helmet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

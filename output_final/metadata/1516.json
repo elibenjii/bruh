@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Punk Badass",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Pepe Cap",
+      "value": "Mushroom Cap",
       "trait_type": "Accessory"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
     },
     {
-      "value": "Dreadlocks",
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

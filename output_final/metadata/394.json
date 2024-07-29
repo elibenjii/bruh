@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Bread",
       "trait_type": "Arm"
     },
     {
-      "value": "Funky",
+      "value": "Skelton Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Goku Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

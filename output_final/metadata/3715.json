@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
@@ -14,15 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Woke Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Punk Hair",
       "trait_type": "Accessory"
     }
   ]

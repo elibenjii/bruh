@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Tank Top",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Naruto Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Mustacho",
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

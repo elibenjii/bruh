@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Tank Top",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Thunberg Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Bandito",
       "trait_type": "Accessory"
     }
   ]

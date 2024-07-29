@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "GMO Worm",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "White Lezards",
       "trait_type": "Body"
     },
     {
-      "value": "Smol Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Walter Face",
+      "value": "Straw Hat",
       "trait_type": "Accessory"
     }
   ]

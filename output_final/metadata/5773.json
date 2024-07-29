@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Skelton Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
+      "value": "Pilot Helmet",
       "trait_type": "Accessory"
     }
   ]

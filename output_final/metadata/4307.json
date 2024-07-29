@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Joint",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Tank Top Jacket",
+      "value": "White Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Pacifier",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Orange Headphone",
       "trait_type": "Accessory"
     }
   ]

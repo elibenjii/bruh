@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Bread",
+      "value": "Lucille Bat",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Waterboy Soldier",
       "trait_type": "Body"
+    },
+    {
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

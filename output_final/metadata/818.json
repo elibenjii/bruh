@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie",
+      "value": "Alien Brand",
       "trait_type": "Body"
-    },
-    {
-      "value": "Peaked Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

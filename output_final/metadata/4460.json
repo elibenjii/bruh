@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "White Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Ghetto Cap",
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

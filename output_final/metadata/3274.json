@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Ghetto Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

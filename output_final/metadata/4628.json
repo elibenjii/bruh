@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Samourai",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
     },
     {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Jason Mask",
       "trait_type": "Accessory"
     }
   ]

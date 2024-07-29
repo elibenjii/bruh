@@ -10,15 +10,15 @@
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Pepe Cap",
       "trait_type": "Accessory"
     }
   ]

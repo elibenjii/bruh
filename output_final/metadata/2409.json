@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Detective",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Pimp Suit",
+      "value": "Tropical Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Peaked Cap",
       "trait_type": "Accessory"
     }
   ]

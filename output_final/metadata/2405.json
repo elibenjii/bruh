@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Boston Dynamics Armor",
+      "value": "Mario",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
+      "value": "Crown",
       "trait_type": "Accessory"
     }
   ]

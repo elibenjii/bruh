@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Waterboy Soldier",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "Hat Sheet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

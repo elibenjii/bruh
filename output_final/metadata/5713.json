@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Funky",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

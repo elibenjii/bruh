@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Space Spinach",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Terrorist",
       "trait_type": "Body"
+    },
+    {
+      "value": "Thunberg Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

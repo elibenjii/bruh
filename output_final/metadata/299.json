@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Space Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Dreadlocks",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

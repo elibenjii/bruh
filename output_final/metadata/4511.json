@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Jungle",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

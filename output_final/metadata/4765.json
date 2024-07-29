@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Tatoo",
       "trait_type": "Arm"
     },
     {
-      "value": "Funky",
+      "value": "Gray Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Pepe Cap",
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

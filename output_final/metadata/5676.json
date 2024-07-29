@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Abibas",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Goku Hair",
       "trait_type": "Accessory"
     }
   ]

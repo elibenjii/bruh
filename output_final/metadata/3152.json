@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Lumberjack",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

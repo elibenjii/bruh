@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Black Gentleman",
       "trait_type": "Body"
-    },
-    {
-      "value": "Flying Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

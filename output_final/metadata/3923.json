@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "White Gentleman",
+      "value": "Shotgun Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Woke Hair",
       "trait_type": "Accessory"
     }
   ]

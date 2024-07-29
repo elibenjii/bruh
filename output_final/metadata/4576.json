@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
@@ -14,15 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Mushroom Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

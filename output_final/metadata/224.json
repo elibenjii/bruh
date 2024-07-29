@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Special Force",
       "trait_type": "Body"
-    },
-    {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

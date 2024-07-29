@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Fish",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Punk Badass",
       "trait_type": "Body"
-    },
-    {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
     }
   ]
 }

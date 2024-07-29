@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "GMO Flower",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Kim Jong Un Hair",
+      "value": "Bob",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

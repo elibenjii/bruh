@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
@@ -14,15 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Ghetto Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Perfect Beard",
+      "value": "Bob",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Gray Glass",
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

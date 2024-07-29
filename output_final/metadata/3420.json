@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Pork BBQ",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "Pink Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Hat Sheet",
-      "trait_type": "Accessory"
     }
   ]
 }

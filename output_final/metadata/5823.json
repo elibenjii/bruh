@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Space Weed",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Space Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Flying Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

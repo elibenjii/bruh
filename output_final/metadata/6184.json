@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Skelton Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Hat Sheet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
+      "value": "Bandana",
       "trait_type": "Accessory"
     }
   ]

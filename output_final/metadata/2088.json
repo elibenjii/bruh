@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Space Spinach",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Punisher",
       "trait_type": "Body"
+    },
+    {
+      "value": "Black Cap",
+      "trait_type": "Accessory"
     }
   ]
 }

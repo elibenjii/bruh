@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Space Weed",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
@@ -18,7 +18,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Pacifier",
       "trait_type": "Accessory"
     }
   ]

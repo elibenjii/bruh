@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Green Headphone",
-      "trait_type": "Accessory"
     }
   ]
 }

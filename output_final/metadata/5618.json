@@ -10,15 +10,19 @@
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Hat Sheet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

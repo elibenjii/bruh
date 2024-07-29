@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Ski Glass",
+      "value": "Pepe Cap",
       "trait_type": "Accessory"
     }
   ]

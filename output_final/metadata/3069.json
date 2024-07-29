@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Pilot Helmet",
       "trait_type": "Accessory"
     }
   ]

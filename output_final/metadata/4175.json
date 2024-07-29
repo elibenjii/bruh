@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
+      "value": "Bob",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Gentleman Bong Laser Gun",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Tropical Shirt",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Yellow Hat",
       "trait_type": "Accessory"
     }
   ]

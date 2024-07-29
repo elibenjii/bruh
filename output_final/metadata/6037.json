@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Samourai",
       "trait_type": "Body"
     },
     {
-      "value": "Naruto Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Green Headphone",
       "trait_type": "Accessory"
     }
   ]

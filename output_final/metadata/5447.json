@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Italian Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Black Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Dreadlocks",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Black Cap",
       "trait_type": "Accessory"
     }
   ]

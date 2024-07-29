@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Alien Ice Cream",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Ironman",
       "trait_type": "Body"
     },
     {
-      "value": "Flying Cap",
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Hesitation",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Red Tank Top",
       "trait_type": "Body"
-    },
-    {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

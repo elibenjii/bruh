@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Samourai",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

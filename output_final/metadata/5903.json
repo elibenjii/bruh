@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Heart",
       "trait_type": "Body"
     },
     {
-      "value": "Smol Hair",
+      "value": "Naruto Hair",
       "trait_type": "Accessory"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

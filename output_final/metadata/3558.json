@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "White Gentleman",
       "trait_type": "Body"
-    },
-    {
-      "value": "Scarf",
-      "trait_type": "Accessory"
     }
   ]
 }

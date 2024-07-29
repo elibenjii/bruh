@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Pacifier",
+      "value": "Bandana",
       "trait_type": "Accessory"
     }
   ]

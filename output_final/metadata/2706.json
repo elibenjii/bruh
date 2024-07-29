@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Ski Glass",
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

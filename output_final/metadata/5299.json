@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Ice Cream",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Boredemon",
+      "value": "Ice Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Purple Space Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

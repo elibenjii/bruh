@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Shark Hoodie",
       "trait_type": "Arm"
     },
     {
-      "value": "Samourai",
+      "value": "Shark Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bob",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

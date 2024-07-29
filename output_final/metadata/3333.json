@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
       "value": "Black Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

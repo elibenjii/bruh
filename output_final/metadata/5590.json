@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
     },
     {
-      "value": "Bandana",
+      "value": "Hat Sheet",
       "trait_type": "Accessory"
     }
   ]

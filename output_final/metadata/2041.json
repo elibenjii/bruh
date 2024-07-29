@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Detective",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Pimp Suit",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "White Glass",
+      "value": "Thunberg Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

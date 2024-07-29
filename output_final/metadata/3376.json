@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Mario",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Boxing Headgear",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Electroman",
+      "value": "White Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Naruto Hair",
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

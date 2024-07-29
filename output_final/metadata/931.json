@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
+    },
+    {
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

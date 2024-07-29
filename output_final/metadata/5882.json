@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Bandito",
       "trait_type": "Accessory"
     }
   ]

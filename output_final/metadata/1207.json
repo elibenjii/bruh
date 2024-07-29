@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Gray Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

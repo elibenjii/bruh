@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Fist",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie",
+      "value": "Boredemon",
       "trait_type": "Body"
     },
     {
-      "value": "Ghetto Cap",
+      "value": "Hobbo Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

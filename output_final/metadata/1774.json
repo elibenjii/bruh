@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Gray Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Bread",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Ghetto Jacket",
       "trait_type": "Body"
-    },
-    {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
-      "trait_type": "Accessory"
     }
   ]
 }

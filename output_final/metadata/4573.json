@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Samourai",
+      "value": "Heart",
       "trait_type": "Body"
+    },
+    {
+      "value": "Hat Sheet",
+      "trait_type": "Accessory"
     }
   ]
 }

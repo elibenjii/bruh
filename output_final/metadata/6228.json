@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Ghetto Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Gray Aviator Glass",
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

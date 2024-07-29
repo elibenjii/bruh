@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Pipe",
+      "value": "Mushroom Cap",
       "trait_type": "Accessory"
     }
   ]

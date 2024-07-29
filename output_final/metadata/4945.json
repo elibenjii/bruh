@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Ice Cream",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Chilling",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
+      "value": "Beard",
       "trait_type": "Accessory"
     },
     {
-      "value": "Gray Glass",
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

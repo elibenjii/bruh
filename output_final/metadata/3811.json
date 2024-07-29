@@ -10,12 +10,16 @@
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap With Pacifier",
+      "trait_type": "Accessory"
     }
   ]
 }

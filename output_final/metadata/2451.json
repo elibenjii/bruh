@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Flying Ice Cream",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "White Jungle",
       "trait_type": "Body"
+    },
+    {
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

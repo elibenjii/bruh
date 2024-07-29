@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
     },
     {
-      "value": "Black Glass",
+      "value": "Yellow Hat",
       "trait_type": "Accessory"
     }
   ]

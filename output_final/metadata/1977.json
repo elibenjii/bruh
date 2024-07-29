@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Punisher",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

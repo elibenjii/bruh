@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Electroman",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ninja Turtle Mask",
+      "value": "Woke Hair",
       "trait_type": "Accessory"
     }
   ]

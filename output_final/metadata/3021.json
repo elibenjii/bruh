@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Flying Ice Cream",
+      "value": "Fist",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Boxing Headgear",
-      "trait_type": "Accessory"
     }
   ]
 }

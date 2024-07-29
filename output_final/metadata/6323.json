@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Tatoo",
       "trait_type": "Arm"
     },
     {
-      "value": "White Gentleman",
+      "value": "Overalls",
       "trait_type": "Body"
-    },
-    {
-      "value": "Flying Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Mustacho",
-      "trait_type": "Accessory"
     }
   ]
 }

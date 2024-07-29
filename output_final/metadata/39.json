@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Mario",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Boxing Headgear",
+      "value": "Bandana",
       "trait_type": "Accessory"
     }
   ]

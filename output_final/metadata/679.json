@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
@@ -14,12 +14,8 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Skelton Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Ice Cream Monster",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie Hacker",
+      "value": "Tank Top Jacket",
       "trait_type": "Body"
+    },
+    {
+      "value": "Hat Sheet",
+      "trait_type": "Accessory"
     }
   ]
 }

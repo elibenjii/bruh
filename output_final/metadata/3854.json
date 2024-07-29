@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Boxing Headgear",
+      "value": "Hobbo Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Samourai",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

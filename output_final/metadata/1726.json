@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Weed",
       "trait_type": "Body"
     },
     {
-      "value": "Bandana",
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

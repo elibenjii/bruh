@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Fist",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

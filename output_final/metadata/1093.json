@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Lollipop Orange",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

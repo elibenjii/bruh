@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Ghetto Jacket",
+      "value": "Dbz",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

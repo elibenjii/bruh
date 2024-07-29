@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "GMO Flower",
+      "value": "Detective",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Pimp Suit",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bandana",
+      "trait_type": "Accessory"
     }
   ]
 }

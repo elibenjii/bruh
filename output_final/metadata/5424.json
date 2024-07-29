@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Punk Badass",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
     },
     {
-      "value": "Pablo Escobar",
+      "value": "Peaked Cap",
       "trait_type": "Accessory"
     }
   ]

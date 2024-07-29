@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "White Gentleman",
+      "value": "Green Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

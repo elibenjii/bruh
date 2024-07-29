@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
-    },
-    {
-      "value": "Goku Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

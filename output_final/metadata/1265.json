@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Ultra",
       "trait_type": "Arm"
     },
     {
-      "value": "Steampunk Armor",
+      "value": "Ultra",
       "trait_type": "Body"
-    },
-    {
-      "value": "Hell Boy Horn",
-      "trait_type": "Accessory"
     }
   ]
 }

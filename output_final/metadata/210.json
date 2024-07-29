@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Detective",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Pimp Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "Walter Face",
       "trait_type": "Accessory"
     }
   ]

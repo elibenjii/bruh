@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "White Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

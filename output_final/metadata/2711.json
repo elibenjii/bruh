@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Gray Glass",
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
       "trait_type": "Accessory"
     }
   ]

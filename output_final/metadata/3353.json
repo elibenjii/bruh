@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Boxing",
+      "value": "Agent Pepe Pistol",
       "trait_type": "Arm"
     },
     {
-      "value": "Tank Top Jacket",
+      "value": "Black Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Orange Headphone",
-      "trait_type": "Accessory"
     }
   ]
 }

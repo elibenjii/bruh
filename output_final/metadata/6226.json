@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Jungle Commando",
       "trait_type": "Body"
-    },
-    {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

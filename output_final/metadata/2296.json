@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Gray Jacket",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

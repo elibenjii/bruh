@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Hesitation",
       "trait_type": "Arm"
     },
     {
-      "value": "Tropical Shirt",
+      "value": "Hoodie",
       "trait_type": "Body"
     },
     {
-      "value": "Chun-li Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Army Helmet",
       "trait_type": "Accessory"
     }
   ]

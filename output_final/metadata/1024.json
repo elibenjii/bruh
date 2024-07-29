@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie Hacker",
+      "value": "Suit",
       "trait_type": "Body"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

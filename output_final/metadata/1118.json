@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
-    },
-    {
-      "value": "Boxing Headgear",
-      "trait_type": "Accessory"
     }
   ]
 }

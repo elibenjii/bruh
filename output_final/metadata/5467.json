@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Red Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pacifier",
-      "trait_type": "Accessory"
     }
   ]
 }

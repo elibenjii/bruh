@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "White Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Bob",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Cyberpunk",
       "trait_type": "Body"
     },
     {
-      "value": "Hell Boy Horn",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
+      "value": "Hat Sheet",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Red",
+      "value": "Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Bandito",
+      "value": "Pacifier",
       "trait_type": "Accessory"
     }
   ]

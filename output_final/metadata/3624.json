@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Peaked Cap",
+      "value": "Beard",
       "trait_type": "Accessory"
     }
   ]

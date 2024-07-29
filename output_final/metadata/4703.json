@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "White Gentleman",
+      "value": "Green Cyber Claw",
       "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
     }
   ]
 }

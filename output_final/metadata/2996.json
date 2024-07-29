@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Italian Ice Cream Monster",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Black Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Croco Hood",
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

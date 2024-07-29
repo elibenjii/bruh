@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "Boredemon",
       "trait_type": "Body"
     },
     {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

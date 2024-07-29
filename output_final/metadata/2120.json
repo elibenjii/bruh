@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Perfect Beard",
+      "value": "Peaked Cap",
       "trait_type": "Accessory"
     }
   ]

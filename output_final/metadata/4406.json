@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Mustacho",
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

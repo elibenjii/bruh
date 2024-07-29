@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Italian Ice Cream Monster",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Purple Space Helmet",
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

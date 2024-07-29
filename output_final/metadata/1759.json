@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Ice Cream Monster",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Punisher",
       "trait_type": "Body"
+    },
+    {
+      "value": "Hell Boy Horn",
+      "trait_type": "Accessory"
     }
   ]
 }

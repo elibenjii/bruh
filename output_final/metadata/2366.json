@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "White Gentleman",
       "trait_type": "Body"
-    },
-    {
-      "value": "Nose Piercing",
-      "trait_type": "Accessory"
     }
   ]
 }

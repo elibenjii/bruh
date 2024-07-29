@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "GMO Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
-    },
-    {
-      "value": "Ski Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

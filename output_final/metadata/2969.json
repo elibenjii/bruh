@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Flying Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Mario",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

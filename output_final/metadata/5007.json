@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Pikachu Hoodie",
+      "value": "Black Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
     }
   ]
 }

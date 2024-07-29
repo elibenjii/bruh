@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Lollipop",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Ghetto Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
+      "value": "Super Saiyan Hair",
       "trait_type": "Accessory"
     }
   ]

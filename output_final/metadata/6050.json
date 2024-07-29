@@ -10,12 +10,16 @@
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie Hacker",
+      "value": "Waterboy Soldier",
       "trait_type": "Body"
+    },
+    {
+      "value": "Thunberg Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

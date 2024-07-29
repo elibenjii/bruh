@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Grenade Man",
       "trait_type": "Body"
-    },
-    {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

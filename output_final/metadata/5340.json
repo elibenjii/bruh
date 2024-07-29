@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

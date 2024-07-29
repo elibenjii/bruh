@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
@@ -18,11 +18,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Thunberg Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Mustacho",
+      "value": "Boxing Headgear",
       "trait_type": "Accessory"
     }
   ]

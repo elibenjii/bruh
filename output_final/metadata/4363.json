@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
+      "value": "Woke Hair",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Ghetto Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Ninja Turtle Mask",
+      "value": "Bandana",
       "trait_type": "Accessory"
     }
   ]

@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Ice Cream",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Dino Suit",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
+    },
+    {
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

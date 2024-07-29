@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Lucille Bat",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Peaked Cap",
       "trait_type": "Accessory"
     }
   ]

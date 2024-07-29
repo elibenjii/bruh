@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Black Glass",
+      "value": "Hat Sheet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

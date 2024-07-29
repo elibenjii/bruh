@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Alien Ice Cream",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "White Jungle",
+      "value": "Punk Badass",
       "trait_type": "Body"
     },
     {
-      "value": "Ski Glass",
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

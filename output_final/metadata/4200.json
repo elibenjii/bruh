@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Detective",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Pimp Suit",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandana",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Joint",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Tank Top",
+      "value": "Grenade Man",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandana",
-      "trait_type": "Accessory"
     }
   ]
 }

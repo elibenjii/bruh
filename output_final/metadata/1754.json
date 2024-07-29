@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Flying Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Super Saiyan Hair",
       "trait_type": "Accessory"
     }
   ]

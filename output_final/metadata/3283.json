@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Weed",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

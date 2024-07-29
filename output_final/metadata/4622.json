@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Boxing",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Boredemon",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Bicycle Helmet",
       "trait_type": "Accessory"
     }
   ]

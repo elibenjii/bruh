@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Steampunk Armor",
+      "value": "Heart",
       "trait_type": "Body"
     },
     {
-      "value": "Croco Hood",
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

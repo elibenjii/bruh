@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Orange Jacket",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Crown",
       "trait_type": "Accessory"
     }
   ]

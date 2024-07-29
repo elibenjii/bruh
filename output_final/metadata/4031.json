@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Samourai",
+      "value": "Special Force",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

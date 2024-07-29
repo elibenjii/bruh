@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Samourai",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

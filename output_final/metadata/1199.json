@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Abibas",
+      "value": "Cyberpunk",
       "trait_type": "Body"
     },
     {
-      "value": "Dreadlocks",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Pepe Cap",
       "trait_type": "Accessory"
     }
   ]

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "White Gentleman",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bicycle Helmet",
+      "trait_type": "Accessory"
     }
   ]
 }

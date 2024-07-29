@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Pink Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

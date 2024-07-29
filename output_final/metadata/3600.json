@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Red Tank Top",
       "trait_type": "Body"
     },
     {
-      "value": "Smol Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Boxing Headgear",
       "trait_type": "Accessory"
     }
   ]

@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Lucille Bat",
+      "value": "Italian Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "Suit",
+      "value": "Gray Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
     }
   ]
 }

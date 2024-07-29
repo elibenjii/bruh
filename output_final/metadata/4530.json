@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Fist",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Tank Top",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Croco Hood",
-      "trait_type": "Accessory"
     }
   ]
 }

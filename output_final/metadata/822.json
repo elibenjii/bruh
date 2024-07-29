@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Tropical Shirt",
+      "value": "Shotgun Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Hell Boy Horn",
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

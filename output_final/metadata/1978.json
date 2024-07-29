@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Gentleman",
       "trait_type": "Arm"
     },
     {
-      "value": "Cozy Sweater",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pilot Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

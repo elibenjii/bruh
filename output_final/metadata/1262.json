@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop Orange",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Tank Top",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Perfect Beard",
+      "value": "Jason Mask",
       "trait_type": "Accessory"
     }
   ]

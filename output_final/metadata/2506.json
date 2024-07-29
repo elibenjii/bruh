@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Flying Ice Cream",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Dbz",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Boredemon",
       "trait_type": "Body"
     },
     {
-      "value": "Army Helmet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
+      "value": "Green Headphone",
       "trait_type": "Accessory"
     }
   ]

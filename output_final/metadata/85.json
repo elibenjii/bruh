@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bob",
-      "trait_type": "Accessory"
     }
   ]
 }

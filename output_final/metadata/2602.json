@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Gentleman",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Hat Sheet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
-      "trait_type": "Accessory"
     }
   ]
 }

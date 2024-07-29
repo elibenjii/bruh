@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Punisher",
       "trait_type": "Body"
-    },
-    {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

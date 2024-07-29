@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Cyberpunk",
       "trait_type": "Body"
+    },
+    {
+      "value": "Ninja Turtle Mask",
+      "trait_type": "Accessory"
     }
   ]
 }

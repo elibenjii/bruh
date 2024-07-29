@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Flying Ice Cream",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
-    },
-    {
-      "value": "Mario Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
     },
     {
-      "value": "White Glass",
+      "value": "Croco Hood",
       "trait_type": "Accessory"
     }
   ]

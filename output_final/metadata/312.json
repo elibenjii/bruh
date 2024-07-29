@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Ultra",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Ultra",
       "trait_type": "Body"
-    },
-    {
-      "value": "Goku Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

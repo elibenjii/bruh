@@ -10,19 +10,15 @@
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Boston Dynamics Armor",
+      "value": "Black Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Hell Boy Horn",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Boxing Headgear",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Pilot Helmet",
+      "value": "Flying Cap With Pacifier",
       "trait_type": "Accessory"
     }
   ]

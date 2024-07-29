@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Black",
+      "value": "Buffed",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
+      "value": "Ninja Turtle Mask",
       "trait_type": "Accessory"
     }
   ]

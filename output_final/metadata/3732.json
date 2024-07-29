@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Lumberjack",
+      "value": "Frogger",
       "trait_type": "Body"
     },
     {
-      "value": "Pilot Helmet",
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

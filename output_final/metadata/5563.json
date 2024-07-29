@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "White Lezards",
       "trait_type": "Body"
     },
     {
-      "value": "Ghetto Cap",
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

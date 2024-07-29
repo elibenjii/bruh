@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
     },
     {
-      "value": "Pipe",
+      "value": "Mushroom Cap",
       "trait_type": "Accessory"
     }
   ]

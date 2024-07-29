@@ -6,15 +6,15 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Chicken BBQ",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Moon Latex",
       "trait_type": "Body"
     },
     {
@@ -22,7 +22,7 @@
       "trait_type": "Accessory"
     },
     {
-      "value": "Ski Glass",
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

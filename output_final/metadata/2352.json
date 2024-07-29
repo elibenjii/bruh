@@ -10,12 +10,16 @@
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Chicken BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Buffed",
+      "value": "Black Jungle",
       "trait_type": "Body"
+    },
+    {
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -10,16 +10,12 @@
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Aladdin Shirt",
+      "value": "Punk Badass",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

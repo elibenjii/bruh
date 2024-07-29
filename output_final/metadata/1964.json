@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Bomber",
       "trait_type": "Body"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

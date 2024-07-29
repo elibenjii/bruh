@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Angry",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Tank Top Jacket",
+      "value": "Gray Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Flying Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Goku Hair",
       "trait_type": "Accessory"
     }
   ]

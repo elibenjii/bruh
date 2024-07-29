@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Aladdin Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

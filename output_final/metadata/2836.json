@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Funky",
       "trait_type": "Body"
-    },
-    {
-      "value": "Woke Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Agent Pepe Pistol",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Suit",
+      "value": "Pepe Classic White",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gothic Piercing",
       "trait_type": "Accessory"
     }
   ]

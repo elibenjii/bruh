@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Walter Face",
+      "value": "Chun-li Hair",
       "trait_type": "Accessory"
     }
   ]

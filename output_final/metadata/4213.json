@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Trapped Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Electroman",
       "trait_type": "Body"
     },
     {
-      "value": "Nose Piercing",
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

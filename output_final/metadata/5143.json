@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Suit",
+      "value": "Heart",
       "trait_type": "Body"
     },
     {
-      "value": "Scarf",
+      "value": "Hat Sheet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Walter Face",
       "trait_type": "Accessory"
     }
   ]

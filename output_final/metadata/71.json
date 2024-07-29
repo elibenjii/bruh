@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Pepe Classic Red",
       "trait_type": "Body"
+    },
+    {
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
     }
   ]
 }

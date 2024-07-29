@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Grenade Man",
       "trait_type": "Body"
     },
     {
-      "value": "Orange Headphone",
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

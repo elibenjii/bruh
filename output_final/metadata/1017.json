@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Mario",
+      "value": "Grenade Man",
       "trait_type": "Body"
-    },
-    {
-      "value": "Green Headphone",
-      "trait_type": "Accessory"
     }
   ]
 }

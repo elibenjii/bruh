@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Chicken BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Skelton Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,15 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Boston Dynamics Armor",
+      "value": "Alien Brand",
       "trait_type": "Body"
     },
     {
-      "value": "Bandana",
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

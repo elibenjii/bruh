@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Lollipop",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Army Helmet",
+      "value": "Pilot Helmet",
       "trait_type": "Accessory"
     }
   ]

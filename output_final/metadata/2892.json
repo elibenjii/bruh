@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Hulk Body",
       "trait_type": "Body"
     },
     {
-      "value": "White Glass",
+      "value": "Boxing Headgear",
       "trait_type": "Accessory"
     }
   ]

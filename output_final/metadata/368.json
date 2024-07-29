@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
-      "value": "Electroman",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Ski Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

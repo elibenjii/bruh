@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Trapped Pan",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Cyberpunk",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

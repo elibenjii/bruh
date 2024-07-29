@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Pork BBQ",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "Red Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Hobbo Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

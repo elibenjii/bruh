@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Lollipop",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Mustacho",
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Alien Ice Cream",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Grenade Man",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pacifier",
-      "trait_type": "Accessory"
     }
   ]
 }

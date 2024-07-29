@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie Hacker",
+      "value": "Funky",
       "trait_type": "Body"
-    },
-    {
-      "value": "Mario Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

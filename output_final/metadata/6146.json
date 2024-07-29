@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Nose Piercing",
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

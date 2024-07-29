@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Bread",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Punk Badass",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
+      "value": "Ghetto Cap",
       "trait_type": "Accessory"
     },
     {
-      "value": "Gray Glass",
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

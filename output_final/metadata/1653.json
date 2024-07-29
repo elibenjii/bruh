@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "White Gentleman",
+      "value": "Weed",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bicycle Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Hat Sheet",
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Space Weed",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Hulk Body",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Pablo Escobar",
       "trait_type": "Accessory"
     }
   ]

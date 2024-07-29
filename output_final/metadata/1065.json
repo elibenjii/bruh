@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Abibas",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "Bandana",
       "trait_type": "Accessory"
     }
   ]

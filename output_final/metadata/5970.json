@@ -6,15 +6,15 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Agent Pepe Pistol",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Black Suit",
       "trait_type": "Body"
     }
   ]

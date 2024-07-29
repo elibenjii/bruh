@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Chicken BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Black",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Woke Hair",
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

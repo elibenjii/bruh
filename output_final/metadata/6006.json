@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Hulk Body",
       "trait_type": "Body"
     },
     {
-      "value": "Bandito",
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Shotgun Ammo",
+      "value": "Samourai",
       "trait_type": "Body"
     },
     {
-      "value": "Naruto Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Bandito",
       "trait_type": "Accessory"
     }
   ]

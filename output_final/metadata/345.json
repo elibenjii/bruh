@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Boredemon",
       "trait_type": "Body"
-    },
-    {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Fist",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie",
+      "value": "Black Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Hobbo Hat",
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

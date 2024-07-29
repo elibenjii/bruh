@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Heart",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

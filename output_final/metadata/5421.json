@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
@@ -18,7 +18,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Green Headphone",
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

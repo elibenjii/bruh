@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Special Force",
       "trait_type": "Body"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Tank Top Jacket",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

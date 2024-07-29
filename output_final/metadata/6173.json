@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Ski Glass",
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

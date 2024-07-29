@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Ice Cream Monster",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

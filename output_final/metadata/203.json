@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Lucille Bat",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Suit",
+      "value": "Weed",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Mustacho",
+      "value": "Super Saiyan Hair",
       "trait_type": "Accessory"
     }
   ]

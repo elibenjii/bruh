@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Boston Dynamics Armor",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

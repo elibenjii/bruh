@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Agent Pepe Pistol",
+      "value": "Send It",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Suit",
+      "value": "Aladdin Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Boxing Headgear",
+      "trait_type": "Accessory"
     }
   ]
 }

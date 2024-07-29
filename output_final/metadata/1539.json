@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
       "value": "Shoulder Strap",
       "trait_type": "Body"
+    },
+    {
+      "value": "Purple Space Helmet",
+      "trait_type": "Accessory"
     }
   ]
 }

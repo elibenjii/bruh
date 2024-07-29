@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
@@ -14,8 +14,12 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
+    },
+    {
+      "value": "Walter Face",
+      "trait_type": "Accessory"
     }
   ]
 }

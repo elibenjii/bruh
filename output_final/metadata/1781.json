@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Skelton Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Pablo Escobar",
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Angry",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Ironman",
       "trait_type": "Body"
     },
     {
-      "value": "Black Glass",
+      "value": "Pacifier",
       "trait_type": "Accessory"
     }
   ]

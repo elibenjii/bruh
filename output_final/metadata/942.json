@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Samourai",
       "trait_type": "Body"
     },
     {
-      "value": "Bandana",
+      "value": "Straw Hat",
       "trait_type": "Accessory"
     }
   ]

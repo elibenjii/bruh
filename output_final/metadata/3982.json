@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Jungle",
+      "value": "Ice Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Scarf",
-      "trait_type": "Accessory"
     }
   ]
 }

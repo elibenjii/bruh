@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Detective",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Pimp Suit",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
     },
     {
-      "value": "Big Nose",
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

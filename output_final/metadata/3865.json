@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Joint",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Aladdin Shirt",
+      "value": "Orange Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Kim Jong Un Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gothic Piercing",
+      "value": "Punk Hair",
       "trait_type": "Accessory"
     }
   ]

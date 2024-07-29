@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Boredemon",
+      "value": "Lumberjack",
       "trait_type": "Body"
-    },
-    {
-      "value": "Flying Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
-      "trait_type": "Accessory"
     }
   ]
 }

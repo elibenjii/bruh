@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Gray Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Goku Hair",
+      "value": "Beard",
       "trait_type": "Accessory"
     },
     {
-      "value": "Scarf",
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

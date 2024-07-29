@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie Hacker",
+      "value": "White Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Ghetto Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Mustacho",
-      "trait_type": "Accessory"
     }
   ]
 }

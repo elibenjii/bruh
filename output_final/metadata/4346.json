@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Cyberpunk",
       "trait_type": "Body"
     },
     {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Black Cap",
       "trait_type": "Accessory"
     }
   ]

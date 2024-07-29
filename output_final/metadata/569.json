@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "White Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Goku Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
+      "value": "Jason Mask",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Cyber Claw",
+      "value": "Ironman",
       "trait_type": "Body"
     },
     {
-      "value": "Croco Hood",
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

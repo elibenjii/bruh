@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Special Force",
       "trait_type": "Body"
     },
     {
-      "value": "Big Nose",
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

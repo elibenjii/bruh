@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

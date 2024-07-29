@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Green Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Walter Face",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Green Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Peaked Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

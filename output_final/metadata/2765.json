@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Peaked Cap",
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gothic Piercing",
       "trait_type": "Accessory"
     }
   ]

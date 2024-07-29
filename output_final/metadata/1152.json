@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
@@ -14,8 +14,12 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Suit",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pilot Helmet",
+      "trait_type": "Accessory"
     }
   ]
 }

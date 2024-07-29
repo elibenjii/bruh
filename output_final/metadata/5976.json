@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Tank Top",
+      "value": "Skelton Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Boxing Headgear",
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

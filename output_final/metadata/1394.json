@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Cozy Sweater",
+      "value": "Black Jungle",
       "trait_type": "Body"
-    },
-    {
-      "value": "Jason Mask",
-      "trait_type": "Accessory"
     }
   ]
 }

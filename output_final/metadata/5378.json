@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Ironman",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Red Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Green Headphone",
       "trait_type": "Accessory"
     }
   ]

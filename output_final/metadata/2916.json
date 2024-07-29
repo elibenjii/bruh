@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Pointing Finger",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Nerd Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

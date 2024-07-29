@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Lucille Bat",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Suit",
+      "value": "White Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Pipe",
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

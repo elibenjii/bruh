@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Thunberg Hair",
       "trait_type": "Accessory"
     }
   ]

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Black Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandana",
-      "trait_type": "Accessory"
     }
   ]
 }

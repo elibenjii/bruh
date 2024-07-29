@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Shaolin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Gray Aviator Glass",
+      "value": "Bandana",
       "trait_type": "Accessory"
     }
   ]

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop Orange",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Dino Suit",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Ninja Turtle Mask",
+      "trait_type": "Accessory"
     }
   ]
 }

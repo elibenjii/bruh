@@ -10,12 +10,16 @@
       "trait_type": "Head"
     },
     {
-      "value": "Space Spinach",
+      "value": "Lollipop",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Green Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Balaclava",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Space Spinach",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Black",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Mario Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
+      "value": "Ghetto Cap",
       "trait_type": "Accessory"
     }
   ]

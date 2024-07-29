@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Jungle",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "White Glass",
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
       "trait_type": "Accessory"
     }
   ]

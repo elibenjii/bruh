@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Chun-li Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

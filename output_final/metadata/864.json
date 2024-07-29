@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Brown Donut",
+      "value": "Pink Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Shotgun Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
+      "value": "Pacifier",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Orange Headphone",
       "trait_type": "Accessory"
     }
   ]

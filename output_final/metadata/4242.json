@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Pink Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Black",
+      "value": "Boredemon",
       "trait_type": "Body"
     },
     {
-      "value": "John Wick Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
+      "value": "Purple Space Helmet",
       "trait_type": "Accessory"
     }
   ]

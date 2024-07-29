@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
-    },
-    {
-      "value": "Boxing Headgear",
-      "trait_type": "Accessory"
     }
   ]
 }

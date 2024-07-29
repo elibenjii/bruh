@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Black Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

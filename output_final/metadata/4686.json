@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Black Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Hat Sheet",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Pork BBQ",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Tropical Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Thunberg Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

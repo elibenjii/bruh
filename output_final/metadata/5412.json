@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "White Jungle",
+      "value": "Mario",
       "trait_type": "Body"
     },
     {
-      "value": "Ghetto Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Pablo Escobar",
       "trait_type": "Accessory"
     }
   ]

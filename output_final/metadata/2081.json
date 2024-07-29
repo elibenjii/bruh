@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
     },
     {
-      "value": "Hell Boy Horn",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

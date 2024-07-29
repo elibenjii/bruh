@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Boston Dynamics Armor",
+      "value": "Hulk Body",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Pepe Cap",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Flying Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Black Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
       "trait_type": "Accessory"
     }
   ]

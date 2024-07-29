@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Steampunk Armor",
+      "value": "Green Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Flying Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
-      "trait_type": "Accessory"
     }
   ]
 }

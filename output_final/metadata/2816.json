@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nose Piercing",
+      "value": "Super Saiyan Hair",
       "trait_type": "Accessory"
     }
   ]

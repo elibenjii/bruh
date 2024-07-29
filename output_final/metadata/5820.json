@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Ice Cream",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Shaolin Shirt",
+      "value": "Skelton Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nose Piercing",
+      "value": "Balaclava",
       "trait_type": "Accessory"
     }
   ]

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Aladdin Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

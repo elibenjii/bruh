@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Detective",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Pimp Suit",
+      "value": "Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Straw Hat",
       "trait_type": "Accessory"
     }
   ]

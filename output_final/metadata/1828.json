@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Tropical Shirt",
+      "value": "Bomber",
       "trait_type": "Body"
+    },
+    {
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

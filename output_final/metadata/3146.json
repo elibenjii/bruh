@@ -10,15 +10,19 @@
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Pepe Classic White",
       "trait_type": "Body"
     },
     {
-      "value": "Smol Hair",
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

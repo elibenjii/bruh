@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie Hacker",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
+      "value": "Hell Boy Horn",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

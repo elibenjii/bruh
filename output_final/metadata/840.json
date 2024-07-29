@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Fist",
+      "value": "GMO Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Chilling",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
+      "value": "Goku Hair",
       "trait_type": "Accessory"
     }
   ]

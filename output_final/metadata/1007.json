@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Detective",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Pimp Suit",
+      "value": "Heart",
       "trait_type": "Body"
     },
     {
-      "value": "Mushroom Cap",
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

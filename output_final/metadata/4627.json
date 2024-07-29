@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Trapped Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Jungle",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Bandana",
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

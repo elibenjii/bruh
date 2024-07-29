@@ -10,12 +10,16 @@
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Red",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

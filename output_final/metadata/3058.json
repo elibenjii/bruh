@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Agent Pepe Pistol",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Suit",
+      "value": "Weed",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pipe",
+      "trait_type": "Accessory"
     }
   ]
 }

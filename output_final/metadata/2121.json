@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
@@ -18,11 +18,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Ghetto Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Flying Cap",
       "trait_type": "Accessory"
     }
   ]

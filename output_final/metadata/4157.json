@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Funky",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

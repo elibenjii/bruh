@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Pokebong",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Shaolin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Pacifier",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Ninja Turtle Mask",
       "trait_type": "Accessory"
     }
   ]

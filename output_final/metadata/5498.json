@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
-    },
-    {
-      "value": "Kim Jong Un Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
-      "trait_type": "Accessory"
     }
   ]
 }

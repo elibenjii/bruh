@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Jungle Commando",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pipe",
-      "trait_type": "Accessory"
     }
   ]
 }

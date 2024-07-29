@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Fish",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Big Nose",
+      "value": "Woke Hair",
       "trait_type": "Accessory"
     }
   ]

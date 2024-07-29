@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Moon Latex",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Pepe Cap",
       "trait_type": "Accessory"
     }
   ]

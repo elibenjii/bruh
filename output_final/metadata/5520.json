@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Flying Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
+    },
+    {
+      "value": "Hell Boy Horn",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

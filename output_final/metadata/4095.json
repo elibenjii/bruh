@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Lucille Bat",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Jason Mask",
+      "trait_type": "Accessory"
     }
   ]
 }

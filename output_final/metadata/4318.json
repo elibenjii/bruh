@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Pork BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Alien Brand",
       "trait_type": "Body"
     },
     {
-      "value": "Smol Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Perfect Beard",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

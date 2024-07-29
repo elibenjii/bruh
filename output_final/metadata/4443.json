@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Alien Ice Cream",
+      "value": "Hesitation",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Chilling",
       "trait_type": "Body"
-    },
-    {
-      "value": "Thunberg Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

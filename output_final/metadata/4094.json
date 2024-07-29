@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Punk Badass",
       "trait_type": "Body"
-    },
-    {
-      "value": "Boxing Headgear",
-      "trait_type": "Accessory"
     }
   ]
 }

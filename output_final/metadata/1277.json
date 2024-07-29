@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Heart",
       "trait_type": "Body"
     },
     {
-      "value": "Mushroom Cap",
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

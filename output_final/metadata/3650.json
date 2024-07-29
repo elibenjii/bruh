@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "White Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "White Glass",
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

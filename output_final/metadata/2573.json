@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Jungle",
+      "value": "Frogger",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

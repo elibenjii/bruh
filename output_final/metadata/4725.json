@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Mustacho",
-      "trait_type": "Accessory"
     }
   ]
 }

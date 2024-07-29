@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Pilot Helmet",
       "trait_type": "Accessory"
     }
   ]

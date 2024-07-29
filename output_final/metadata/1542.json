@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Flying Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
+      "value": "Dreadlocks",
       "trait_type": "Accessory"
     }
   ]

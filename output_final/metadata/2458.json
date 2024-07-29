@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Jungle",
+      "value": "Black Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Bandito",
       "trait_type": "Accessory"
     }
   ]

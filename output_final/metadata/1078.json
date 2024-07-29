@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Heart",
       "trait_type": "Body"
-    },
-    {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

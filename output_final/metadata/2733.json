@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Lucille Bat",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Suit",
+      "value": "Space Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Ninja Turtle Mask",
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Ghetto Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Ski Glass",
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

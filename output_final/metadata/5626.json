@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
     }
   ]
 }

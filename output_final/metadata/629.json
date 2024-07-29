@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "GMO Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Punk Badass",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "Pacifier",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

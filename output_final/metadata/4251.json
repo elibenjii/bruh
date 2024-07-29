@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Alien Brand",
       "trait_type": "Body"
     },
     {
-      "value": "Naruto Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Boxing Headgear",
       "trait_type": "Accessory"
     }
   ]

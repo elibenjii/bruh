@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
     },
     {
-      "value": "White Glass",
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

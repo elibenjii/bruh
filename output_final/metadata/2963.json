@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
     },
     {
-      "value": "Bandito",
+      "value": "Bicycle Helmet",
       "trait_type": "Accessory"
     }
   ]

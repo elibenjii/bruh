@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Electroman",
       "trait_type": "Body"
     },
     {
-      "value": "Bandito",
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

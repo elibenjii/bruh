@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "GMO Flower",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie Hacker",
+      "value": "Black Jungle",
       "trait_type": "Body"
+    },
+    {
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

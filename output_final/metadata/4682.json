@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "GMO Flower",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Waterboy Soldier",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pilot Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

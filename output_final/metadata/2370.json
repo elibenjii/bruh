@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
@@ -14,8 +14,16 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Pink Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

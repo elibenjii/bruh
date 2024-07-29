@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Weed",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Green Headphone",
+      "value": "Thunberg Hair",
       "trait_type": "Accessory"
     }
   ]

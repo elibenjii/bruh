@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Bread",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Straw",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Frogger",
       "trait_type": "Body"
     },
     {
-      "value": "Goku Hair",
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

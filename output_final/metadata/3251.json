@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Lollipop",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Pacifier",
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

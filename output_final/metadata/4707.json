@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Pork BBQ",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Dbz",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

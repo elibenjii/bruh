@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Bread",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Shotgun Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Dreadlocks",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Orange Headphone",
+      "value": "Bandito",
       "trait_type": "Accessory"
     }
   ]

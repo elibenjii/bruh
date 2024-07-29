@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Waterboy Soldier",
       "trait_type": "Body"
     },
     {
-      "value": "Purple Space Helmet",
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

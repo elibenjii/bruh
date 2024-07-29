@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Shark Hoodie",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Shark Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pablo Escobar",
-      "trait_type": "Accessory"
     }
   ]
 }

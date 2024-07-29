@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Black Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Jason Mask",
-      "trait_type": "Accessory"
     }
   ]
 }

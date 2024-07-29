@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Pork BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Cozy Sweater",
+      "value": "Black Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Jason Mask",
-      "trait_type": "Accessory"
     }
   ]
 }

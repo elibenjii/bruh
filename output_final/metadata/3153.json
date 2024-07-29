@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Hesitation",
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "Gray Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
+      "value": "Bob",
       "trait_type": "Accessory"
     }
   ]

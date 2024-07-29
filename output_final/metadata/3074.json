@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Bomber",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pablo Escobar",
+      "trait_type": "Accessory"
     }
   ]
 }

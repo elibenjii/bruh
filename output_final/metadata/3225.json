@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Black Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

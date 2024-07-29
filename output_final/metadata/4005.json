@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Agent Pepe Pistol",
+      "value": "Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Suit",
+      "value": "Shotgun Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Space Spinach",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Hat Sheet",
+      "value": "Super Saiyan Hair",
       "trait_type": "Accessory"
     },
     {
-      "value": "Ski Glass",
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

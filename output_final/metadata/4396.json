@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
       "trait_type": "Accessory"
     }
   ]

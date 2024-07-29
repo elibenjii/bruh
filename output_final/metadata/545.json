@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Ski Glass",
+      "value": "Black Cap",
       "trait_type": "Accessory"
     }
   ]

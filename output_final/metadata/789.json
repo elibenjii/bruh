@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Special Force",
       "trait_type": "Body"
+    },
+    {
+      "value": "Black Cap",
+      "trait_type": "Accessory"
     }
   ]
 }

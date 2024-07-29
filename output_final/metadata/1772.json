@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Boxing",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Straw",
-      "trait_type": "Accessory"
     }
   ]
 }

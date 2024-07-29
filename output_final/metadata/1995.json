@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Cyberpunk",
       "trait_type": "Body"
-    },
-    {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

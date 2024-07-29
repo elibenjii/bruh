@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Crown",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ninja Turtle Mask",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Ice Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

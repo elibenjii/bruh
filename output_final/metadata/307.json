@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Shaolin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Big Nose",
+      "value": "Jason Mask",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Black",
+      "value": "Special Force",
       "trait_type": "Body"
     },
     {
-      "value": "Mario Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Mustacho",
       "trait_type": "Accessory"
     }
   ]

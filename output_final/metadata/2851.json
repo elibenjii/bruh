@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Boston Dynamics Armor",
+      "value": "Grenade Man",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

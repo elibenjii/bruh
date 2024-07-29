@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "Ghetto Jacket",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

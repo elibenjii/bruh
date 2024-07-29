@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Gray Jacket",
       "trait_type": "Body"
-    },
-    {
-      "value": "Nerd Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

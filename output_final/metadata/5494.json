@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Funky",
       "trait_type": "Body"
-    },
-    {
-      "value": "Nose Piercing",
-      "trait_type": "Accessory"
     }
   ]
 }

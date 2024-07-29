@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Pork BBQ",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie Hacker",
+      "value": "Skelton Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Green Headphone",
       "trait_type": "Accessory"
     }
   ]

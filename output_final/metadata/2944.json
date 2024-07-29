@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
     },
     {
-      "value": "Thunberg Hair",
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

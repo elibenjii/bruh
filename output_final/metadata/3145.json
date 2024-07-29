@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "White Gentleman",
+      "value": "Ironman",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

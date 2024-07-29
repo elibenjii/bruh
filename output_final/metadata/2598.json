@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Skelton Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Crown",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Straw",
-      "trait_type": "Accessory"
     }
   ]
 }

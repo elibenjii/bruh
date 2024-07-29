@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Pork BBQ",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bicycle Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

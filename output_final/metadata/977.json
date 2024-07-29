@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Pepe Classic White",
       "trait_type": "Body"
     },
     {
-      "value": "White Glass",
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

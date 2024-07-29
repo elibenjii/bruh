@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Shaolin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Big Nose",
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

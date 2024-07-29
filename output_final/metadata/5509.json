@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Aladdin Shirt",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Flying Cap With Pacifier",
+      "value": "Hell Boy Horn",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

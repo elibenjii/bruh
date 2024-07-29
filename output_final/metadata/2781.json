@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Frogger",
       "trait_type": "Body"
     },
     {
-      "value": "Army Helmet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
+      "value": "Bandana",
       "trait_type": "Accessory"
     }
   ]

@@ -10,15 +10,15 @@
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Detective",
       "trait_type": "Arm"
     },
     {
-      "value": "Lumberjack",
+      "value": "Pimp Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Gray Glass",
+      "value": "Black Cap",
       "trait_type": "Accessory"
     }
   ]

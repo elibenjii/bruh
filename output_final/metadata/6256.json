@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Samourai",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Ninja Turtle Mask",
       "trait_type": "Accessory"
     }
   ]

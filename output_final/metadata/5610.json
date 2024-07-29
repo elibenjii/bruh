@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Waterboy Soldier",
       "trait_type": "Body"
     },
     {
-      "value": "Pablo Escobar",
+      "value": "Boxing Headgear",
       "trait_type": "Accessory"
     }
   ]

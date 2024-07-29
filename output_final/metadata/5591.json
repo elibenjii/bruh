@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Worm",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Croco Hood",
       "trait_type": "Accessory"
     }
   ]

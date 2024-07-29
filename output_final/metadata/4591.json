@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Special Force",
       "trait_type": "Body"
+    },
+    {
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Walter Face",
+      "trait_type": "Accessory"
     }
   ]
 }

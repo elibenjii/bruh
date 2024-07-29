@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Ice Cream Monster",
+      "value": "Fist",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie Hacker",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Beard",
-      "trait_type": "Accessory"
     }
   ]
 }

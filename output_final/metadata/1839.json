@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Bandito",
       "trait_type": "Accessory"
     }
   ]

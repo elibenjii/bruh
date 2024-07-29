@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Abibas",
+      "value": "Special Force",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Smol Hair",
       "trait_type": "Accessory"
     }
   ]

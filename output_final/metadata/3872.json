@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Cozy Sweater",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Pablo Escobar",
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Lucille Bat",
       "trait_type": "Arm"
     },
     {
-      "value": "Suit",
+      "value": "Cyberpunk",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
+      "value": "Bicycle Helmet",
       "trait_type": "Accessory"
     }
   ]

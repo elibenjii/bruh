@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Brown Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Orange Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Woke Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
+      "value": "Green Headphone",
       "trait_type": "Accessory"
     }
   ]

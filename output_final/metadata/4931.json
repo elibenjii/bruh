@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
-    },
-    {
-      "value": "Big Nose",
-      "trait_type": "Accessory"
     }
   ]
 }

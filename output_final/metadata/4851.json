@@ -10,12 +10,16 @@
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Heart",
       "trait_type": "Body"
+    },
+    {
+      "value": "Boxing Headgear",
+      "trait_type": "Accessory"
     }
   ]
 }

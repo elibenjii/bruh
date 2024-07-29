@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop Orange",
+      "value": "Gentleman",
       "trait_type": "Arm"
     },
     {
-      "value": "Dino Suit",
+      "value": "Chilling",
       "trait_type": "Body"
+    },
+    {
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

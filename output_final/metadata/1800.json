@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Mario",
       "trait_type": "Body"
-    },
-    {
-      "value": "Purple Space Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

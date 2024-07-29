@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Trapped Pan",
+      "value": "Chicken BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Punk Badass",
+      "value": "Punisher",
       "trait_type": "Body"
-    },
-    {
-      "value": "Peaked Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Space Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

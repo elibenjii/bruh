@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie",
+      "value": "Ice Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Nose Piercing",
-      "trait_type": "Accessory"
     }
   ]
 }

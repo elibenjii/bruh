@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
@@ -14,15 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Electroman",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Chun-li Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Bandito",
       "trait_type": "Accessory"
     }
   ]

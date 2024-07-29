@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Hobbo Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "Pilot Helmet",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Lucille Bat",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ninja Turtle Mask",
       "trait_type": "Accessory"
     }
   ]

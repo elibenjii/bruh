@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Ironman",
       "trait_type": "Body"
-    },
-    {
-      "value": "Boxing Headgear",
-      "trait_type": "Accessory"
     }
   ]
 }

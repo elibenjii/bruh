@@ -10,12 +10,16 @@
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Jacket",
+      "value": "Black Gentleman",
       "trait_type": "Body"
+    },
+    {
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

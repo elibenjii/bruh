@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bob",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

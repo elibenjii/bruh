@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Gray Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Peaked Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

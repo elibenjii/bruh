@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Peaked Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

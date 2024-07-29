@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Steampunk Armor",
+      "value": "Red Jungle",
       "trait_type": "Body"
-    },
-    {
-      "value": "Dreadlocks",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Alien Brand",
       "trait_type": "Body"
+    },
+    {
+      "value": "White Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

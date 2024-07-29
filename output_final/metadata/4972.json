@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
@@ -14,15 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Skelton Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Peaked Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "Straw Hat",
       "trait_type": "Accessory"
     }
   ]

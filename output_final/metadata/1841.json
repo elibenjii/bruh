@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Black Jungle",
       "trait_type": "Body"
-    },
-    {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

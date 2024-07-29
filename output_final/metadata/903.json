@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Super Saiyan Hair",
+      "value": "Flying Cap",
       "trait_type": "Accessory"
     }
   ]

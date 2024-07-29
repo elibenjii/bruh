@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Chicken BBQ",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Jungle",
+      "value": "Weed",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Lumberjack",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Bandito",
+      "value": "Woke Hair",
       "trait_type": "Accessory"
     }
   ]

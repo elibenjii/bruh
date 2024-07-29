@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Ski Glass",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Pokebong",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
-      "value": "Pikachu Hoodie",
+      "value": "White Lezards",
       "trait_type": "Body"
+    },
+    {
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

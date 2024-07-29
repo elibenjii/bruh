@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
+      "value": "Bicycle Helmet",
       "trait_type": "Accessory"
     }
   ]

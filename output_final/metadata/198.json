@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Tatoo",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Mario",
       "trait_type": "Body"
     },
     {
-      "value": "Mustacho",
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

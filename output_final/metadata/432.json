@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Gentleman Bong Laser Gun",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
@@ -18,7 +18,11 @@
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

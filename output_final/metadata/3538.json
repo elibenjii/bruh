@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Worm",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Hulk Body",
       "trait_type": "Body"
-    },
-    {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gothic Piercing",
-      "trait_type": "Accessory"
     }
   ]
 }

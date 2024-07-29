@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Woke Hair",
       "trait_type": "Accessory"
     }
   ]

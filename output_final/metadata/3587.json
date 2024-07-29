@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Funky",
+      "value": "Frogger",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
+      "value": "Peaked Cap",
       "trait_type": "Accessory"
     }
   ]

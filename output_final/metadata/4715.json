@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Alien Ice Cream",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Purple Space Helmet",
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

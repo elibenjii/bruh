@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Aladdin Shirt",
+      "value": "Punk Badass",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pablo Escobar",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Gray Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

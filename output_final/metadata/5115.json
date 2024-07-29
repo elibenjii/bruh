@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Boston Dynamics Armor",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Hat Sheet",
+      "value": "Dreadlocks",
       "trait_type": "Accessory"
     },
     {
-      "value": "Straw",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

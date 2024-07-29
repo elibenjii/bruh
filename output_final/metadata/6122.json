@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Italian Ice Cream Monster",
+      "value": "Gentleman Lucille Bat",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Electroman",
       "trait_type": "Body"
     },
     {
-      "value": "Ski Glass",
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

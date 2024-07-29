@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Worm",
+      "value": "Fist",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Space Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

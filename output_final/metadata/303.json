@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
@@ -14,16 +14,8 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Black Jungle",
+      "value": "Ironman",
       "trait_type": "Body"
-    },
-    {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

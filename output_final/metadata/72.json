@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Orange Jacket",
+      "value": "Pepe Classic Red",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

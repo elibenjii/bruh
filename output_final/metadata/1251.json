@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Flying Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Black Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Dreadlocks",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Boxing Headgear",
       "trait_type": "Accessory"
     }
   ]

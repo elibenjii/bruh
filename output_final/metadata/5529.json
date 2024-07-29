@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Fish",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Electroman",
+      "value": "Punk Badass",
       "trait_type": "Body"
     },
     {
-      "value": "Kim Jong Un Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Peaked Cap",
       "trait_type": "Accessory"
     }
   ]

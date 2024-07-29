@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Fist",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Boxing Headgear",
       "trait_type": "Accessory"
     }
   ]

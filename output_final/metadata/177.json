@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Aladdin Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

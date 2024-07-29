@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Lucille Bat",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Big Nose",
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
       "trait_type": "Accessory"
     }
   ]

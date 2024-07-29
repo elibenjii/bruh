@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Black",
+      "value": "Gray Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Bandana",
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

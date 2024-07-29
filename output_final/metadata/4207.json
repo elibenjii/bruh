@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
     },
     {
-      "value": "Big Nose",
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

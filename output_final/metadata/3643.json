@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

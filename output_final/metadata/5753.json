@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Tank Top Jacket",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

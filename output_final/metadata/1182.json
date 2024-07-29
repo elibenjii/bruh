@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Pokebong",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Hat Sheet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

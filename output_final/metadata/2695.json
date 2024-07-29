@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Space Spinach",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Black",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

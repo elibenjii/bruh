@@ -10,15 +10,19 @@
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "Black Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Hell Boy Horn",
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

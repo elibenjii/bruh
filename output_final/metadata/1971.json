@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Pork BBQ",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Punk Badass",
       "trait_type": "Body"
     },
     {
-      "value": "Walter Face",
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

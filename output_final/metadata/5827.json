@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Buffed",
+      "value": "Bomber",
       "trait_type": "Body"
-    },
-    {
-      "value": "Boredemon Face",
-      "trait_type": "Accessory"
     }
   ]
 }

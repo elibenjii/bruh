@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "GMO Worm",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Dbz",
       "trait_type": "Body"
     },
     {
-      "value": "Mushroom Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Mario Hat",
       "trait_type": "Accessory"
     }
   ]

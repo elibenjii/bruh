@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Samourai",
+      "value": "Pink Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Big Nose",
-      "trait_type": "Accessory"
     }
   ]
 }

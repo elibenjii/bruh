@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Dbz",
       "trait_type": "Body"
     },
     {
       "value": "Flying Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

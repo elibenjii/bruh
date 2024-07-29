@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Special Force",
       "trait_type": "Body"
     },
     {
-      "value": "Black Glass",
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

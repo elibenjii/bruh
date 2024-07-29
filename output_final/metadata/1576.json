@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Ghetto Jacket",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
+    },
+    {
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Pepe Classic White",
       "trait_type": "Body"
     },
     {
-      "value": "Flying Cap",
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

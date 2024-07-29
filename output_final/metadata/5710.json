@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Aladdin Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Smol Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
-      "trait_type": "Accessory"
     }
   ]
 }

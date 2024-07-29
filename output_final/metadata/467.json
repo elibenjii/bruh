@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Boston Dynamics Armor",
+      "value": "Bomber",
       "trait_type": "Body"
+    },
+    {
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Lol",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Samourai",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Bandito",
       "trait_type": "Accessory"
     }
   ]

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Detective",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Pimp Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Peaked Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

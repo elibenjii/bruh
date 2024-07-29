@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Jungle",
+      "value": "Hulk Body",
       "trait_type": "Body"
     },
     {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Chun-li Hair",
       "trait_type": "Accessory"
     }
   ]

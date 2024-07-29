@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Thunberg Hair",
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Perfect Beard",
       "trait_type": "Accessory"
     }
   ]

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Dbz",
       "trait_type": "Body"
+    },
+    {
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

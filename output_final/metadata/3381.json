@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Fist",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

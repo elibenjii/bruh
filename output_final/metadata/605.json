@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Special Force",
       "trait_type": "Body"
     },
     {
-      "value": "Nose Piercing",
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Joint",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Tank Top",
+      "value": "Tropical Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
+      "value": "Bandana",
       "trait_type": "Accessory"
     }
   ]

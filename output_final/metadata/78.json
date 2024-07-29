@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "White Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Crown",
       "trait_type": "Accessory"
     }
   ]

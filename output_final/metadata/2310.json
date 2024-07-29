@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "GMO Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

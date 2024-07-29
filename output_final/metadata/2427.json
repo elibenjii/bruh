@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
     },
     {
-      "value": "Bandito",
+      "value": "Ninja Turtle Mask",
       "trait_type": "Accessory"
     }
   ]

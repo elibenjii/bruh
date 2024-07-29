@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Heart",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
+      "value": "Walter Face",
       "trait_type": "Accessory"
     }
   ]

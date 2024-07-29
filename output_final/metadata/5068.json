@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Dbz",
       "trait_type": "Body"
     },
     {
-      "value": "Boxing Headgear",
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

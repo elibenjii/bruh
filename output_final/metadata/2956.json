@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Jungle",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Green Headphone",
+      "value": "Kim Jong Un Hair",
       "trait_type": "Accessory"
     }
   ]

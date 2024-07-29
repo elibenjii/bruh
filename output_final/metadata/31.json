@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
+      "value": "Purple Space Helmet",
       "trait_type": "Accessory"
     }
   ]

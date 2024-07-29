@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Detective",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Pimp Suit",
+      "value": "Cyberpunk",
       "trait_type": "Body"
     },
     {
-      "value": "Peaked Cap",
+      "value": "Hat Sheet",
       "trait_type": "Accessory"
     }
   ]

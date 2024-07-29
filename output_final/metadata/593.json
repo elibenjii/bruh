@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Send It",
+      "value": "Lucille Bat",
       "trait_type": "Arm"
     },
     {
-      "value": "Orange Jacket",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Smol Hair",
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

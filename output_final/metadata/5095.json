@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Pepe Classic Red",
       "trait_type": "Body"
     },
     {
-      "value": "Scarf",
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

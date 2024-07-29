@@ -6,15 +6,15 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Special Force",
       "trait_type": "Body"
     }
   ]

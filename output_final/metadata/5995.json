@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Ironman",
       "trait_type": "Body"
+    },
+    {
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Ironman",
       "trait_type": "Body"
     },
     {
-      "value": "Pilot Helmet",
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

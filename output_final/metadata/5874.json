@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Buffed",
+      "value": "Heart",
       "trait_type": "Body"
     },
     {
-      "value": "Pilot Helmet",
+      "value": "Straw Hat",
       "trait_type": "Accessory"
     }
   ]

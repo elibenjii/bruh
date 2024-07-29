@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Ghetto Jacket",
+      "value": "Hulk Body",
       "trait_type": "Body"
     },
     {
-      "value": "Bandito",
+      "value": "Pacifier",
       "trait_type": "Accessory"
     }
   ]

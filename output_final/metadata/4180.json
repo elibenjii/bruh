@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Flying Ice Cream",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Orange Headphone",
-      "trait_type": "Accessory"
     }
   ]
 }

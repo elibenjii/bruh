@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Alien Brand",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
+      "value": "Hell Boy Horn",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Walter Face",
       "trait_type": "Accessory"
     }
   ]

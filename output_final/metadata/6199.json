@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Pokebong",
+      "value": "Send It",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Gray Jacket",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

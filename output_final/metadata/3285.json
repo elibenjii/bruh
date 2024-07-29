@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Pork BBQ",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Dbz",
       "trait_type": "Body"
     },
     {
-      "value": "Pilot Helmet",
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Walter Face",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Big Nose",
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

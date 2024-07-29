@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Send It",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Perfect Beard",
-      "trait_type": "Accessory"
     }
   ]
 }

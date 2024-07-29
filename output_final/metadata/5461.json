@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Gray Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "White Glass",
+      "value": "Boxing Headgear",
       "trait_type": "Accessory"
     }
   ]

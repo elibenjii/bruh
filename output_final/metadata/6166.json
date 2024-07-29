@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Jungle",
+      "value": "Black Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

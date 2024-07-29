@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Chilling",
       "trait_type": "Body"
     },
     {
-      "value": "Scarf",
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Gray Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Woke Hair",
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

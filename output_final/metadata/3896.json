@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Trapped Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Electroman",
       "trait_type": "Body"
     },
     {
-      "value": "Flying Cap With Pacifier",
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

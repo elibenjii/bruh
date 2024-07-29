@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "White Jungle",
+      "value": "Mario",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Samourai",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
     },
     {
-      "value": "Scarf",
+      "value": "Pablo Escobar",
       "trait_type": "Accessory"
     }
   ]

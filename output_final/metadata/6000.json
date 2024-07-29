@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Red Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Goku Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
+      "value": "Flying Cap With Pacifier",
       "trait_type": "Accessory"
     }
   ]

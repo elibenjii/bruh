@@ -10,15 +10,19 @@
       "trait_type": "Head"
     },
     {
-      "value": "Italian Ice Cream Monster",
+      "value": "Bread",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

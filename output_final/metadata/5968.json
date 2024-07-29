@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Boston Dynamics Armor",
+      "value": "Dbz",
       "trait_type": "Body"
     },
     {
-      "value": "Goku Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Pepe Cap",
       "trait_type": "Accessory"
     }
   ]

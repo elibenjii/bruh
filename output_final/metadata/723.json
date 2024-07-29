@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Chilling",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Pablo Escobar",
+      "value": "Hat Sheet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gothic Piercing",
       "trait_type": "Accessory"
     }
   ]

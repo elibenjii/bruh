@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Mushroom Cap",
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Tank Top Jacket",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Scarf",
+      "value": "Thunberg Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Straw",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Cyber Claw",
+      "value": "Black Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Purple Space Helmet",
+      "value": "Croco Hood",
       "trait_type": "Accessory"
     }
   ]

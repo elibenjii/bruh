@@ -10,16 +10,12 @@
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Gentleman",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Green Cyber Claw",
       "trait_type": "Body"
-    },
-    {
-      "value": "Purple Space Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

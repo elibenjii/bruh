@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Agent Pepe Pistol",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Suit",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
+      "value": "Bicycle Helmet",
       "trait_type": "Accessory"
     }
   ]

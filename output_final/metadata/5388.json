@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Worm",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Grenade Man",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
+      "value": "Dreadlocks",
       "trait_type": "Accessory"
     },
     {
-      "value": "Big Nose",
+      "value": "Walter Face",
       "trait_type": "Accessory"
     }
   ]

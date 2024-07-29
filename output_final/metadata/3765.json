@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Worm",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ninja Turtle Mask",
+      "value": "Naruto Hair",
       "trait_type": "Accessory"
     }
   ]

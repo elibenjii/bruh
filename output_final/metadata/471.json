@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "GMO Flower",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "White Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
       "trait_type": "Accessory"
     }
   ]

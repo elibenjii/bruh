@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Italian Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Gray Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Purple Space Helmet",
       "trait_type": "Accessory"
     }
   ]

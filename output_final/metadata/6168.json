@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
@@ -14,8 +14,12 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Black Jungle",
       "trait_type": "Body"
+    },
+    {
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
     }
   ]
 }

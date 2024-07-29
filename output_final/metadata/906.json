@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Worm",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Black Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Ghetto Cap",
+      "value": "Bicycle Helmet",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Punk Badass",
       "trait_type": "Body"
     },
     {
-      "value": "Thunberg Hair",
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

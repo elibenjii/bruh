@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
@@ -18,7 +18,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Super Saiyan Hair",
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

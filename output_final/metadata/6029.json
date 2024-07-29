@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Bandana",
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "Abibas",
       "trait_type": "Body"
     },
     {
-      "value": "Hell Boy Horn",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "Bicycle Helmet",
       "trait_type": "Accessory"
     }
   ]

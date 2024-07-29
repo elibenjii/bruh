@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "John Wick Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
+      "value": "Mustacho",
       "trait_type": "Accessory"
     }
   ]

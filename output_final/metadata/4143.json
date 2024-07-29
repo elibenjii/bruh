@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Ironman",
       "trait_type": "Body"
-    },
-    {
-      "value": "Purple Space Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Buffed",
+      "value": "Black Jungle",
       "trait_type": "Body"
+    },
+    {
+      "value": "Balaclava",
+      "trait_type": "Accessory"
     }
   ]
 }

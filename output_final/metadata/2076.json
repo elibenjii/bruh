@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Tatoo",
       "trait_type": "Arm"
     },
     {
-      "value": "Mario",
+      "value": "Aladdin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Boxing Headgear",
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

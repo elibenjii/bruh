@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Mario",
       "trait_type": "Body"
+    },
+    {
+      "value": "Thunberg Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

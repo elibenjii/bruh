@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Overalls",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
     },
     {
-      "value": "Pilot Helmet",
+      "value": "Boxing Headgear",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Hesitation",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Hoodie",
       "trait_type": "Body"
     },
     {
-      "value": "Boxing Headgear",
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Fist",
       "trait_type": "Arm"
     },
     {
-      "value": "Funky",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Lollipop Orange",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Red Tank Top",
       "trait_type": "Body"
+    },
+    {
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Perfect Beard",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Aladdin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

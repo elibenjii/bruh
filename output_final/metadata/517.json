@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop Orange",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Chilling",
+      "value": "Bomber",
       "trait_type": "Body"
+    },
+    {
+      "value": "Nose Piercing",
+      "trait_type": "Accessory"
     }
   ]
 }

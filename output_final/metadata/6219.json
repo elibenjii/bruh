@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
+    },
+    {
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
     }
   ]
 }

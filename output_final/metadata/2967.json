@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Detective",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Pimp Suit",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Orange Headphone",
+      "value": "Hat Sheet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

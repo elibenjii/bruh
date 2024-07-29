@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Hesitation",
+      "value": "Trapped Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Mario",
+      "value": "Punk Badass",
       "trait_type": "Body"
+    },
+    {
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ninja Turtle Mask",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
+    },
+    {
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

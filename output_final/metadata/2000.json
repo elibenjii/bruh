@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Bread",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Scarf",
+      "value": "Bob",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

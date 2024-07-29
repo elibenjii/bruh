@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Trapped Pan",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Electroman",
+      "value": "Samourai",
       "trait_type": "Body"
     },
     {
-      "value": "Kim Jong Un Hair",
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

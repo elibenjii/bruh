@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Ghetto Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Mustacho",
+      "value": "Purple Space Helmet",
       "trait_type": "Accessory"
     }
   ]

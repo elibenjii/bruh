@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Brown Donut",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Orange Jacket",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
-    },
-    {
-      "value": "Scarf",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Bomber",
       "trait_type": "Body"
+    },
+    {
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
+      "trait_type": "Accessory"
     }
   ]
 }

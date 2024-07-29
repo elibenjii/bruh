@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Agent Pepe Pistol",
       "trait_type": "Arm"
     },
     {
-      "value": "Shotgun Ammo",
+      "value": "Black Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Pilot Helmet",
       "trait_type": "Accessory"
     }
   ]

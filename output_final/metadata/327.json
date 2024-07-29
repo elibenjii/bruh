@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Worm",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Frogger",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Peaked Cap",
       "trait_type": "Accessory"
     }
   ]

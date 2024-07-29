@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Flying Ice Cream",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Shotgun Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "Yellow Hat",
       "trait_type": "Accessory"
     }
   ]

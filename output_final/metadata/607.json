@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Electroman",
+      "value": "Hoodie",
       "trait_type": "Body"
     },
     {
-      "value": "Mushroom Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Ghetto Cap",
       "trait_type": "Accessory"
     }
   ]

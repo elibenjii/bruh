@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Hobbo Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

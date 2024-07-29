@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Abibas",
+      "value": "White Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "John Wick Hair",
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Straw",
       "trait_type": "Accessory"
     }
   ]

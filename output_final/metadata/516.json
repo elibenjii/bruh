@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Boston Dynamics Armor",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Pilot Helmet",
+      "value": "Flying Cap",
       "trait_type": "Accessory"
     }
   ]

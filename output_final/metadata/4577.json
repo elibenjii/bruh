@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Funky",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Naruto Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

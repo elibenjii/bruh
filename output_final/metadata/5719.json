@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Tatoo",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Woke Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

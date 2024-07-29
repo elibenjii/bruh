@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bicycle Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

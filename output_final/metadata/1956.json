@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Space Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

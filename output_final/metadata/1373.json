@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Electroman",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Bandito",
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

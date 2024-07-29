@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
@@ -14,15 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Mustacho",
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

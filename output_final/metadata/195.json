@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Ironman",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandana",
-      "trait_type": "Accessory"
     }
   ]
 }

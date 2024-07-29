@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Tank Top Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "John Wick Hair",
+      "value": "Mushroom Cap",
       "trait_type": "Accessory"
     },
     {
-      "value": "White Glass",
+      "value": "Mustacho",
       "trait_type": "Accessory"
     }
   ]

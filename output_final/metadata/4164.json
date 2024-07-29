@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Funky",
+      "value": "Samourai",
       "trait_type": "Body"
     },
     {
-      "value": "White Glass",
+      "value": "Crown",
       "trait_type": "Accessory"
     }
   ]

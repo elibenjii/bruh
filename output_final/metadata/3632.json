@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Naruto Hair",
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

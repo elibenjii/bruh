@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Agent Pepe Pistol",
+      "value": "Chicken BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Suit",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Flying Cap",
+      "value": "Thunberg Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

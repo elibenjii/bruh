@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Shotgun Ammo",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Walter Face",
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

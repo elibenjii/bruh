@@ -10,12 +10,16 @@
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Jungle Commando",
       "trait_type": "Body"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
     }
   ]
 }

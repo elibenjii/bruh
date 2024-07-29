@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Weed",
       "trait_type": "Body"
+    },
+    {
+      "value": "Hell Boy Horn",
+      "trait_type": "Accessory"
     }
   ]
 }

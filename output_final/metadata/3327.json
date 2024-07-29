@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Electroman",
+      "value": "White Jungle",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pablo Escobar",
-      "trait_type": "Accessory"
     }
   ]
 }

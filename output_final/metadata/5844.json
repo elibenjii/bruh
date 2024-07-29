@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "White Gentleman",
       "trait_type": "Body"
+    },
+    {
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

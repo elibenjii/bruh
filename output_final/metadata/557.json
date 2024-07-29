@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Abibas",
+      "value": "Black Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Hell Boy Horn",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nose Piercing",
+      "trait_type": "Accessory"
     }
   ]
 }

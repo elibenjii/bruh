@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
@@ -18,7 +18,11 @@
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

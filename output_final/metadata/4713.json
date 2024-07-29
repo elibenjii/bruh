@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Big Nose",
-      "trait_type": "Accessory"
     }
   ]
 }

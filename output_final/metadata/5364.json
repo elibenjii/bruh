@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandana",
-      "trait_type": "Accessory"
     }
   ]
 }

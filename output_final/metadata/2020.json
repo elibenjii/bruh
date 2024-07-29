@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Cyberpunk",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
+      "value": "Crown",
       "trait_type": "Accessory"
     }
   ]

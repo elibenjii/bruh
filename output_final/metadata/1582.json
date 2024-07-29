@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Alien Ice Cream",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Mario",
       "trait_type": "Body"
-    },
-    {
-      "value": "Ski Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

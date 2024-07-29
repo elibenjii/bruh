@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "White Gentleman",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
     },
     {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Straw",
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

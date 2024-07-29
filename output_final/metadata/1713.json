@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Space Spinach",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Grenade Man",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
+      "value": "Black Cap",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Bandana",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

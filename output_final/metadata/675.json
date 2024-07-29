@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Purple Space Helmet",
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

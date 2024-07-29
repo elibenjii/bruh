@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Tatoo",
       "trait_type": "Arm"
     },
     {
-      "value": "Cozy Sweater",
+      "value": "Orange Jacket",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pacifier",
-      "trait_type": "Accessory"
     }
   ]
 }

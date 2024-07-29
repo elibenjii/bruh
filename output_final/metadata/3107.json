@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
@@ -16,6 +16,10 @@
     {
       "value": "White Lezards",
       "trait_type": "Body"
+    },
+    {
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
     }
   ]
 }

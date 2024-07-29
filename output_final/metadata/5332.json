@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Croco Hood",
+      "value": "Hobbo Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

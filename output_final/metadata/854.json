@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "GMO Flower",
       "trait_type": "Arm"
     },
     {
@@ -18,11 +18,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Naruto Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Walter Face",
+      "value": "Ghetto Cap",
       "trait_type": "Accessory"
     }
   ]

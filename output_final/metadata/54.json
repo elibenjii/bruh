@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Fist",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Orange Jacket",
+      "value": "Frogger",
       "trait_type": "Body"
+    },
+    {
+      "value": "Boxing Headgear",
+      "trait_type": "Accessory"
     }
   ]
 }

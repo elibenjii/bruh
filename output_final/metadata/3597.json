@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Ice Cream",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie",
+      "value": "Overalls",
       "trait_type": "Body"
     },
     {
-      "value": "Beard",
+      "value": "Pacifier",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

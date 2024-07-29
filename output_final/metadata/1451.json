@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Black Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Thunberg Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

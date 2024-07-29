@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Gentleman",
+      "value": "Agent Pepe Pistol",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Jacket",
+      "value": "Black Suit",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bandito",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Boxing Headgear",
+      "value": "Bandana",
       "trait_type": "Accessory"
     }
   ]

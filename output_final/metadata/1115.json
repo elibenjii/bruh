@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Pablo Escobar",
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

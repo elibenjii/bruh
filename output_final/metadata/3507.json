@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
       "value": "Punk Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Mustacho",
       "trait_type": "Accessory"
     }
   ]

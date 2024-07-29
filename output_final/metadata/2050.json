@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Pointing Finger",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandito",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Hesitation",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Shaolin Shirt",
+      "value": "Ironman",
       "trait_type": "Body"
     },
     {
-      "value": "Ski Glass",
+      "value": "Pilot Helmet",
       "trait_type": "Accessory"
     }
   ]

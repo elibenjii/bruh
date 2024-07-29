@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Green Cyber Claw",
       "trait_type": "Body"
+    },
+    {
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
+      "trait_type": "Accessory"
     }
   ]
 }

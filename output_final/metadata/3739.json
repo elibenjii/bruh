@@ -10,15 +10,19 @@
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Pilot Helmet",
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

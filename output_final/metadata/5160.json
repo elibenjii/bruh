@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "White Gentleman",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
-    },
-    {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

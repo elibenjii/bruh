@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "White Jungle",
+      "value": "Ironman",
       "trait_type": "Body"
     },
     {
-      "value": "Mario Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nose Piercing",
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

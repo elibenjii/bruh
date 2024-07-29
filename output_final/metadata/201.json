@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Terrorist",
       "trait_type": "Body"
+    },
+    {
+      "value": "Boxing Headgear",
+      "trait_type": "Accessory"
     }
   ]
 }

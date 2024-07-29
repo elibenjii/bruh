@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Brown Donut",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pikachu Hoodie",
+      "value": "Green Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
     }
   ]
 }

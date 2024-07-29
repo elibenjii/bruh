@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Chicken BBQ",
+      "value": "Lucille Bat",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Black Gentleman",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pablo Escobar",
-      "trait_type": "Accessory"
     }
   ]
 }

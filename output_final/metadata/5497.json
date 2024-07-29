@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Croco Hood",
+      "value": "Pilot Helmet",
       "trait_type": "Accessory"
     }
   ]

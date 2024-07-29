@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Hobbo Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
+      "value": "Crown",
       "trait_type": "Accessory"
     }
   ]

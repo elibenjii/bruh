@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Abibas",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Black Glass",
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

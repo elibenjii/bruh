@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Electroman",
+      "value": "Hulk Body",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

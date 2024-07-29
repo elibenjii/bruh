@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Agent Pepe Pistol",
+      "value": "Detective",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Suit",
+      "value": "Pimp Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Mustacho",
-      "trait_type": "Accessory"
     }
   ]
 }

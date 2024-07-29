@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Fist",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Cyber Claw",
+      "value": "Hoodie",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Jungle",
+      "value": "Moon Latex",
       "trait_type": "Body"
-    },
-    {
-      "value": "Hat Sheet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,15 +6,15 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Terrorist",
       "trait_type": "Body"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Worm",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Skelton Armor",
       "trait_type": "Body"
     },
     {
       "value": "Flying Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

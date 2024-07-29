@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Funky",
+      "value": "Grenade Man",
       "trait_type": "Body"
+    },
+    {
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Green Headphone",
+      "trait_type": "Accessory"
     }
   ]
 }

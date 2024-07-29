@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Funky",
+      "value": "Dbz",
       "trait_type": "Body"
     },
     {
-      "value": "Pepe Cap",
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

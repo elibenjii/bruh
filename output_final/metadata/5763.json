@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Fist",
       "trait_type": "Arm"
     },
     {
-      "value": "Suit",
+      "value": "Green Cyber Claw",
       "trait_type": "Body"
-    },
-    {
-      "value": "Gray Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

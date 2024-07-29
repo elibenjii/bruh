@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Agent Pepe Pistol",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Suit",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Purple Space Helmet",
+      "value": "Jason Mask",
       "trait_type": "Accessory"
     }
   ]

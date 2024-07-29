@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Flying Cap With Pacifier",
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

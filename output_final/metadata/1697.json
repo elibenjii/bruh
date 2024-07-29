@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Electroman",
       "trait_type": "Body"
+    },
+    {
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gothic Piercing",
+      "trait_type": "Accessory"
     }
   ]
 }

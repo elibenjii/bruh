@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Fist",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Chilling",
       "trait_type": "Body"
     },
     {
-      "value": "Pablo Escobar",
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Walter Face",
       "trait_type": "Accessory"
     }
   ]

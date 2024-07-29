@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Worm",
       "trait_type": "Arm"
     },
     {
@@ -18,7 +18,11 @@
       "trait_type": "Body"
     },
     {
-      "value": "Black Glass",
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

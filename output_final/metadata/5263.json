@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Red Jungle",
       "trait_type": "Body"
-    },
-    {
-      "value": "Purple Space Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

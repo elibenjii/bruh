@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Tropical Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

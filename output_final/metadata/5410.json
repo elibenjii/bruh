@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Hesitation",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie",
+      "value": "Abibas",
       "trait_type": "Body"
     },
     {
-      "value": "Army Helmet",
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

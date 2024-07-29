@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Waterboy Soldier",
       "trait_type": "Body"
     },
     {
-      "value": "Purple Space Helmet",
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

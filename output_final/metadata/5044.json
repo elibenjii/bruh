@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
@@ -14,8 +14,16 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Terrorist",
       "trait_type": "Body"
+    },
+    {
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
     }
   ]
 }

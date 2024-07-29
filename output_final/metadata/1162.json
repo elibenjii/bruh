@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie Hacker",
+      "value": "Shaolin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Straw Hat",
       "trait_type": "Accessory"
     }
   ]

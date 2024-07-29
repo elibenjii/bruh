@@ -10,12 +10,16 @@
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Agent Pepe Pistol",
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "Black Suit",
       "trait_type": "Body"
+    },
+    {
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
     }
   ]
 }

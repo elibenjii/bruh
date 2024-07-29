@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Lucille Bat",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Boredemon",
       "trait_type": "Body"
+    },
+    {
+      "value": "Green Headphone",
+      "trait_type": "Accessory"
     }
   ]
 }

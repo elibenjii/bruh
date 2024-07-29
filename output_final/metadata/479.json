@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

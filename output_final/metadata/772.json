@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "White Gentleman",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

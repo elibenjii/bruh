@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Mario",
       "trait_type": "Body"
     },
     {
-      "value": "Perfect Beard",
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

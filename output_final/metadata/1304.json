@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Ironman",
       "trait_type": "Body"
+    },
+    {
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Perfect Beard",
+      "trait_type": "Accessory"
     }
   ]
 }

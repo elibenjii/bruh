@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Peaked Cap",
+      "value": "Beard",
       "trait_type": "Accessory"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

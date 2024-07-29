@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
@@ -14,15 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Gray Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Gothic Piercing",
       "trait_type": "Accessory"
     }
   ]

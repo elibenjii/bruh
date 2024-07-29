@@ -10,19 +10,15 @@
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
     },
     {
-      "value": "John Wick Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Ghetto Cap",
       "trait_type": "Accessory"
     }
   ]

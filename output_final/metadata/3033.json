@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Lucille Bat",
+      "value": "Brown Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Gray Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Smol Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Ghetto Cap",
       "trait_type": "Accessory"
     }
   ]

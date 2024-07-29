@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Flying Ice Cream",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Punisher",
       "trait_type": "Body"
-    },
-    {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

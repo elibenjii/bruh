@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Funky",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
     },
     {
-      "value": "Army Helmet",
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gothic Piercing",
       "trait_type": "Accessory"
     }
   ]

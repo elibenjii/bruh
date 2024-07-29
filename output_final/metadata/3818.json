@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Heart",
       "trait_type": "Body"
     },
     {
-      "value": "Dreadlocks",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
+      "value": "Pilot Helmet",
       "trait_type": "Accessory"
     }
   ]

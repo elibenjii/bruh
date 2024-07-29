@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Hoodie",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

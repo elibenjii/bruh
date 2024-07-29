@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Ice Cream",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
-      "value": "Shotgun Ammo",
+      "value": "Heart",
       "trait_type": "Body"
     },
     {
-      "value": "Pacifier",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Orange Headphone",
+      "value": "Bicycle Helmet",
       "trait_type": "Accessory"
     }
   ]

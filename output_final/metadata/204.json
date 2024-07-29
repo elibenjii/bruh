@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "GMO Worm",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Kim Jong Un Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

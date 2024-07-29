@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Peaked Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Army Helmet",
       "trait_type": "Accessory"
     }
   ]

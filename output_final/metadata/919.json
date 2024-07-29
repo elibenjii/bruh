@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Bread",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Grenade Man",
       "trait_type": "Body"
-    },
-    {
-      "value": "John Wick Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

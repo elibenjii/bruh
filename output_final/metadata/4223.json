@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bob",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

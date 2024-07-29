@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Pacifier",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Heart",
       "trait_type": "Body"
-    },
-    {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Cozy Sweater",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Kim Jong Un Hair",
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

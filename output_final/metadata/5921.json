@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Space Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "White Jungle",
       "trait_type": "Body"
+    },
+    {
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Hat Sheet",
+      "value": "Beard",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Flying Ice Cream",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Heart",
       "trait_type": "Body"
     },
     {
-      "value": "Gray Aviator Glass",
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

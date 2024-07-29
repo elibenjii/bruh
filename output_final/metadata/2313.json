@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Black",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
-    },
-    {
-      "value": "Walter Face",
-      "trait_type": "Accessory"
     }
   ]
 }

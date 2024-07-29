@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Brown Donut",
+      "value": "Italian Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

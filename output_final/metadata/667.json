@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Heart",
       "trait_type": "Body"
     },
     {
-      "value": "Ninja Turtle Mask",
+      "value": "Hobbo Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

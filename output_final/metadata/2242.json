@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Boxing",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

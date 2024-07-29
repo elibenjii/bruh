@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Green Cyber Claw",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

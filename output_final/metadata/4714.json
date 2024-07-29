@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Jungle Commando",
       "trait_type": "Body"
-    },
-    {
-      "value": "Mushroom Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Straw",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
     },
     {
-      "value": "Mario Hat",
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

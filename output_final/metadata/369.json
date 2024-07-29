@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Gentleman",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Chilling",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Army Helmet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Black Cap",
       "trait_type": "Accessory"
     }
   ]

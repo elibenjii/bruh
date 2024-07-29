@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Lumberjack",
+      "value": "Funky",
       "trait_type": "Body"
     },
     {
-      "value": "Super Saiyan Hair",
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

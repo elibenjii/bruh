@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

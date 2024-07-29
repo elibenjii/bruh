@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "White Gentleman",
       "trait_type": "Body"
     },
     {
       "value": "Reversed Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

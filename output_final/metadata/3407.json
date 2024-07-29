@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Aladdin Shirt",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
+      "value": "Peaked Cap",
       "trait_type": "Accessory"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Perfect Beard",
       "trait_type": "Accessory"
     }
   ]

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Shotgun Ammo",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandito",
-      "trait_type": "Accessory"
     }
   ]
 }

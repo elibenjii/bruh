@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Flying Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Jungle",
+      "value": "Moon Latex",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Hesitation",
       "trait_type": "Arm"
     },
     {
@@ -18,11 +18,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Beard",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

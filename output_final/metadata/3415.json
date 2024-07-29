@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Scarf",
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

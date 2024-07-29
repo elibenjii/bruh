@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Black",
+      "value": "White Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

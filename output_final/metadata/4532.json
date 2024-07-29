@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
     },
     {
-      "value": "Flying Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
+      "value": "Dreadlocks",
       "trait_type": "Accessory"
     }
   ]

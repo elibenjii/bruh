@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Shark Hoodie",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Shark Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

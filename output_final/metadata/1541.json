@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Pepe Classic White",
       "trait_type": "Body"
     },
     {
-      "value": "Woke Hair",
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

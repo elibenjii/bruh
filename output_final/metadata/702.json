@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Samourai",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Boxing Headgear",
       "trait_type": "Accessory"
     }
   ]

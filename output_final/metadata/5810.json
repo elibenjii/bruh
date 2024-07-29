@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Pork BBQ",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Pepe Classic Red",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Hobbo Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

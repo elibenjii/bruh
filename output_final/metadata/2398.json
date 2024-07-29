@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Grenade Man",
       "trait_type": "Body"
     },
     {
-      "value": "Bandana",
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

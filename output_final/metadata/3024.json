@@ -10,12 +10,16 @@
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Terrorist",
       "trait_type": "Body"
+    },
+    {
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Thunberg Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Black Cap",
       "trait_type": "Accessory"
     }
   ]

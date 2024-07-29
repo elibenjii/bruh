@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Ice Cream",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Jacket",
+      "value": "White Gentleman",
       "trait_type": "Body"
-    },
-    {
-      "value": "Boxing Headgear",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Hesitation",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Orange Jacket",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Thunberg Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
+      "value": "Bandana",
       "trait_type": "Accessory"
     }
   ]

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Buffed",
+      "value": "Funky",
       "trait_type": "Body"
-    },
-    {
-      "value": "Gray Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Pork BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Black Gentleman",
       "trait_type": "Body"
-    },
-    {
-      "value": "Walter Face",
-      "trait_type": "Accessory"
     }
   ]
 }

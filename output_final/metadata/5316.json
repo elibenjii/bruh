@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "White Glass",
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Green Headphone",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
+      "value": "Ninja Turtle Mask",
       "trait_type": "Accessory"
     }
   ]

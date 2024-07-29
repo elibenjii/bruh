@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Mushroom Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

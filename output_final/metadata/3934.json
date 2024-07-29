@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Peaked Cap",
+      "value": "Thunberg Hair",
       "trait_type": "Accessory"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

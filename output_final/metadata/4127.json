@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Ultra",
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Ultra",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pablo Escobar",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Aladdin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Ninja Turtle Mask",
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gothic Piercing",
       "trait_type": "Accessory"
     }
   ]

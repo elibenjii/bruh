@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Steampunk Armor",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

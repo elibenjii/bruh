@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
@@ -14,8 +14,16 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Ironman",
       "trait_type": "Body"
+    },
+    {
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Orange Headphone",
+      "trait_type": "Accessory"
     }
   ]
 }

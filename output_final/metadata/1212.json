@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Cozy Sweater",
+      "value": "Special Force",
       "trait_type": "Body"
-    },
-    {
-      "value": "Scarf",
-      "trait_type": "Accessory"
     }
   ]
 }

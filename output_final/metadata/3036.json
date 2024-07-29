@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Bomber",
       "trait_type": "Body"
-    },
-    {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
     }
   ]
 }

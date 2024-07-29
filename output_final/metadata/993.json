@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
-      "value": "Cozy Sweater",
+      "value": "Weed",
       "trait_type": "Body"
     },
     {
-      "value": "Ninja Turtle Mask",
+      "value": "Purple Space Helmet",
       "trait_type": "Accessory"
     }
   ]

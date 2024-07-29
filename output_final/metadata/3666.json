@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Hulk Body",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "Jason Mask",
       "trait_type": "Accessory"
     }
   ]

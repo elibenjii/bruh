@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Punk Badass",
+      "value": "Bomber",
       "trait_type": "Body"
+    },
+    {
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
     },
     {
       "value": "Nose Piercing",

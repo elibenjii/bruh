@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Detective",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Pimp Suit",
+      "value": "Moon Latex",
       "trait_type": "Body"
-    },
-    {
-      "value": "Walter Face",
-      "trait_type": "Accessory"
     }
   ]
 }

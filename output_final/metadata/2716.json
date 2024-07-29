@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Cozy Sweater",
+      "value": "Abibas",
       "trait_type": "Body"
-    },
-    {
-      "value": "Smol Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

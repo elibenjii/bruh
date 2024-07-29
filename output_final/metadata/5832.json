@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Ice Cream Monster",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
     },
     {
-      "value": "John Wick Hair",
+      "value": "Jason Mask",
       "trait_type": "Accessory"
     }
   ]

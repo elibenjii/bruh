@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "GMO Flower",
       "trait_type": "Arm"
     },
     {
-      "value": "Tropical Shirt",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Gray Glass",
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Walter Face",
       "trait_type": "Accessory"
     }
   ]

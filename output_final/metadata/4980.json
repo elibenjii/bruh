@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Ultra",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Ultra",
+      "value": "Black Gentleman",
       "trait_type": "Body"
+    },
+    {
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
     }
   ]
 }

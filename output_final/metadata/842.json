@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Steampunk Armor",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Ski Glass",
+      "value": "Beard",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

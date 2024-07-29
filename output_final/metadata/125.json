@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Fist",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Tank Top",
+      "value": "Funky",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

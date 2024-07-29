@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "Alien Brand",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

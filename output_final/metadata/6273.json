@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Shaolin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Straw",
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

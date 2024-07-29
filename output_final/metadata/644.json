@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Cyberpunk",
       "trait_type": "Body"
-    },
-    {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

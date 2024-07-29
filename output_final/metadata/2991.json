@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Funky",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
     },
     {
-      "value": "Chun-li Hair",
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

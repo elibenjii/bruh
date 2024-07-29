@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
@@ -14,12 +14,8 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pablo Escobar",
-      "trait_type": "Accessory"
     }
   ]
 }

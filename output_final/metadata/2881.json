@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Cyberpunk",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pilot Helmet",
+      "trait_type": "Accessory"
     }
   ]
 }

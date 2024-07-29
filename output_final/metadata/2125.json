@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Hulk Body",
       "trait_type": "Body"
     },
     {
-      "value": "Mushroom Cap",
+      "value": "Bicycle Helmet",
       "trait_type": "Accessory"
     }
   ]

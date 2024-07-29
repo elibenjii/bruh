@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "GMO Worm",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "White Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

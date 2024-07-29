@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Bread",
+      "value": "Lollipop",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Ski Glass",
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

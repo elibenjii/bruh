@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Red Tank Top",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Bandana",
       "trait_type": "Accessory"
     }
   ]

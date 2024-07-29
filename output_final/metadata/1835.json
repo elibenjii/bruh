@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Hulk Body",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nose Piercing",
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

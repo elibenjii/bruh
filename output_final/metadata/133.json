@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Punk Badass",
+      "value": "Skelton Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Smol Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

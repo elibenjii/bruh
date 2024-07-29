@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Angry",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Croco Hood",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "White Jungle",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Ski Glass",
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

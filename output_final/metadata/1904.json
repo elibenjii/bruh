@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Pilot Helmet",
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

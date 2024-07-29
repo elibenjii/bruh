@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Mario Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
+      "value": "Boredemon Face",
       "trait_type": "Accessory"
     }
   ]

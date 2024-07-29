@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Bomber",
       "trait_type": "Body"
+    },
+    {
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

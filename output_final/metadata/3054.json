@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Detective",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Pimp Suit",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bandana",
-      "trait_type": "Accessory"
     }
   ]
 }

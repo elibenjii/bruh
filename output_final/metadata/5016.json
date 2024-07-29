@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Pork BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Green Headphone",
       "trait_type": "Accessory"
     }
   ]

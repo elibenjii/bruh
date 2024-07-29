@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Ice Cream",
+      "value": "GMO Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Unicorn",
+      "value": "Jungle Commando",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bob",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
     }
   ]
 }

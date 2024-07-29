@@ -6,15 +6,15 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Electroman",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
     }
   ]

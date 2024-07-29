@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Dbz",
       "trait_type": "Body"
     },
     {
-      "value": "Scarf",
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

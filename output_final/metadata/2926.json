@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Shotgun Ammo",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
+      "trait_type": "Accessory"
     }
   ]
 }

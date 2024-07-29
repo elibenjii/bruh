@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

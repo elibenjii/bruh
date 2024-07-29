@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Aladdin Shirt",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Naruto Hair",
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

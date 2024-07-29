@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Dbz",
       "trait_type": "Body"
-    },
-    {
-      "value": "Mushroom Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

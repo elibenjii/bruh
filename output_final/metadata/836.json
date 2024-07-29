@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Special Force",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

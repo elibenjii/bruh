@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "White Lezards",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

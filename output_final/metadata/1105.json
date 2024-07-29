@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Space Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

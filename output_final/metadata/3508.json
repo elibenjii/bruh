@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Weed",
       "trait_type": "Body"
+    },
+    {
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Green Headphone",
+      "trait_type": "Accessory"
     }
   ]
 }

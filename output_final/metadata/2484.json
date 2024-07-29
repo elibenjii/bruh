@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "White Jungle",
+      "value": "Frogger",
       "trait_type": "Body"
-    },
-    {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

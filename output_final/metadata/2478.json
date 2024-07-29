@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Fish",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Hat Sheet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Worm",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Green Cyber Claw",
       "trait_type": "Body"
     },
     {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nose Piercing",
+      "value": "Hobbo Hat",
       "trait_type": "Accessory"
     }
   ]

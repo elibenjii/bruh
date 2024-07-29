@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Bomber",
       "trait_type": "Body"
-    },
-    {
-      "value": "John Wick Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

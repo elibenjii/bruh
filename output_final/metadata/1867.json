@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Punisher",
       "trait_type": "Body"
+    },
+    {
+      "value": "Hell Boy Horn",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

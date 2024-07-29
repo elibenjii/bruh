@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Joint",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Shotgun Ammo",
+      "value": "White Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "White Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

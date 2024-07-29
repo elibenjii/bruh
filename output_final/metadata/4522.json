@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Red Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -10,15 +10,19 @@
       "trait_type": "Head"
     },
     {
-      "value": "Agent Pepe Pistol",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Suit",
+      "value": "Lumberjack",
       "trait_type": "Body"
     },
     {
-      "value": "Green Headphone",
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

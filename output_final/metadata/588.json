@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Agent Pepe Pistol",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "Black Suit",
       "trait_type": "Body"
+    },
+    {
+      "value": "Space Helmet",
+      "trait_type": "Accessory"
     }
   ]
 }

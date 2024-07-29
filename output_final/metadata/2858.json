@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Bread",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Naruto Hair",
+      "value": "Army Helmet",
       "trait_type": "Accessory"
     },
     {
-      "value": "Mustacho",
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Agent Pepe Pistol",
+      "value": "Lollipop Orange",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Suit",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Boredemon Face",
-      "trait_type": "Accessory"
     }
   ]
 }

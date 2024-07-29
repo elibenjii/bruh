@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Abibas",
       "trait_type": "Body"
     },
     {
-      "value": "Flying Cap With Pacifier",
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

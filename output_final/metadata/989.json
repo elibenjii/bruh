@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Shaolin Shirt",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

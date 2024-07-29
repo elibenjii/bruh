@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
     },
     {
-      "value": "Beard",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Bob",
       "trait_type": "Accessory"
     }
   ]

@@ -6,15 +6,15 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
-      "value": "Dino Suit",
+      "value": "Punisher",
       "trait_type": "Body"
     }
   ]

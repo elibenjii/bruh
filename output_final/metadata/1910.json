@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie",
+      "value": "Alien Brand",
       "trait_type": "Body"
     },
     {
-      "value": "Boxing Headgear",
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Green Headphone",
       "trait_type": "Accessory"
     }
   ]

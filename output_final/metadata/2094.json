@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Ultra",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Ultra",
       "trait_type": "Body"
-    },
-    {
-      "value": "Scarf",
-      "trait_type": "Accessory"
     }
   ]
 }

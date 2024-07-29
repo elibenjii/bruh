@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Fist",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Overalls",
+      "value": "Green Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

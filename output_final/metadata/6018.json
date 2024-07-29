@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Detective",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Pimp Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Smol Hair",
       "trait_type": "Accessory"
     }
   ]

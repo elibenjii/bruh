@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Shark Hoodie",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Shark Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

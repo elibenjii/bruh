@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Worm",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "White Lezards",
       "trait_type": "Body"
-    },
-    {
-      "value": "Nerd Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

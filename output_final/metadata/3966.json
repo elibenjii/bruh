@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Shotgun Ammo",
+      "value": "Funky",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Chun-li Hair",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Jungle",
+      "value": "Electroman",
       "trait_type": "Body"
     },
     {
-      "value": "Nose Piercing",
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
       "trait_type": "Accessory"
     }
   ]

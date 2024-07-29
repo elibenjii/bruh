@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Chilling",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Hat Sheet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

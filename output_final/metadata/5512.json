@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Gentleman Lucille Bat",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Cyberpunk",
       "trait_type": "Body"
-    },
-    {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
     }
   ]
 }

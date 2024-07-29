@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "GMO Flower",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
-    },
-    {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

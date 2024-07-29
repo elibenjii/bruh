@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Hulk Body",
       "trait_type": "Body"
     },
     {
-      "value": "Mustacho",
+      "value": "Woke Hair",
       "trait_type": "Accessory"
     }
   ]

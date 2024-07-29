@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Hesitation",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Shotgun Ammo",
+      "value": "Cyberpunk",
       "trait_type": "Body"
     },
     {
-      "value": "Black Glass",
+      "value": "Gothic Piercing",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Agent Pepe Pistol",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Suit",
+      "value": "Moon Latex",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Balaclava",
       "trait_type": "Accessory"
     }
   ]

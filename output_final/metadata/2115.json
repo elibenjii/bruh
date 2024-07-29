@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Alien Ice Cream",
+      "value": "Tatoo",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Ironman",
       "trait_type": "Body"
     },
     {
-      "value": "Pacifier",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
+      "value": "Hell Boy Horn",
       "trait_type": "Accessory"
     }
   ]

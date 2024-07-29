@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Pointing Finger",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Straw",
-      "trait_type": "Accessory"
     }
   ]
 }

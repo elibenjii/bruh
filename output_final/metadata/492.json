@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Buffed",
+      "value": "Abibas",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bob",
+      "trait_type": "Accessory"
     }
   ]
 }

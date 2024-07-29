@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Alien Ice Cream",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Perfect Beard",
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

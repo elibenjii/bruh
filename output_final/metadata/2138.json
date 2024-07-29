@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Gray Jacket",
       "trait_type": "Body"
+    },
+    {
+      "value": "Orange Headphone",
+      "trait_type": "Accessory"
     }
   ]
 }

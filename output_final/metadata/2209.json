@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Army Helmet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

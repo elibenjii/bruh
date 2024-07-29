@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Grenade Man",
       "trait_type": "Body"
     },
     {
-      "value": "Hat Sheet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Bandito",
       "trait_type": "Accessory"
     }
   ]

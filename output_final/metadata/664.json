@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Black",
+      "value": "White Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Flying Cap",
+      "value": "Dreadlocks",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

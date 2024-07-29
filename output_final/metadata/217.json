@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Hoodie",
       "trait_type": "Body"
+    },
+    {
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Perfect Beard",
+      "trait_type": "Accessory"
     }
   ]
 }

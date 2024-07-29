@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Aladdin Shirt",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Flying Cap With Pacifier",
-      "trait_type": "Accessory"
     }
   ]
 }

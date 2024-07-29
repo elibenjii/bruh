@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Alien Brand",
       "trait_type": "Body"
     },
     {
-      "value": "Boredemon Face",
+      "value": "Yellow Hat",
       "trait_type": "Accessory"
     }
   ]

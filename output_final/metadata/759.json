@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Shaolin Shirt",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Ghetto Cap",
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

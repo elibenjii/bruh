@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Ghetto Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Green Headphone",
+      "value": "Ninja Turtle Mask",
       "trait_type": "Accessory"
     }
   ]

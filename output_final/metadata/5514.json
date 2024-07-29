@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Alien Ice Cream",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
-      "trait_type": "Accessory"
     }
   ]
 }

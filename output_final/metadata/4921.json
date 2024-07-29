@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bicycle Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

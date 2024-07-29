@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Overalls",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Pacifier",
+      "value": "Reversed Cap",
       "trait_type": "Accessory"
     },
     {
-      "value": "Gray Glass",
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

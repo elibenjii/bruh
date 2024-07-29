@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Joint",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Tank Top Jacket",
+      "value": "Tropical Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Black Glass",
+      "value": "Ghetto Cap",
       "trait_type": "Accessory"
     }
   ]

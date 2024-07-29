@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
-      "value": "Ghetto Jacket",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
+      "value": "Balaclava",
       "trait_type": "Accessory"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

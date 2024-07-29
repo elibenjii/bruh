@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Bread",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Jungle",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

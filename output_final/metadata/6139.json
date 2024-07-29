@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Funky",
       "trait_type": "Body"
-    },
-    {
-      "value": "Boxing Headgear",
-      "trait_type": "Accessory"
     }
   ]
 }

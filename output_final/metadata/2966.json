@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Chicken BBQ",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "White Gentleman",
       "trait_type": "Body"
+    },
+    {
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
     }
   ]
 }

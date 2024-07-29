@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Tropical Shirt",
+      "value": "Punisher",
       "trait_type": "Body"
+    },
+    {
+      "value": "Hat Sheet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Walter Face",
+      "trait_type": "Accessory"
     }
   ]
 }

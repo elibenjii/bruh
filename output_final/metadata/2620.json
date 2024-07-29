@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Fist",
       "trait_type": "Arm"
     },
     {
       "value": "Overalls",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pipe",
-      "trait_type": "Accessory"
     }
   ]
 }

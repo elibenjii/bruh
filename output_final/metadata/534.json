@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Pink Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
     }
   ]
 }

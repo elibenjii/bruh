@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Black Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Hat Sheet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
+      "value": "Ghetto Cap",
       "trait_type": "Accessory"
     }
   ]

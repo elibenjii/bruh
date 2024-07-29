@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Tropical Shirt",
+      "value": "Green Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

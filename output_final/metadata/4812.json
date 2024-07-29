@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Purple Space Helmet",
+      "trait_type": "Accessory"
     }
   ]
 }

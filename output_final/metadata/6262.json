@@ -6,15 +6,15 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Shotgun Ammo",
+      "value": "Bomber",
       "trait_type": "Body"
     }
   ]

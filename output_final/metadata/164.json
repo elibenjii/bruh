@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Abibas",
+      "value": "Skelton Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Purple Space Helmet",
+      "value": "Flying Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
+      "value": "Smol Hair",
       "trait_type": "Accessory"
     }
   ]

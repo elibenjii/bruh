@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Abibas",
+      "value": "Tropical Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Black Cap",
       "trait_type": "Accessory"
     }
   ]

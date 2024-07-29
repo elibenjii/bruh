@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Mushroom Cap",
+      "value": "Army Helmet",
       "trait_type": "Accessory"
     },
     {
-      "value": "Nose Piercing",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

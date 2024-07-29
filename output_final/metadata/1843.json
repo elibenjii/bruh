@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "Black Gentleman",
       "trait_type": "Body"
-    },
-    {
-      "value": "White Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

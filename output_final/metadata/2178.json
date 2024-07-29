@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Thunberg Hair",
+      "value": "Reversed Cap",
       "trait_type": "Accessory"
     },
     {
-      "value": "White Glass",
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

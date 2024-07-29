@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Space Weed",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Space Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Straw",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Ice Cream",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Tank Top Jacket",
+      "value": "Green Cyber Claw",
       "trait_type": "Body"
     },
     {
-      "value": "Beard",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

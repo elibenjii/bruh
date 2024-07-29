@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Mustacho",
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

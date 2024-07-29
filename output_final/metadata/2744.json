@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Hobbo Hat",
+      "value": "Mushroom Cap",
       "trait_type": "Accessory"
     },
     {
-      "value": "Black Glass",
+      "value": "Mustacho",
       "trait_type": "Accessory"
     }
   ]

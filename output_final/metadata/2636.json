@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Grenade Man",
       "trait_type": "Body"
     },
     {
-      "value": "Mushroom Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

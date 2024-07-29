@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Dbz",
       "trait_type": "Body"
     },
     {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Balaclava",
       "trait_type": "Accessory"
     }
   ]

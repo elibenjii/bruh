@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Detective",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pimp Suit",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

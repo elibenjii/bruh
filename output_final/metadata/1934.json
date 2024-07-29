@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Mario",
+      "value": "Skelton Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
+      "value": "Balaclava",
       "trait_type": "Accessory"
     }
   ]

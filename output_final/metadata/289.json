@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
+      "value": "Naruto Hair",
       "trait_type": "Accessory"
     }
   ]

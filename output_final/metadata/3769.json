@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Gentleman",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Green Cyber Claw",
       "trait_type": "Body"
     },
     {
-      "value": "Scarf",
+      "value": "Thunberg Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Walter Face",
       "trait_type": "Accessory"
     }
   ]

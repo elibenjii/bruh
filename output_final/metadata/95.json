@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Orange Jacket",
+      "value": "Skelton Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Chun-li Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

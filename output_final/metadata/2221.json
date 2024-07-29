@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Red Tank Top",
       "trait_type": "Body"
     },
     {
-      "value": "Hell Boy Horn",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ninja Turtle Mask",
+      "value": "Flying Cap With Pacifier",
       "trait_type": "Accessory"
     }
   ]

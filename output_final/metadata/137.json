@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Cozy Sweater",
+      "value": "Buffed",
       "trait_type": "Body"
     },
     {
-      "value": "Gray Aviator Glass",
+      "value": "Smol Hair",
       "trait_type": "Accessory"
     }
   ]

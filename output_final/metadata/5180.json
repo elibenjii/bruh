@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Grenade Man",
       "trait_type": "Body"
     },
     {
-      "value": "Nose Piercing",
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

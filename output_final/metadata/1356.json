@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Samourai",
       "trait_type": "Body"
-    },
-    {
-      "value": "Croco Hood",
-      "trait_type": "Accessory"
     }
   ]
 }

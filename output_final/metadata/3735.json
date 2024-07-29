@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Brown Donut",
+      "value": "GMO Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Jacket",
+      "value": "Jungle Commando",
       "trait_type": "Body"
-    },
-    {
-      "value": "Ghetto Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

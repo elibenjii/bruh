@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Pikachu Hoodie",
+      "value": "Hulk Body",
       "trait_type": "Body"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

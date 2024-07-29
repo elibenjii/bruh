@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Tatoo",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Red Tank Top",
       "trait_type": "Body"
     },
     {
-      "value": "Purple Space Helmet",
+      "value": "Crown",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

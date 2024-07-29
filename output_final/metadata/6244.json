@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Detective",
+      "value": "Flying Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Pimp Suit",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Pablo Escobar",
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Walter Face",
       "trait_type": "Accessory"
     }
   ]

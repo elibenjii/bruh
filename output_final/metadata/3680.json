@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "White Gentleman",
+      "value": "Jungle Commando",
       "trait_type": "Body"
-    },
-    {
-      "value": "Crown",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
@@ -14,15 +14,15 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Suit",
+      "value": "Orange Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
+      "value": "Peaked Cap",
       "trait_type": "Accessory"
     },
     {
-      "value": "Scarf",
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

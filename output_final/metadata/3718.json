@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
@@ -18,11 +18,11 @@
       "trait_type": "Body"
     },
     {
-      "value": "Naruto Hair",
+      "value": "Reversed Cap",
       "trait_type": "Accessory"
     },
     {
-      "value": "Big Nose",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

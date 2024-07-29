@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Jungle",
+      "value": "Black Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Purple Space Helmet",
       "trait_type": "Accessory"
     }
   ]

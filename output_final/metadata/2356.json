@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Worm",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Boredemon",
       "trait_type": "Body"
     },
     {
-      "value": "Pablo Escobar",
+      "value": "Yellow Hat",
       "trait_type": "Accessory"
     }
   ]

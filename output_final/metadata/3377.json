@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "GMO Worm",
+      "value": "Pork BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Waterboy Soldier",
       "trait_type": "Body"
     },
     {
-      "value": "Orange Headphone",
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

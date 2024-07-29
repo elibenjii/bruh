@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Bomber",
       "trait_type": "Body"
-    },
-    {
-      "value": "Mustacho",
-      "trait_type": "Accessory"
     }
   ]
 }

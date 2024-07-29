@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,15 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Lumberjack",
       "trait_type": "Body"
     },
     {
-      "value": "Hell Boy Horn",
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
       "trait_type": "Accessory"
     }
   ]

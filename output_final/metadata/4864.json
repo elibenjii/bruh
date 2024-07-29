@@ -10,15 +10,19 @@
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

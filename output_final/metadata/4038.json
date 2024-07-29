@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Space Spinach",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
+      "value": "Bandana",
       "trait_type": "Accessory"
     }
   ]

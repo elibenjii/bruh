@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Tropical Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

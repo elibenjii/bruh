@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Fist",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Chilling",
       "trait_type": "Body"
     },
     {
-      "value": "Black Glass",
+      "value": "Jason Mask",
       "trait_type": "Accessory"
     }
   ]

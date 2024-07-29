@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

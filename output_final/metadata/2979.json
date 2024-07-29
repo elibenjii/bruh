@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wow",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Funky",
+      "value": "Boredemon",
       "trait_type": "Body"
-    },
-    {
-      "value": "Crown",
-      "trait_type": "Accessory"
     }
   ]
 }

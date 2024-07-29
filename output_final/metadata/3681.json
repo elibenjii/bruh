@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Black Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Green Headphone",
+      "value": "Mario Hat",
       "trait_type": "Accessory"
     }
   ]

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
       "value": "Steampunk Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Chicken BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Overalls",
+      "value": "Gray Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Mustacho",
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Pikachu Hoodie",
+      "value": "Punk Badass",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

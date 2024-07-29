@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Italian Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "Cozy Sweater",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Smol Hair",
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

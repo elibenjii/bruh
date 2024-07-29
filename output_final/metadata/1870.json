@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Joint",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Tank Top",
+      "value": "Frogger",
       "trait_type": "Body"
-    },
-    {
-      "value": "Walter Face",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Bread",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Hulk Body",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nose Piercing",
+      "value": "Bicycle Helmet",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
     },
     {
-      "value": "Nose Piercing",
+      "value": "Ninja Turtle Mask",
       "trait_type": "Accessory"
     }
   ]

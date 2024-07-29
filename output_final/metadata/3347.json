@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Tatoo",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Green Cyber Claw",
       "trait_type": "Body"
+    },
+    {
+      "value": "Orange Headphone",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
@@ -18,7 +18,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Pilot Helmet",
+      "value": "Boxing Headgear",
       "trait_type": "Accessory"
     }
   ]

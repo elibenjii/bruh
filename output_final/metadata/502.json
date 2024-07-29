@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Send It",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Orange Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Bandana",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

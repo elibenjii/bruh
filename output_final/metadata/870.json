@@ -6,11 +6,11 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
@@ -18,7 +18,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Croco Hood",
       "trait_type": "Accessory"
     }
   ]

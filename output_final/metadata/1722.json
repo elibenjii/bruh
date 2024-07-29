@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Hulk Body",
       "trait_type": "Body"
     },
     {
-      "value": "Goku Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Flying Cap",
       "trait_type": "Accessory"
     }
   ]

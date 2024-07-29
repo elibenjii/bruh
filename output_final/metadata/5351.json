@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Flying Ice Cream",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "White Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

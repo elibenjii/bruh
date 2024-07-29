@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Bomber",
       "trait_type": "Body"
-    },
-    {
-      "value": "Reversed Cap",
-      "trait_type": "Accessory"
     },
     {
       "value": "Black Aviator Glass",

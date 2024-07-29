@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Send It",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Orange Jacket",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
     },
     {
-      "value": "White Glass",
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

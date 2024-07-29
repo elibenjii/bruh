@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Punk Badass",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nose Piercing",
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

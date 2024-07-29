@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Moon Latex",
       "trait_type": "Body"
     },
     {
-      "value": "Beard",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Straw",
+      "value": "Pacifier",
       "trait_type": "Accessory"
     }
   ]

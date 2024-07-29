@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Aladdin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Green Headphone",
       "trait_type": "Accessory"
     }
   ]

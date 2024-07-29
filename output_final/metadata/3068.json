@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "White Jungle",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
+      "value": "Bandana",
       "trait_type": "Accessory"
     }
   ]

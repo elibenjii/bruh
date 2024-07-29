@@ -10,15 +10,15 @@
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Space Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

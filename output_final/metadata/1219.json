@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Ghetto Jacket",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Hell Boy Horn",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ninja Turtle Mask",
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

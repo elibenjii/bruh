@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Flying Ice Cream",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Red Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Beard",
+      "value": "Super Saiyan Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

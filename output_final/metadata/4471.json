@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Punisher",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

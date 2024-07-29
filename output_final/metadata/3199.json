@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Lollipop Orange",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
     }
   ]
 }

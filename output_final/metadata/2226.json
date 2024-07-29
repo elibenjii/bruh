@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Red Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Pepe Cap",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

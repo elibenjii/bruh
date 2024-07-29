@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Shaolin Shirt",
+      "value": "Gray Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
+      "value": "Reversed Cap",
       "trait_type": "Accessory"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

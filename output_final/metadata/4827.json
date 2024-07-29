@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "White Gentleman",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bandana",
+      "trait_type": "Accessory"
     }
   ]
 }

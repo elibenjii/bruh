@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Army Helmet",
+      "value": "Yellow Hat",
       "trait_type": "Accessory"
     }
   ]

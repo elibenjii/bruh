@@ -6,15 +6,15 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Shirt",
+      "value": "Red Shirt",
       "trait_type": "Body"
     }
   ]

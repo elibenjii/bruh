@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Detective",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Pimp Suit",
+      "value": "Tank Top Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
+      "value": "Super Saiyan Hair",
       "trait_type": "Accessory"
     }
   ]

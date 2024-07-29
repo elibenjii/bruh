@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Mario",
+      "value": "Gray Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Hobbo Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

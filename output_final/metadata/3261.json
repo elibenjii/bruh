@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop Orange",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Overalls",
+      "value": "Frogger",
       "trait_type": "Body"
+    },
+    {
+      "value": "Hell Boy Horn",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

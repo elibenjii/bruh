@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Joint",
+      "value": "Gentleman",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Tank Top",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Ski Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

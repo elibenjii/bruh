@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Tropical Shirt",
+      "value": "Waterboy Soldier",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bicycle Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

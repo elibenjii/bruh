@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Hoodie",
       "trait_type": "Body"
+    },
+    {
+      "value": "Nose Piercing",
+      "trait_type": "Accessory"
     }
   ]
 }

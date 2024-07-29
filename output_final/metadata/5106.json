@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Peaked Cap",
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

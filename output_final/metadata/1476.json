@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Buffed",
+      "value": "Weed",
       "trait_type": "Body"
     },
     {
-      "value": "Green Headphone",
+      "value": "Beard",
       "trait_type": "Accessory"
     }
   ]

@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "White Gentleman",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
+    },
+    {
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop Orange",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Shaolin Shirt",
+      "value": "Gray Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Bicycle Helmet",
       "trait_type": "Accessory"
     }
   ]

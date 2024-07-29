@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Electroman",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

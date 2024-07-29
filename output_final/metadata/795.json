@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Mario",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Pipe",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Thunberg Hair",
+      "value": "John Wick Hair",
       "trait_type": "Accessory"
     }
   ]

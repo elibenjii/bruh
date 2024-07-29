@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "GMO Flower",
       "trait_type": "Arm"
     },
     {
-      "value": "Ghetto Jacket",
+      "value": "Gray Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Hell Boy Horn",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Glass",
+      "value": "Black Cap",
       "trait_type": "Accessory"
     }
   ]

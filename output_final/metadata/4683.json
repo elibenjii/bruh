@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "GMO Flower",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "White Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Mario Hat",
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Orange Headphone",
       "trait_type": "Accessory"
     }
   ]

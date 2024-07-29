@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Alien Ice Cream",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Pepe Classic Red",
       "trait_type": "Body"
+    },
+    {
+      "value": "Green Headphone",
+      "trait_type": "Accessory"
     }
   ]
 }

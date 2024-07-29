@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Brown Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Ironman",
       "trait_type": "Body"
     },
     {
-      "value": "Ninja Turtle Mask",
+      "value": "Yellow Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

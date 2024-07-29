@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Fish",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Electroman",
       "trait_type": "Body"
     },
     {
       "value": "Peaked Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

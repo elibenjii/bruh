@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Fish",
+      "value": "Detective",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Pimp Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Hat Sheet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Mustacho",
+      "value": "Black Cap",
       "trait_type": "Accessory"
     }
   ]

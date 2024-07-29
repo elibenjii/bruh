@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Aladdin Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Big Nose",
-      "trait_type": "Accessory"
     }
   ]
 }

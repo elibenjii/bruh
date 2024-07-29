@@ -10,12 +10,16 @@
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

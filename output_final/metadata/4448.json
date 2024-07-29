@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
     },
     {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
+      "value": "Croco Hood",
       "trait_type": "Accessory"
     }
   ]

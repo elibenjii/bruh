@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Ghetto Jacket",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Crown",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ninja Turtle Mask",
+      "value": "Flying Cap With Pacifier",
       "trait_type": "Accessory"
     }
   ]

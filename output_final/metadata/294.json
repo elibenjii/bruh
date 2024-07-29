@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Angry",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Shaolin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Gray Glass",
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Steampunk Axe",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Nerd Glass",
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

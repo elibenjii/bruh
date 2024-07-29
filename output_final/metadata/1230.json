@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,15 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "Boston Dynamics Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Punk Hair",
+      "value": "Beard",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

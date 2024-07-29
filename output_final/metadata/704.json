@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
       "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Brown Donut",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Shaolin Shirt",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
+      "value": "Punk Hair",
       "trait_type": "Accessory"
     }
   ]

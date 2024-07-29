@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Gentleman",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Weed",
       "trait_type": "Body"
     },
     {
-      "value": "Purple Space Helmet",
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

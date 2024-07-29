@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Jungle",
+      "value": "Abibas",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gothic Piercing",
-      "trait_type": "Accessory"
     }
   ]
 }

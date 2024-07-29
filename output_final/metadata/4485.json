@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "GMO Worm",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Buffed",
       "trait_type": "Body"
     },
     {
-      "value": "Scarf",
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Perfect Beard",
       "trait_type": "Accessory"
     }
   ]

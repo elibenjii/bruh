@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "No Trust",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Electroman",
+      "value": "Moon Latex",
       "trait_type": "Body"
-    },
-    {
-      "value": "Space Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

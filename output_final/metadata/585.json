@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Ultra",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Ultra",
       "trait_type": "Body"
-    },
-    {
-      "value": "Reversed Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

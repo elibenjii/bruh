@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Mario Hat",
       "trait_type": "Accessory"
     }
   ]

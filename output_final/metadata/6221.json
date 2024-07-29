@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Dbz",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

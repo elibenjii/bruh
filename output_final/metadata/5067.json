@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Pizza",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Space Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Beard",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nerd Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

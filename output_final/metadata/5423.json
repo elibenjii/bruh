@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Ice Cream",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Buffed",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
+    },
+    {
+      "value": "Ninja Turtle Mask",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Gentleman",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
-    },
-    {
-      "value": "Space Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

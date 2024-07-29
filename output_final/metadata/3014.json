@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Jungle Commando",
       "trait_type": "Body"
-    },
-    {
-      "value": "Jason Mask",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Pointing Finger",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

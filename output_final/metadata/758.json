@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "Skelton Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

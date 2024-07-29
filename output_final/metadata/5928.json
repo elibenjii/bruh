@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Pink Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Buffed",
       "trait_type": "Body"
     },
     {
-      "value": "Hobbo Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Black Cap",
       "trait_type": "Accessory"
     }
   ]

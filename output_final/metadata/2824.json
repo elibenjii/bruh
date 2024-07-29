@@ -6,15 +6,15 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Ice Cream",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Pikachu Hoodie",
+      "value": "White Shirt",
       "trait_type": "Body"
     }
   ]

@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Funky",
       "trait_type": "Body"
-    },
-    {
-      "value": "Naruto Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

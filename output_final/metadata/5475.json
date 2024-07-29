@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
-      "value": "Aladdin Shirt",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "John Wick Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
+      "value": "Balaclava",
       "trait_type": "Accessory"
     }
   ]

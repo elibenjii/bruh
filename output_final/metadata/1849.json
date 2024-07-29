@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Italian Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Boxing Headgear",
+      "value": "John Wick Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

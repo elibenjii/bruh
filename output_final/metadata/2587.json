@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Chicken BBQ",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Ghetto Jacket",
       "trait_type": "Body"
-    },
-    {
-      "value": "Big Nose",
-      "trait_type": "Accessory"
     }
   ]
 }

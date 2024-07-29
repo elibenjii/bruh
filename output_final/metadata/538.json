@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Pink Donut",
+      "value": "Trapped Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Toxic Bomber",
+      "value": "Red Shirt",
       "trait_type": "Body"
-    },
-    {
-      "value": "Peaked Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

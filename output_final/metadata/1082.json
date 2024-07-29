@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Joint",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Tank Top",
+      "value": "Space Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

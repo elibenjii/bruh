@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Alien Brand",
       "trait_type": "Body"
     },
     {
-      "value": "Bandana",
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

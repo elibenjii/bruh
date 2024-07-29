@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Chicken BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Steampunk Armor",
+      "value": "Skelton Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

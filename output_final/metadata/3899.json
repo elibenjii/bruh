@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Alien Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Space Suit",
       "trait_type": "Body"
+    },
+    {
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

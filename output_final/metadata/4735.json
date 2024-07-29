@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Tatoo",
+      "value": "Lollipop Orange",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Chilling",
       "trait_type": "Body"
-    },
-    {
-      "value": "Hell Boy Horn",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Ultra",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Ultra",
       "trait_type": "Body"
-    },
-    {
-      "value": "Thunberg Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Black Aviator Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

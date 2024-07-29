@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Brown Donut",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Pikachu Hoodie",
+      "value": "Dbz",
       "trait_type": "Body"
+    },
+    {
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "Accessory"
     }
   ]
 }

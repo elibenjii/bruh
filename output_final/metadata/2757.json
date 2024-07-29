@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Flying Ice Cream",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Armor",
+      "value": "Overalls",
       "trait_type": "Body"
+    },
+    {
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Bread",
       "trait_type": "Arm"
     },
     {
-      "value": "Suit",
+      "value": "Skelton Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "Boxing Headgear",
       "trait_type": "Accessory"
     }
   ]

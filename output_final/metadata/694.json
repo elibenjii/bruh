@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Bread",
+      "value": "Fist",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Chilling",
       "trait_type": "Body"
-    },
-    {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
     },
     {
       "value": "Perfect Beard",

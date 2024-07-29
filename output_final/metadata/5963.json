@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Alien Ice Cream",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Steampunk Armor",
+      "value": "Black Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Mustacho",
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

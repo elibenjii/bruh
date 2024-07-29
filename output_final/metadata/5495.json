@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Fist",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Chilling",
+      "value": "Dbz",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

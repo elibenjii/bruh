@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Black Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Nerd Glass",
+      "value": "Black Cap",
       "trait_type": "Accessory"
     }
   ]

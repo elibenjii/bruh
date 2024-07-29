@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Punk Badass",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Straw Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "Army Helmet",
       "trait_type": "Accessory"
     }
   ]

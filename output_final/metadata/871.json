@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Black Glass",
+      "value": "Ghetto Cap",
       "trait_type": "Accessory"
     }
   ]

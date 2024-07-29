@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Agent Pepe Pistol",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Black Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Naruto Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nose Piercing",
+      "value": "Pilot Helmet",
       "trait_type": "Accessory"
     }
   ]

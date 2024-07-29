@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Skelton Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "Kim Jong Un Hair",
       "trait_type": "Accessory"
     }
   ]

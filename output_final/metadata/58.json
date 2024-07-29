@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Laser Gun",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Cyber Claw",
+      "value": "Electroman",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

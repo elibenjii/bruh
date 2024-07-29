@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Shirt",
+      "value": "Hulk Body",
       "trait_type": "Body"
-    },
-    {
-      "value": "Scarf",
-      "trait_type": "Accessory"
     }
   ]
 }

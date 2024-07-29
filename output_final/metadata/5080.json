@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Agent Pepe Pistol",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Suit",
+      "value": "Electroman",
       "trait_type": "Body"
     },
     {
-      "value": "Pacifier",
+      "value": "Mushroom Cap",
       "trait_type": "Accessory"
     }
   ]

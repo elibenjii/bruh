@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Hesitation",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Ironman",
       "trait_type": "Body"
+    },
+    {
+      "value": "Gray Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Tank Top Jacket",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Cute Revolver",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Jacket",
+      "value": "Heart",
       "trait_type": "Body"
     },
     {
-      "value": "Mario Hat",
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

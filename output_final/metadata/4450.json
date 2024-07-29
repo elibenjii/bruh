@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Mushroom Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

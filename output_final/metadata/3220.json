@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Worm",
       "trait_type": "Arm"
     },
     {
-      "value": "Boredemon",
+      "value": "Terrorist",
       "trait_type": "Body"
-    },
-    {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
     }
   ]
 }

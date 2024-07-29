@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Boxing",
+      "value": "Bong Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Orange Jacket",
+      "value": "Ironman",
       "trait_type": "Body"
-    },
-    {
-      "value": "White Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

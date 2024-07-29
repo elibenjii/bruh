@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Wut?",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "Pepe Classic White",
       "trait_type": "Body"
     },
     {
-      "value": "Thunberg Hair",
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Straw",
       "trait_type": "Accessory"
     }
   ]

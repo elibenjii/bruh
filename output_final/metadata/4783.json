@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Pink Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Space Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
+      "value": "Bob",
       "trait_type": "Accessory"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

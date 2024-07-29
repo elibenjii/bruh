@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Woke",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Space Weed",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
-    },
-    {
-      "value": "Space Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

@@ -10,15 +10,19 @@
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Tropical Shirt",
+      "value": "Special Force",
       "trait_type": "Body"
     },
     {
-      "value": "Ghetto Cap",
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

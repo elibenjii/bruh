@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Fish",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Abibas",
       "trait_type": "Body"
     },
     {
-      "value": "Goku Hair",
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
       "trait_type": "Accessory"
     }
   ]

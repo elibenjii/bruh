@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Water Gun",
+      "value": "Pork BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Pepe Classic Black",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "Hell Boy Horn",
       "trait_type": "Accessory"
     }
   ]

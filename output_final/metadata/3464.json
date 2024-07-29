@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Pokebong",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Space Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Chun-li Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gothic Piercing",
+      "value": "Pepe Cap",
       "trait_type": "Accessory"
     }
   ]

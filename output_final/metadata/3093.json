@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Big Nose",
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

@@ -6,24 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Smashed",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Special Force",
       "trait_type": "Body"
-    },
-    {
-      "value": "Crown",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

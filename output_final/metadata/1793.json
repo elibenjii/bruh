@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "White Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Walter Face",
+      "value": "Naruto Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

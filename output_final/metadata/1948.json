@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Pokebong",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Shaolin Shirt",
+      "value": "Waterboy Soldier",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

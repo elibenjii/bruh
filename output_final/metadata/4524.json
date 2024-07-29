@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Dubious",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
     },
     {
-      "value": "Straw",
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

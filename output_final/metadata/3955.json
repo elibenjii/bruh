@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Surprised",
       "trait_type": "Head"
     },
     {
-      "value": "Space Spinach",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Frogger",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

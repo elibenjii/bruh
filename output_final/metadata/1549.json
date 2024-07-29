@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Space Spinach",
       "trait_type": "Arm"
     },
     {
-      "value": "Overalls",
+      "value": "Black Armor",
       "trait_type": "Body"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
     }
   ]
 }

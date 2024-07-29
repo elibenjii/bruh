@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hallucinate",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Big Nose",
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

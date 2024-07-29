@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Space Spinach",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Black Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Super Saiyan Hair",
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

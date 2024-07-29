@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Buster Sword",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Suit",
+      "value": "Pink Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Peaked Cap",
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

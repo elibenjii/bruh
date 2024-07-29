@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Hulk",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Hulk Body",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Jason Mask",
+      "value": "Hat Sheet",
       "trait_type": "Accessory"
     }
   ]

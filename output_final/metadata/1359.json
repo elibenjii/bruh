@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Abibas",
+      "value": "Jungle Commando",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

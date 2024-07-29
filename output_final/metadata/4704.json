@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Hesitation",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Tank Top Jacket",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Peaked Cap",
       "trait_type": "Accessory"
     }
   ]

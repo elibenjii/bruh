@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Pork BBQ",
+      "value": "Sniper",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "Electroman",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Pepe Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

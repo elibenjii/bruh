@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wtf",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
@@ -14,8 +14,12 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Aladdin Shirt",
+      "value": "Tropical Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

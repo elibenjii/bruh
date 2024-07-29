@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Brown Donut",
       "trait_type": "Arm"
     },
     {
-      "value": "Futuristic Armor",
+      "value": "Green Cyber Claw",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pipe",
-      "trait_type": "Accessory"
     }
   ]
 }

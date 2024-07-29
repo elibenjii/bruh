@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Terminator",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Hulk",
       "trait_type": "Arm"
     },
     {
-      "value": "Ghetto Jacket",
+      "value": "Hulk Body",
       "trait_type": "Body"
     },
     {
-      "value": "Purple Space Helmet",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

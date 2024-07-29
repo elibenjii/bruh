@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Fist",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Green Cyber Claw",
+      "value": "Terrorist",
       "trait_type": "Body"
+    },
+    {
+      "value": "Ghetto Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

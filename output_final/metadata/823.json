@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Agent Pepe Pistol",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Suit",
+      "value": "Rambo Ammo",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
+      "value": "Straw Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

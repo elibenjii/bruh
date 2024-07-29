@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "No Trust",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "John Wick Hair",
       "trait_type": "Accessory"
     }
   ]

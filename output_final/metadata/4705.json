@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Angry Gun",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Black Cap",
+      "value": "Mario Hat",
       "trait_type": "Accessory"
     }
   ]

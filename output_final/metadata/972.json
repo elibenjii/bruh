@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Dubious",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Frogger",
+      "value": "Special Force",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]

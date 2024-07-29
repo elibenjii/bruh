@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Pizza",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Weed",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
     },
     {
-      "value": "Straw",
+      "value": "Green Headphone",
       "trait_type": "Accessory"
     }
   ]

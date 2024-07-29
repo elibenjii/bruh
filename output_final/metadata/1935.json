@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Hesitation",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Shaolin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Super Saiyan Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nose Piercing",
+      "value": "Ski Glass",
       "trait_type": "Accessory"
     }
   ]

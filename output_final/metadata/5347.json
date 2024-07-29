@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Crying",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Skelton Armor",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
     },
     {
-      "value": "Mushroom Cap",
+      "value": "Reversed Cap",
       "trait_type": "Accessory"
     },
     {
-      "value": "Walter Face",
+      "value": "Gothic Piercing",
       "trait_type": "Accessory"
     }
   ]

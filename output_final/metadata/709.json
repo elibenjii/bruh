@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "IFKYK",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "White Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Bandana",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Beer",
+      "value": "Detective",
       "trait_type": "Arm"
     },
     {
-      "value": "White Gentleman",
+      "value": "Pimp Suit",
       "trait_type": "Body"
+    },
+    {
+      "value": "Big Nose",
+      "trait_type": "Accessory"
     }
   ]
 }

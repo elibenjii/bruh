@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "GMO Flower",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Electroman",
       "trait_type": "Body"
+    },
+    {
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Black Jungle",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Mushroom Cap",
       "trait_type": "Accessory"
     }
   ]

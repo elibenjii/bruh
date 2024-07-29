@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "Sniper",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Alien Brand",
       "trait_type": "Body"
+    },
+    {
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

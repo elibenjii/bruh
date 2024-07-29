@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Suit",
+      "value": "Pepe Classic White",
       "trait_type": "Body"
     },
     {
-      "value": "Boxing Headgear",
+      "value": "Jason Mask",
       "trait_type": "Accessory"
     }
   ]

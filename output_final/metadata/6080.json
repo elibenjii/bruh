@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Red Shirt",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Bob",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "White Glass",
+      "value": "Bandana",
       "trait_type": "Accessory"
     }
   ]

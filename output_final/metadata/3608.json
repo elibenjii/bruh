@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Dbz",
       "trait_type": "Arm"
     },
     {
-      "value": "Shoulder Strap",
+      "value": "Dbz",
       "trait_type": "Body"
     },
     {
-      "value": "Hat Sheet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Big Nose",
+      "value": "Beard",
       "trait_type": "Accessory"
     }
   ]

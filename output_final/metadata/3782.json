@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Sword",
+      "value": "Beer",
       "trait_type": "Arm"
     },
     {
-      "value": "White Jungle",
+      "value": "Punisher",
       "trait_type": "Body"
-    },
-    {
-      "value": "Bicycle Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

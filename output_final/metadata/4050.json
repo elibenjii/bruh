@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Surprised",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Trapped Pan",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Abibas",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Glass",
+      "value": "Smol Hair",
       "trait_type": "Accessory"
     }
   ]

@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Very Angry",
+      "value": "Rage",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Italian Ice Cream Monster",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Punisher",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Punk Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

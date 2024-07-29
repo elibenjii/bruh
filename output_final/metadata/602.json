@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Focusing",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Heart",
+      "value": "Shoulder Strap",
       "trait_type": "Body"
+    },
+    {
+      "value": "Croco Hood",
+      "trait_type": "Accessory"
     }
   ]
 }

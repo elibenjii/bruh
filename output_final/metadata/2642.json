@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop Orange",
+      "value": "Flying Ice Cream",
       "trait_type": "Arm"
     },
     {
-      "value": "Boredemon",
+      "value": "Cyberpunk",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

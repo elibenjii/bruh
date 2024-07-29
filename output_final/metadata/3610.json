@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Hot Dog",
       "trait_type": "Arm"
     },
     {
-      "value": "Abibas",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Ghetto Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

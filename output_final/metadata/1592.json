@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Lol",
       "trait_type": "Head"
     },
     {
-      "value": "Agent Pepe Pistol",
+      "value": "Retard Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Suit",
+      "value": "Aladdin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Super Saiyan Hair",
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

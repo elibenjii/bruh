@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Lollipop",
+      "value": "Pokebong",
       "trait_type": "Arm"
     },
     {
-      "value": "Jungle Commando",
+      "value": "Dino Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Black Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

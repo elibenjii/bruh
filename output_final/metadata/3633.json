@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "Hurt",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Hoodie Hacker",
+      "value": "Abibas",
       "trait_type": "Body"
     },
     {
-      "value": "Hat Sheet",
+      "value": "Pilot Helmet",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Bazooka",
+      "value": "Steampunk Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Waterboy Soldier",
+      "value": "White Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Chun-li Hair",
+      "value": "Hat Sheet",
       "trait_type": "Accessory"
     },
     {
-      "value": "Ski Glass",
+      "value": "White Glass",
       "trait_type": "Accessory"
     }
   ]

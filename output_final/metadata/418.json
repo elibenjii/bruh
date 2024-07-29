@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "White Shirt",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Thunberg Hair",
-      "trait_type": "Accessory"
     }
   ]
 }

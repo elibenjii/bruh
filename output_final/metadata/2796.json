@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Stoic",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Steampunk Buster Sword",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Ironman",
       "trait_type": "Body"
     },
     {
-      "value": "Reversed Cap",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Scarf",
+      "value": "Orange Headphone",
       "trait_type": "Accessory"
     }
   ]

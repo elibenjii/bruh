@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "RPG",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Frogger",
       "trait_type": "Body"
     },
     {
-      "value": "Smol Hair",
+      "value": "Bandito",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smashed",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Water Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Steampunk Armor",
       "trait_type": "Body"
     },
     {
-      "value": "John Wick Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nose Piercing",
+      "value": "Jason Mask",
       "trait_type": "Accessory"
     }
   ]

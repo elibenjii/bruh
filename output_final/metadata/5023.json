@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Stop Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Bomber",
+      "value": "Space Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Mario Hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

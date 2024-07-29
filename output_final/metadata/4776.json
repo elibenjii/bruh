@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Feels Good",
+      "value": "Not Sure",
       "trait_type": "Head"
     },
     {
-      "value": "Chainsaw",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Boston Dynamics Armor",
+      "value": "Orange Jacket",
       "trait_type": "Body"
+    },
+    {
+      "value": "Chun-li Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

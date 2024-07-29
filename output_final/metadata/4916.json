@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hehe",
+      "value": "Crying",
       "trait_type": "Head"
     },
     {
-      "value": "Ice Cream Monster",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Black Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Chun-li Hair",
+      "value": "Bob",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

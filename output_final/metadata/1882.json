@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Hurt",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Punching Gun",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
       "value": "Punisher",
       "trait_type": "Body"
-    },
-    {
-      "value": "Scarf",
-      "trait_type": "Accessory"
     }
   ]
 }

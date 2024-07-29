@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Hammer",
+      "value": "Gentleman Lucille Bat",
       "trait_type": "Arm"
     },
     {
-      "value": "Terrorist",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Scarf",
-      "trait_type": "Accessory"
     }
   ]
 }

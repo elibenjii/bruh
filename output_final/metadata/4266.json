@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "Wow",
       "trait_type": "Head"
     },
     {
-      "value": "GMO Flower",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Grenade Man",
+      "value": "Black Gentleman",
       "trait_type": "Body"
     },
     {
-      "value": "Woke Hair",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Mustacho",
+      "value": "Chun-li Hair",
       "trait_type": "Accessory"
     }
   ]

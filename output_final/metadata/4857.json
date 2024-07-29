@@ -10,16 +10,12 @@
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Chicken BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Grenade Man",
       "trait_type": "Body"
-    },
-    {
-      "value": "Scarf",
-      "trait_type": "Accessory"
     }
   ]
 }

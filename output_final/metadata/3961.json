@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Gatling Gun",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Gray Glass",
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

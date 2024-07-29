@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Terminator",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "RPG",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pink Armor",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Thunberg Hair",
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

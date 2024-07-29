@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Are You Sure?",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Ghetto Jacket",
+      "value": "Weed",
       "trait_type": "Body"
     },
     {
-      "value": "Pipe",
+      "value": "Big Nose",
       "trait_type": "Accessory"
     }
   ]

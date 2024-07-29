@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "Joint",
       "trait_type": "Arm"
     },
     {
-      "value": "Punisher",
+      "value": "Boredemon",
       "trait_type": "Body"
     },
     {
-      "value": "Space Helmet",
+      "value": "Goku Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Aviator Glass",
       "trait_type": "Accessory"
     }
   ]

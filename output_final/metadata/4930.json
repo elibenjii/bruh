@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Angry",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Fingers Gun",
+      "value": "",
       "trait_type": "Arm"
     },
     {
-      "value": "Moon Latex",
+      "value": "Cozy Sweater",
       "trait_type": "Body"
     },
     {
-      "value": "Yellow Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Nose Piercing",
+      "value": "John Wick Hair",
       "trait_type": "Accessory"
     }
   ]

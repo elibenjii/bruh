@@ -6,7 +6,7 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stoic",
+      "value": "Hallucinate",
       "trait_type": "Head"
     },
     {
@@ -14,11 +14,11 @@
       "trait_type": "Arm"
     },
     {
-      "value": "Red Jungle",
+      "value": "Green Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Hell Boy Horn",
+      "value": "Croco Hood",
       "trait_type": "Accessory"
     }
   ]

@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "3 Day Beard",
       "trait_type": "Head"
     },
     {
-      "value": "Chicken BBQ",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Ice Armor",
+      "value": "Terrorist",
       "trait_type": "Body"
     },
     {
-      "value": "Army Helmet",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Gray Aviator Glass",
+      "value": "Boxing Headgear",
       "trait_type": "Accessory"
     }
   ]

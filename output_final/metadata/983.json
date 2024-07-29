@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Wut?",
+      "value": "Hehe",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Lucille Bat",
       "trait_type": "Arm"
     },
     {
-      "value": "Abibas",
+      "value": "Futuristic Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Ski Glass",
+      "value": "Smol Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Glass",
       "trait_type": "Accessory"
     }
   ]

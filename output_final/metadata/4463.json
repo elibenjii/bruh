@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Stone",
+      "value": "What?",
       "trait_type": "Head"
     },
     {
-      "value": "Alien Ice Cream",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Space Suit",
+      "value": "Alien Brand",
       "trait_type": "Body"
     },
     {
-      "value": "Black Aviator Glass",
+      "value": "Peaked Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Gray Glass",
       "trait_type": "Accessory"
     }
   ]

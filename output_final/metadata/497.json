@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Euphoric",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Pork BBQ",
+      "value": "Chainsaw",
       "trait_type": "Arm"
     },
     {
-      "value": "Cyberpunk",
+      "value": "Terrorist",
       "trait_type": "Body"
-    },
-    {
-      "value": "Dreadlocks",
-      "trait_type": "Accessory"
     }
   ]
 }

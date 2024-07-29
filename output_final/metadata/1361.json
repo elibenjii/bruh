@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Wtf",
       "trait_type": "Head"
     },
     {
-      "value": "Retard Revolver",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Gentleman",
+      "value": "Toxic Bomber",
       "trait_type": "Body"
+    },
+    {
+      "value": "Army Helmet",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Pipe",
+      "trait_type": "Accessory"
     }
   ]
 }

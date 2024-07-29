@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Hot Dog",
+      "value": "Pork BBQ",
       "trait_type": "Arm"
     },
     {
-      "value": "White Lezards",
+      "value": "Black Armor",
       "trait_type": "Body"
-    },
-    {
-      "value": "Ski Glass",
-      "trait_type": "Accessory"
     }
   ]
 }

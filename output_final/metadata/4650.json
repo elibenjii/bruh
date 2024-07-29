@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Euphoric",
       "trait_type": "Head"
     },
     {
-      "value": "Shark Hoodie",
+      "value": "Pan",
       "trait_type": "Arm"
     },
     {
-      "value": "Shark Hoodie",
+      "value": "Hoodie Hacker",
       "trait_type": "Body"
+    },
+    {
+      "value": "Kim Jong Un Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "IFKYK",
+      "value": "Smart",
       "trait_type": "Head"
     },
     {
-      "value": "Pan",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic Black",
+      "value": "Mario",
       "trait_type": "Body"
+    },
+    {
+      "value": "Mushroom Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mustacho",
+      "trait_type": "Accessory"
     }
   ]
 }

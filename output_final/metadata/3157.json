@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Focusing",
       "trait_type": "Head"
     },
     {
-      "value": "Bong Gun",
+      "value": "Bazooka",
       "trait_type": "Arm"
     },
     {
-      "value": "Alien Brand",
+      "value": "Bomber",
       "trait_type": "Body"
     },
     {
-      "value": "Bandana",
+      "value": "Bob",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nose Piercing",
       "trait_type": "Accessory"
     }
   ]

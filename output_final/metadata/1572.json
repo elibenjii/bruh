@@ -6,16 +6,20 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Retarded",
       "trait_type": "Head"
     },
     {
-      "value": "Chicken BBQ",
+      "value": "Fingers Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Black Jungle",
+      "value": "Black Gentleman",
       "trait_type": "Body"
+    },
+    {
+      "value": "White Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

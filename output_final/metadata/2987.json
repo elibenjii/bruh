@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Rage",
+      "value": "Sleepy",
       "trait_type": "Head"
     },
     {
-      "value": "Tatoo",
+      "value": "Angry Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Ironman",
+      "value": "Space Suit",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pilot Helmet",
-      "trait_type": "Accessory"
     }
   ]
 }

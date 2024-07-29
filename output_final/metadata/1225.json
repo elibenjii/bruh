@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "What?",
+      "value": "Stone",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Agent Pepe Pistol",
       "trait_type": "Arm"
     },
     {
-      "value": "Rambo Ammo",
+      "value": "Black Suit",
       "trait_type": "Body"
     },
     {
-      "value": "Balaclava",
+      "value": "Croco Hood",
       "trait_type": "Accessory"
     }
   ]

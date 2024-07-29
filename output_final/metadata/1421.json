@@ -6,19 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Sleepy",
+      "value": "Very Angry",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Special Force",
+      "value": "Chilling",
       "trait_type": "Body"
     },
     {
-      "value": "Bicycle Helmet",
+      "value": "Space Helmet",
       "trait_type": "Accessory"
     }
   ]

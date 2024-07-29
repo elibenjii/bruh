@@ -6,16 +6,24 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Not Sure",
+      "value": "Thinking",
       "trait_type": "Head"
     },
     {
-      "value": "Tatoo",
+      "value": "Gatling Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Chilling",
+      "value": "Shaolin Shirt",
       "trait_type": "Body"
+    },
+    {
+      "value": "Reversed Cap",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Black Aviator Glass",
+      "trait_type": "Accessory"
     }
   ]
 }

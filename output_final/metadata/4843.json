@@ -6,23 +6,19 @@
   "stats": [],
   "attributes": [
     {
-      "value": "3 Day Beard",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "Steampunk Axe",
+      "value": "Cute Revolver",
       "trait_type": "Arm"
     },
     {
-      "value": "Gray Shirt",
+      "value": "Shaolin Shirt",
       "trait_type": "Body"
     },
     {
-      "value": "Hobbo Hat",
-      "trait_type": "Accessory"
-    },
-    {
-      "value": "Ski Glass",
+      "value": "Ghetto Cap",
       "trait_type": "Accessory"
     }
   ]

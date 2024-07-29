@@ -6,20 +6,16 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Smart",
+      "value": "Are You Sure?",
       "trait_type": "Head"
     },
     {
-      "value": "",
+      "value": "Hammer",
       "trait_type": "Arm"
     },
     {
-      "value": "Cozy Sweater",
+      "value": "Pikachu Hoodie",
       "trait_type": "Body"
-    },
-    {
-      "value": "Pepe Cap",
-      "trait_type": "Accessory"
     }
   ]
 }

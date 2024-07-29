@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Thinking",
+      "value": "Woke",
       "trait_type": "Head"
     },
     {
-      "value": "Dbz",
+      "value": "Bong Laser Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Dbz",
+      "value": "Punk Badass",
       "trait_type": "Body"
     },
     {
-      "value": "Pablo Escobar",
+      "value": "Woke Hair",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Scarf",
       "trait_type": "Accessory"
     }
   ]

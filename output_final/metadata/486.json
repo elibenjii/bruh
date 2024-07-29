@@ -6,19 +6,23 @@
   "stats": [],
   "attributes": [
     {
-      "value": "Retarded",
+      "value": "Feels Good",
       "trait_type": "Head"
     },
     {
-      "value": "Stop Joint",
+      "value": "Punching Gun",
       "trait_type": "Arm"
     },
     {
-      "value": "Pepe Classic White",
+      "value": "Ice Armor",
       "trait_type": "Body"
     },
     {
-      "value": "Boxing Headgear",
+      "value": "Balaclava",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Nerd Glass",
       "trait_type": "Accessory"
     }
   ]
